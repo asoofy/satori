@@ -1,0 +1,282 @@
+{
+  "source": "satori-original",
+  "license": "CC-BY-4.0",
+  "questions": [
+    {
+      "id": "rw-tsp-01",
+      "section": "RW",
+      "skill": "text-structure-purpose",
+      "difficulty": 1,
+      "type": "mcq",
+      "passage_md": "Honeybees communicate the location of flowers through a “waggle dance.” A returning bee moves in a figure-eight pattern, and the angle of the straight middle run tells other bees the direction of the food relative to the sun. The length of the run tells them how far away it is.",
+      "stem_md": "Which choice best describes the function of the second sentence in the overall structure of the text?",
+      "choices": [
+        "It questions whether the waggle dance actually communicates information.",
+        "It explains how one part of the waggle dance conveys the direction to food.",
+        "It compares the waggle dance to the behavior of other insects.",
+        "It describes where honeybees usually find flowers."
+      ],
+      "answer": "B",
+      "explanation_md": "The first sentence introduces the waggle dance; the second explains how the angle of the run gives direction. The third then adds distance.",
+      "distractor_notes": {
+        "A": "The text presents the dance as working; it raises no doubts.",
+        "C": "No other insects are mentioned.",
+        "D": "The sentence is about how bees communicate a location, not where flowers typically grow."
+      },
+      "tags": ["science"]
+    },
+    {
+      "id": "rw-tsp-02",
+      "section": "RW",
+      "skill": "text-structure-purpose",
+      "difficulty": 1,
+      "type": "mcq",
+      "passage_md": "Some people believe you should never wake a sleepwalker. In fact, waking a sleepwalker is not dangerous, although the person may feel confused for a moment. Sleep specialists often recommend gently guiding a sleepwalker back to bed, but if the person is in danger—near stairs, for example—waking them is perfectly safe.",
+      "stem_md": "Which choice best states the main purpose of the text?",
+      "choices": [
+        "To correct a common misconception about sleepwalkers",
+        "To explain why people sleepwalk",
+        "To argue that sleepwalking is a serious medical condition",
+        "To describe the history of sleep research"
+      ],
+      "answer": "A",
+      "explanation_md": "The text states a belief (“never wake a sleepwalker”) and then corrects it (“In fact, waking a sleepwalker is not dangerous”). Its purpose is to correct that misconception.",
+      "distractor_notes": {
+        "B": "The causes of sleepwalking are never discussed.",
+        "C": "The text doesn’t discuss how serious sleepwalking is.",
+        "D": "There is no history of sleep research in the text."
+      },
+      "tags": ["science"]
+    },
+    {
+      "id": "rw-tsp-03",
+      "section": "RW",
+      "skill": "text-structure-purpose",
+      "difficulty": 1,
+      "type": "mcq",
+      "passage_md": "The following text is from a story. Nadia is waiting for the results of a science fair.\n\nNadia smoothed the edge of her poster for the tenth time. Across the gym, the judges bent over a table, whispering. One of them glanced her way, then quickly looked back down at his clipboard. She folded her hands, unfolded them, and folded them again.",
+      "stem_md": "Which choice best states the main purpose of the text?",
+      "choices": [
+        "To describe the rules of the science fair",
+        "To show Nadia’s nervousness as she waits for the judges’ decision",
+        "To explain what Nadia’s science project was about",
+        "To criticize the judges for being unfair"
+      ],
+      "answer": "B",
+      "explanation_md": "Repeated small actions—smoothing the poster “for the tenth time,” folding and unfolding her hands—show anxiety while she waits. The passage is built to convey her nervousness.",
+      "distractor_notes": {
+        "A": "No rules are described.",
+        "C": "The content of her project is never mentioned.",
+        "D": "The judges whisper and glance over, but nothing suggests they are unfair."
+      },
+      "tags": ["literature"]
+    },
+    {
+      "id": "rw-tsp-04",
+      "section": "RW",
+      "skill": "text-structure-purpose",
+      "difficulty": 1,
+      "type": "mcq",
+      "passage_md": "Many cities are replacing old streetlights with LED lamps. LEDs use about half as much electricity as the lamps they replace and last several times longer, so cities save on both energy and maintenance. However, some residents have complained that the new lights are harsher and bluer, and several cities have responded by choosing LEDs with a warmer color.",
+      "stem_md": "Which choice best describes the overall structure of the text?",
+      "choices": [
+        "It describes a change, explains its benefits, and then notes a drawback and how some cities addressed it.",
+        "It presents a problem and argues that it cannot be solved.",
+        "It compares two cities’ approaches to street lighting.",
+        "It explains how LED lamps are manufactured."
+      ],
+      "answer": "A",
+      "explanation_md": "The text introduces the switch to LEDs, gives benefits (energy, maintenance), and then turns with “However” to a complaint and the response (warmer LEDs). Choice A follows that order.",
+      "distractor_notes": {
+        "B": "The drawback is addressed by choosing warmer LEDs, so it isn’t presented as unsolvable.",
+        "C": "No specific cities are compared.",
+        "D": "Manufacturing isn’t discussed."
+      },
+      "tags": ["social science"]
+    },
+    {
+      "id": "rw-tsp-05",
+      "section": "RW",
+      "skill": "text-structure-purpose",
+      "difficulty": 2,
+      "type": "mcq",
+      "passage_md": "For years, researchers believed that the loud calls of howler monkeys served mainly to attract mates. Primatologist Lucía Ortega noticed, however, that groups often called at dawn, when no potential mates were nearby, and that neighboring groups answered one another. Ortega now argues that the calls function primarily to announce each group’s location, helping groups avoid costly fights over territory.",
+      "stem_md": "Which choice best describes the overall structure of the text?",
+      "choices": [
+        "It presents an earlier view, describes observations that challenge it, and then gives a new explanation.",
+        "It describes an experiment and then lists several of its flaws.",
+        "It compares howler monkeys with several other primate species.",
+        "It explains how howler monkeys produce such loud calls."
+      ],
+      "answer": "A",
+      "explanation_md": "The text moves from the old belief (attracting mates), to Ortega’s observations that don’t fit (dawn calls, answering groups), to her new explanation (announcing location). Choice A describes that sequence.",
+      "distractor_notes": {
+        "B": "Ortega makes observations rather than running an experiment, and no flaws are listed.",
+        "C": "No other species are discussed.",
+        "D": "How the calls are produced physically is never addressed."
+      },
+      "tags": ["science"]
+    },
+    {
+      "id": "rw-tsp-06",
+      "section": "RW",
+      "skill": "text-structure-purpose",
+      "difficulty": 2,
+      "type": "mcq",
+      "passage_md": "The following text is from a story.\n\nThe house on Calloway Road had been empty for eleven years. Ivy had crept through the broken porch screen and up the banister inside. A calendar in the kitchen still showed March, and on the table sat two teacups, one of them half full, as if whoever lived there had stepped out for a moment and simply never come back.",
+      "stem_md": "Which choice best describes the function of the final sentence in the overall structure of the text?",
+      "choices": [
+        "It explains why the owners left the house.",
+        "It introduces the main character of the story.",
+        "It uses specific details to suggest that the house was abandoned suddenly.",
+        "It describes the house’s appearance when it was first built."
+      ],
+      "answer": "C",
+      "explanation_md": "A calendar stuck on one month and a half-full teacup suggest that people left in the middle of everyday life. The final sentence creates a sense of sudden abandonment without explaining it.",
+      "distractor_notes": {
+        "A": "The text only hints that the departure was sudden; it never says why.",
+        "B": "No character is introduced; the focus is the house.",
+        "D": "The details show the house after eleven years of neglect, not when it was new."
+      },
+      "tags": ["literature"]
+    },
+    {
+      "id": "rw-tsp-07",
+      "section": "RW",
+      "skill": "text-structure-purpose",
+      "difficulty": 2,
+      "type": "mcq",
+      "passage_md": "Economists generally agree that tariffs—taxes on imported goods—raise prices for consumers. A tariff on imported steel, for example, lets domestic steelmakers raise their prices too, since they face less competition. Supporters of such tariffs argue that protecting domestic industries preserves jobs, but studies of past steel tariffs have found that job losses in industries that *use* steel, such as car manufacturing, often outnumbered the jobs saved in steelmaking.",
+      "stem_md": "Which choice best describes the function of the third sentence in the overall structure of the text?",
+      "choices": [
+        "It introduces an argument for tariffs and then presents evidence that complicates it.",
+        "It defines the term “tariff” for readers unfamiliar with economics.",
+        "It gives an example of how tariffs raise consumer prices.",
+        "It explains why economists disagree about the effects of tariffs on prices."
+      ],
+      "answer": "A",
+      "explanation_md": "The third sentence states the supporters’ argument (tariffs preserve jobs), then turns with “but” to studies showing larger job losses elsewhere. It presents an argument and evidence that challenges it.",
+      "distractor_notes": {
+        "B": "The first sentence defines “tariff.”",
+        "C": "The second sentence gives the price example.",
+        "D": "The text says economists “generally agree” about prices, so it isn’t explaining a disagreement."
+      },
+      "tags": ["social science", "economics"]
+    },
+    {
+      "id": "rw-tsp-08",
+      "section": "RW",
+      "skill": "text-structure-purpose",
+      "difficulty": 2,
+      "type": "mcq",
+      "passage_md": "Sculptor Ayumi Hayashi builds large figures entirely from driftwood collected along a single stretch of coastline. She refuses to cut or carve the wood, instead choosing each piece for its natural curve. Critics have noted that this limitation makes her work slow—a single figure can take a year—but Hayashi says the constraint is the point: the ocean, not the artist, determines each sculpture’s final shape.",
+      "stem_md": "Which choice best states the main purpose of the text?",
+      "choices": [
+        "To argue that driftwood is the best material for sculpture",
+        "To describe an artist’s unusual method and her reason for using it",
+        "To criticize an artist for working too slowly",
+        "To explain how ocean currents move driftwood along a coastline"
+      ],
+      "answer": "B",
+      "explanation_md": "The text describes Hayashi’s method (uncut driftwood from one coastline), mentions critics’ concern about speed, and gives her reason (letting the ocean shape the work). Choice B covers this.",
+      "distractor_notes": {
+        "A": "The text never claims driftwood is better than other materials.",
+        "C": "Critics’ concern is mentioned, but the text goes on to give Hayashi’s explanation rather than criticizing her.",
+        "D": "Ocean currents aren’t explained."
+      },
+      "tags": ["humanities", "art"]
+    },
+    {
+      "id": "rw-tsp-09",
+      "section": "RW",
+      "skill": "text-structure-purpose",
+      "difficulty": 3,
+      "type": "mcq",
+      "passage_md": "The following text is from an essay written for this collection in the style of the 1850s.\n\nWe are told that the railway has annihilated distance, and so it has; the journey of a week is now the work of a day. But distance was never merely an obstacle. It was also a measure—of effort, of anticipation, of the worth of arriving. When every town is a day from every other, I wonder whether any of them will seem worth the trip.",
+      "stem_md": "Which choice best states the main purpose of the text?",
+      "choices": [
+        "To celebrate the railway for making travel faster",
+        "To describe the technical improvements that made railways faster",
+        "To reflect on what might be lost when travel becomes easy",
+        "To argue that railways should not be built between towns"
+      ],
+      "answer": "C",
+      "explanation_md": "The writer grants that the railway speeds travel, then argues that distance gave arrival its value and wonders whether easy travel will make places seem less worth visiting. The essay is a reflection on what might be lost.",
+      "distractor_notes": {
+        "A": "The writer acknowledges the speed but questions its consequences instead of celebrating it.",
+        "B": "No technical details are given.",
+        "D": "The writer muses about a loss but never calls for stopping construction."
+      },
+      "tags": ["humanities"]
+    },
+    {
+      "id": "rw-tsp-10",
+      "section": "RW",
+      "skill": "text-structure-purpose",
+      "difficulty": 3,
+      "type": "mcq",
+      "passage_md": "Planetary scientists long assumed that Mars’s two small moons, Phobos and Deimos, were asteroids captured by the planet’s gravity; their dark, lumpy appearance resembles that of many asteroids. Yet captured objects tend to follow tilted, elongated orbits, while both moons circle close to Mars’s equator in nearly perfect circles. This has led some researchers to propose that the moons instead formed from debris thrown up when a large object struck Mars.",
+      "stem_md": "Which choice best describes the function of the underlined portion in the second sentence (“while both moons circle close to Mars’s equator in nearly perfect circles”) in the text as a whole?",
+      "choices": [
+        "It provides an observation that is difficult to reconcile with the capture explanation.",
+        "It supports the idea that the moons resemble asteroids.",
+        "It describes the impact that some researchers think formed the moons.",
+        "It explains why the moons appear dark and lumpy."
+      ],
+      "answer": "A",
+      "explanation_md": "Captured objects usually have tilted, elongated orbits, but these moons have circular, equatorial ones. That mismatch is the problem for the capture explanation, and it motivates the impact alternative.",
+      "distractor_notes": {
+        "B": "Their appearance is covered in the first sentence; the orbits are evidence against the capture explanation.",
+        "C": "The impact is described in the third sentence.",
+        "D": "The moons’ appearance isn’t explained here."
+      },
+      "tags": ["science"]
+    },
+    {
+      "id": "rw-tsp-11",
+      "section": "RW",
+      "skill": "text-structure-purpose",
+      "difficulty": 3,
+      "type": "mcq",
+      "passage_md": "The following text is from a story.\n\nGrandfather’s workshop smelled of sawdust and linseed oil. On the wall hung dozens of tools, each outlined in black paint so that a missing one would be noticed at once. Only one outline was empty—a small chisel—and it had been empty, my mother said, since the winter my uncle left home.",
+      "stem_md": "Which choice best describes the function of the final sentence in the overall structure of the text?",
+      "choices": [
+        "It explains how Grandfather organized his tools.",
+        "It suggests that the missing tool is connected to a family loss that has not been forgotten.",
+        "It describes the kinds of projects Grandfather built in his workshop.",
+        "It shows that Grandfather was careless with his belongings."
+      ],
+      "answer": "B",
+      "explanation_md": "The organizing system (painted outlines) is established earlier. The last sentence connects the one missing chisel to the uncle’s leaving, and the fact that the outline has stayed empty hints at a loss the family still feels.",
+      "distractor_notes": {
+        "A": "The organizing system is explained in the second sentence.",
+        "C": "No projects are described.",
+        "D": "The outlines show that Grandfather was meticulous, and the one empty outline carries emotional weight rather than showing carelessness."
+      },
+      "tags": ["literature"]
+    },
+    {
+      "id": "rw-tsp-12",
+      "section": "RW",
+      "skill": "text-structure-purpose",
+      "difficulty": 3,
+      "type": "mcq",
+      "passage_md": "Many studies of workplace productivity measure output per hour, which makes it easy to compare workers. Sociologist Femi Adeyemi argues that this measure systematically overlooks work that prevents problems—like a nurse who catches a medication error or an engineer who redesigns a part so it never fails. Such work leaves no visible output; its success is precisely that nothing happens.",
+      "stem_md": "Which choice best states the main purpose of the text?",
+      "choices": [
+        "To explain why output per hour is the best measure of productivity",
+        "To present an argument that a common measure of productivity misses an important kind of work",
+        "To compare the productivity of nurses and engineers",
+        "To describe how medication errors are usually caught"
+      ],
+      "answer": "B",
+      "explanation_md": "The text introduces a common measure (output per hour) and presents Adeyemi’s argument that it overlooks preventive work, whose success leaves no visible output.",
+      "distractor_notes": {
+        "A": "The text notes that the measure is convenient, then criticizes it.",
+        "C": "Nurses and engineers are examples of preventive work, not subjects of a comparison.",
+        "D": "The medication error is only an example."
+      },
+      "tags": ["social science"]
+    }
+  ]
+}

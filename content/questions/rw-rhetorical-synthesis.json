@@ -1,0 +1,282 @@
+{
+  "source": "satori-original",
+  "license": "CC-BY-4.0",
+  "questions": [
+    {
+      "id": "rw-rs-01",
+      "section": "RW",
+      "skill": "rhetorical-synthesis",
+      "difficulty": 1,
+      "type": "mcq",
+      "passage_md": "While researching a topic, a student has taken the following notes:\n\n- The Great Wall of China is a series of fortifications built over many centuries.\n- Its total length, including all branches, is about 21,000 kilometers.\n- Much of the best-preserved section was built during the Ming dynasty (1368–1644).",
+      "stem_md": "The student wants to emphasize the wall’s length. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "choices": [
+        "The Great Wall of China was built over many centuries.",
+        "Including all its branches, the Great Wall of China stretches about 21,000 kilometers.",
+        "Much of the Great Wall’s best-preserved section dates from the Ming dynasty.",
+        "The Ming dynasty ruled China from 1368 to 1644."
+      ],
+      "answer": "B",
+      "explanation_md": "The goal is to emphasize length, and only choice B gives the wall’s length (about 21,000 km).",
+      "distractor_notes": {
+        "A": "This is about construction time, not length.",
+        "C": "This is about the best-preserved section, not length.",
+        "D": "This gives the dynasty’s dates, not the wall’s length."
+      },
+      "tags": ["notes"]
+    },
+    {
+      "id": "rw-rs-02",
+      "section": "RW",
+      "skill": "rhetorical-synthesis",
+      "difficulty": 1,
+      "type": "mcq",
+      "passage_md": "While researching a topic, a student has taken the following notes:\n\n- Sea otters use rocks as tools.\n- An otter floats on its back, places a rock on its chest, and strikes shellfish against it to crack them open.\n- Some otters keep a favorite rock in a pouch of skin under their forearm.",
+      "stem_md": "The student wants to explain how sea otters use rocks to open shellfish. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "choices": [
+        "Sea otters are among the animals known to use tools.",
+        "Some sea otters keep a favorite rock in a pouch under their forearm.",
+        "Floating on its back, a sea otter places a rock on its chest and strikes shellfish against it until they crack open.",
+        "Sea otters often float on their backs."
+      ],
+      "answer": "C",
+      "explanation_md": "The goal is to explain *how* otters open shellfish. Choice C describes the process step by step.",
+      "distractor_notes": {
+        "A": "This says otters use tools but not how.",
+        "B": "This describes where an otter keeps a rock, not how it uses it.",
+        "D": "This leaves out the rock and the shellfish."
+      },
+      "tags": ["notes"]
+    },
+    {
+      "id": "rw-rs-03",
+      "section": "RW",
+      "skill": "rhetorical-synthesis",
+      "difficulty": 1,
+      "type": "mcq",
+      "passage_md": "While researching a topic, a student has taken the following notes:\n\n- Mercury is the planet closest to the Sun.\n- Neptune is the planet farthest from the Sun.\n- Mercury completes an orbit in 88 Earth days.\n- Neptune completes an orbit in about 165 Earth years.",
+      "stem_md": "The student wants to contrast the orbital periods of the two planets. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "choices": [
+        "Mercury is the closest planet to the Sun, and Neptune is the farthest.",
+        "Neptune takes about 165 Earth years to orbit the Sun.",
+        "Both Mercury and Neptune orbit the Sun.",
+        "While Mercury orbits the Sun in just 88 Earth days, Neptune takes about 165 Earth years."
+      ],
+      "answer": "D",
+      "explanation_md": "To contrast orbital periods, you need both periods set against each other. Choice D gives both and uses “While” to mark the contrast.",
+      "distractor_notes": {
+        "A": "This contrasts distance from the Sun, not orbital period.",
+        "B": "This gives only one planet’s period.",
+        "C": "This notes a similarity instead of a contrast."
+      },
+      "tags": ["notes"]
+    },
+    {
+      "id": "rw-rs-04",
+      "section": "RW",
+      "skill": "rhetorical-synthesis",
+      "difficulty": 1,
+      "type": "mcq",
+      "passage_md": "While researching a topic, a student has taken the following notes:\n\n- *Frankenstein* is a novel by Mary Shelley.\n- It was first published in 1818.\n- Shelley began writing it when she was 18 years old.\n- It is often called one of the first science fiction novels.",
+      "stem_md": "The student wants to introduce the novel to an audience unfamiliar with it. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "choices": [
+        "Shelley began writing it when she was 18.",
+        "Mary Shelley’s *Frankenstein*, first published in 1818, is often called one of the first science fiction novels.",
+        "It was first published in 1818.",
+        "Science fiction is a popular genre today."
+      ],
+      "answer": "B",
+      "explanation_md": "An introduction for newcomers should name the work and its author and say what it is. Choice B gives the title, author, date, and its significance.",
+      "distractor_notes": {
+        "A": "“It” assumes the reader already knows which novel is meant, and the novel isn’t named.",
+        "C": "This doesn’t name the novel or its author.",
+        "D": "This doesn’t mention the novel at all."
+      },
+      "tags": ["notes"]
+    },
+    {
+      "id": "rw-rs-05",
+      "section": "RW",
+      "skill": "rhetorical-synthesis",
+      "difficulty": 2,
+      "type": "mcq",
+      "passage_md": "While researching a topic, a student has taken the following notes:\n\n- The axolotl is a salamander native to lakes near Mexico City.\n- Unlike most salamanders, it keeps its gills and lives in water its whole life.\n- Axolotls can regrow lost limbs, parts of their hearts, and even parts of their brains.\n- Scientists study axolotls to learn about tissue regeneration.",
+      "stem_md": "The student wants to explain why scientists are interested in axolotls. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "choices": [
+        "The axolotl is a salamander native to lakes near Mexico City.",
+        "Unlike most salamanders, the axolotl keeps its gills its whole life.",
+        "Because axolotls can regrow limbs and even parts of their hearts and brains, scientists study them to learn about tissue regeneration.",
+        "Axolotls live in water their whole lives."
+      ],
+      "answer": "C",
+      "explanation_md": "The goal is the *reason* for scientists’ interest. Choice C links the axolotl’s regrowth abilities to research on regeneration.",
+      "distractor_notes": {
+        "A": "This gives the axolotl’s habitat, not scientists’ interest.",
+        "B": "This is an interesting trait, but the notes don’t connect it to research.",
+        "D": "This is about habitat, not research."
+      },
+      "tags": ["notes", "science"]
+    },
+    {
+      "id": "rw-rs-06",
+      "section": "RW",
+      "skill": "rhetorical-synthesis",
+      "difficulty": 2,
+      "type": "mcq",
+      "passage_md": "While researching a topic, a student has taken the following notes:\n\n- Two bridges cross the Arlo River in the town of Westmere.\n- The Stone Bridge was built in 1847 and is 40 meters long.\n- The Harbor Bridge was built in 1998 and is 310 meters long.\n- The Harbor Bridge carries four lanes of traffic; the Stone Bridge is open only to pedestrians.",
+      "stem_md": "The student wants to emphasize a difference in how the two bridges are used. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "choices": [
+        "The Stone Bridge was built in 1847, while the Harbor Bridge was built in 1998.",
+        "The Harbor Bridge, at 310 meters, is much longer than the 40-meter Stone Bridge.",
+        "Westmere’s Harbor Bridge carries four lanes of traffic, whereas its older Stone Bridge is open only to pedestrians.",
+        "Both bridges cross the Arlo River in Westmere."
+      ],
+      "answer": "C",
+      "explanation_md": "“How the bridges are used” means traffic versus pedestrians. Choice C contrasts exactly that.",
+      "distractor_notes": {
+        "A": "This contrasts when they were built, not how they’re used.",
+        "B": "This contrasts length, not use.",
+        "D": "This is a similarity, not a difference."
+      },
+      "tags": ["notes"]
+    },
+    {
+      "id": "rw-rs-07",
+      "section": "RW",
+      "skill": "rhetorical-synthesis",
+      "difficulty": 2,
+      "type": "mcq",
+      "passage_md": "While researching a topic, a student has taken the following notes:\n\n- Composer Ines Varga wrote a symphony based on recordings of her hometown.\n- She recorded church bells, market vendors, and the sound of a nearby river.\n- The orchestra imitates these sounds with instruments.\n- The symphony premiered in 2019 and was performed in twelve countries by 2023.",
+      "stem_md": "The student wants to describe the symphony’s source material. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "choices": [
+        "Ines Varga’s symphony premiered in 2019.",
+        "By 2023, Varga’s symphony had been performed in twelve countries.",
+        "Varga’s symphony is performed by an orchestra.",
+        "Varga based her symphony on recordings of her hometown’s church bells, market vendors, and river."
+      ],
+      "answer": "D",
+      "explanation_md": "“Source material” is what the symphony was based on. Choice D names the hometown recordings and what they captured.",
+      "distractor_notes": {
+        "A": "This gives the premiere date, not the source material.",
+        "B": "This describes the symphony’s reception, not its source.",
+        "C": "This is too general and doesn’t mention the source material."
+      },
+      "tags": ["notes"]
+    },
+    {
+      "id": "rw-rs-08",
+      "section": "RW",
+      "skill": "rhetorical-synthesis",
+      "difficulty": 2,
+      "type": "mcq",
+      "passage_md": "While researching a topic, a student has taken the following notes:\n\n- Researchers tested a new kind of solar panel in two cities.\n- In Phoenix, the panels produced 22% more electricity than standard panels.\n- In Seattle, they produced 9% more electricity than standard panels.\n- The new panels capture more light on cloudy days, but Phoenix has far more sunny days.",
+      "stem_md": "The student wants to present the study’s overall finding. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "choices": [
+        "The new solar panels outperformed standard panels in both cities tested, producing 22% more electricity in Phoenix and 9% more in Seattle.",
+        "Phoenix has more sunny days than Seattle does.",
+        "Researchers tested solar panels in Phoenix.",
+        "Standard solar panels capture less light on cloudy days."
+      ],
+      "answer": "A",
+      "explanation_md": "The overall finding is that the new panels beat standard panels in both cities. Choice A states that and gives the numbers.",
+      "distractor_notes": {
+        "B": "This is background about the cities, not the finding.",
+        "C": "This mentions only one city and gives no result.",
+        "D": "This is an inference about standard panels, not the study’s finding."
+      },
+      "tags": ["notes"]
+    },
+    {
+      "id": "rw-rs-09",
+      "section": "RW",
+      "skill": "rhetorical-synthesis",
+      "difficulty": 3,
+      "type": "mcq",
+      "passage_md": "While researching a topic, a student has taken the following notes:\n\n- Tardigrades are microscopic animals about 0.5 millimeters long.\n- They can survive being dried out for years by entering a state called cryptobiosis.\n- In cryptobiosis, their metabolism drops to less than 0.01% of normal.\n- Researchers have revived tardigrades that were dried out for over ten years.\n- Scientists hope to use similar methods to preserve vaccines without refrigeration.",
+      "stem_md": "The student wants to explain a practical application of research on tardigrades. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "choices": [
+        "Tardigrades, microscopic animals about 0.5 millimeters long, can survive being dried out for years.",
+        "Researchers have revived tardigrades that were dried out for more than a decade.",
+        "Because tardigrades survive drying by slowing their metabolism almost to a stop, scientists hope similar methods could let vaccines be stored without refrigeration.",
+        "In cryptobiosis, a tardigrade’s metabolism falls to less than 0.01% of normal."
+      ],
+      "answer": "C",
+      "explanation_md": "A “practical application” means a real-world use. Only choice C mentions one—storing vaccines without refrigeration—and it connects that use to how tardigrades survive.",
+      "distractor_notes": {
+        "A": "This describes the animal and its ability, with no application.",
+        "B": "This is a research result, not an application.",
+        "D": "This explains the mechanism but not how people might use it."
+      },
+      "tags": ["notes", "science"]
+    },
+    {
+      "id": "rw-rs-10",
+      "section": "RW",
+      "skill": "rhetorical-synthesis",
+      "difficulty": 3,
+      "type": "mcq",
+      "passage_md": "While researching a topic, a student has taken the following notes:\n\n- The Voynich manuscript is a handwritten book dated to the early 1400s.\n- It is written in an unknown script that no one has deciphered.\n- It contains drawings of plants that don’t match any known species.\n- Some researchers think the text encodes a real language; others think it is meaningless.",
+      "stem_md": "The student wants to emphasize the uncertainty surrounding the manuscript. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "choices": [
+        "The Voynich manuscript is a handwritten book from the early 1400s.",
+        "The Voynich manuscript contains many drawings of plants.",
+        "Written in an undeciphered script and illustrated with unidentifiable plants, the Voynich manuscript has left researchers divided over whether its text means anything at all.",
+        "Some researchers believe that the Voynich manuscript encodes a real language."
+      ],
+      "answer": "C",
+      "explanation_md": "Choice C brings together three sources of uncertainty from the notes: the undeciphered script, the unidentifiable plants, and the researchers’ disagreement.",
+      "distractor_notes": {
+        "A": "This gives the manuscript’s date, with no uncertainty.",
+        "B": "This mentions the drawings but not that the plants can’t be identified.",
+        "D": "This gives only one side of the debate, so the uncertainty isn’t clear."
+      },
+      "tags": ["notes", "history"]
+    },
+    {
+      "id": "rw-rs-11",
+      "section": "RW",
+      "skill": "rhetorical-synthesis",
+      "difficulty": 3,
+      "type": "mcq",
+      "passage_md": "While researching a topic, a student has taken the following notes:\n\n- In 2021, the town of Brookfield replaced its lawn-mowing schedule in parks with “no-mow” zones.\n- Within two years, bee species counted in the parks rose from 14 to 31.\n- The town also saved about \\$40,000 a year on mowing.\n- Some residents complained that the parks looked untidy.\n- The town added signs explaining the purpose of the zones.",
+      "stem_md": "The student wants to present Brookfield’s program as a success while acknowledging a concern. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "choices": [
+        "Brookfield’s no-mow zones more than doubled the number of bee species in its parks and saved about \\$40,000 a year, though some residents complained that the parks looked untidy.",
+        "Some Brookfield residents complained that the town’s parks looked untidy.",
+        "In 2021, Brookfield replaced its lawn-mowing schedule with no-mow zones.",
+        "The number of bee species in Brookfield’s parks rose from 14 to 31 in two years."
+      ],
+      "answer": "A",
+      "explanation_md": "The goal has two parts: show success and acknowledge a concern. Choice A gives the successes (more bee species, savings) and the complaint.",
+      "distractor_notes": {
+        "B": "This gives only the concern.",
+        "C": "This describes the program without saying whether it succeeded.",
+        "D": "This shows success but leaves out the concern."
+      },
+      "tags": ["notes"]
+    },
+    {
+      "id": "rw-rs-12",
+      "section": "RW",
+      "skill": "rhetorical-synthesis",
+      "difficulty": 3,
+      "type": "mcq",
+      "passage_md": "While researching a topic, a student has taken the following notes:\n\n- Printmaker Kenji Mori and painter Elena Ruiz both depicted the same mountain.\n- Mori made 36 woodblock prints of it, each from a different viewpoint.\n- Ruiz painted it 36 times from the same window, in different seasons and light.\n- Both series were exhibited together in 2022.",
+      "stem_md": "The student wants to emphasize a difference in the two artists’ approaches. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "choices": [
+        "Both Mori and Ruiz made 36 images of the same mountain.",
+        "Mori’s prints and Ruiz’s paintings were exhibited together in 2022.",
+        "Mori made 36 woodblock prints of the mountain, each from a different viewpoint.",
+        "Whereas Mori varied his viewpoint, showing the mountain from 36 different places, Ruiz kept hers fixed, painting it from one window as the seasons and light changed."
+      ],
+      "answer": "D",
+      "explanation_md": "Choice D contrasts their *approaches*: Mori changed where he stood, while Ruiz stayed in one place and let time and light change. That is the key difference in method.",
+      "distractor_notes": {
+        "A": "This is a similarity.",
+        "B": "This is a fact about the exhibition, not their approaches.",
+        "C": "This describes only Mori’s approach, so there’s no contrast with Ruiz."
+      },
+      "tags": ["notes", "art"]
+    }
+  ]
+}

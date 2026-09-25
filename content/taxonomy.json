@@ -1,0 +1,84 @@
+{
+  "RW": [
+    {
+      "id": "information-ideas",
+      "name": "Information and Ideas",
+      "skills": [
+        { "id": "central-ideas", "name": "Central Ideas and Details" },
+        { "id": "command-evidence-textual", "name": "Command of Evidence: Textual" },
+        { "id": "command-evidence-quantitative", "name": "Command of Evidence: Quantitative" },
+        { "id": "inferences", "name": "Inferences" }
+      ]
+    },
+    {
+      "id": "craft-structure",
+      "name": "Craft and Structure",
+      "skills": [
+        { "id": "words-in-context", "name": "Words in Context" },
+        { "id": "text-structure-purpose", "name": "Text Structure and Purpose" },
+        { "id": "cross-text-connections", "name": "Cross-Text Connections" }
+      ]
+    },
+    {
+      "id": "expression-ideas",
+      "name": "Expression of Ideas",
+      "skills": [
+        { "id": "rhetorical-synthesis", "name": "Rhetorical Synthesis" },
+        { "id": "transitions", "name": "Transitions" }
+      ]
+    },
+    {
+      "id": "conventions",
+      "name": "Standard English Conventions",
+      "skills": [
+        { "id": "boundaries", "name": "Boundaries" },
+        { "id": "form-structure-sense", "name": "Form, Structure, and Sense" }
+      ]
+    }
+  ],
+  "MATH": [
+    {
+      "id": "algebra",
+      "name": "Algebra",
+      "skills": [
+        { "id": "linear-equations-one-var", "name": "Linear equations in one variable" },
+        { "id": "linear-functions", "name": "Linear functions" },
+        { "id": "linear-equations-two-var", "name": "Linear equations in two variables" },
+        { "id": "systems-linear", "name": "Systems of two linear equations in two variables" },
+        { "id": "linear-inequalities", "name": "Linear inequalities in one or two variables" }
+      ]
+    },
+    {
+      "id": "advanced-math",
+      "name": "Advanced Math",
+      "skills": [
+        { "id": "nonlinear-functions", "name": "Nonlinear functions" },
+        { "id": "nonlinear-equations", "name": "Nonlinear equations in one variable and systems of equations in two variables" },
+        { "id": "equivalent-expressions", "name": "Equivalent expressions" }
+      ]
+    },
+    {
+      "id": "psda",
+      "name": "Problem-Solving and Data Analysis",
+      "skills": [
+        { "id": "ratios-rates-units", "name": "Ratios, rates, proportional relationships, and units" },
+        { "id": "percentages", "name": "Percentages" },
+        { "id": "one-var-data", "name": "One-variable data: distributions and measures of center and spread" },
+        { "id": "two-var-data", "name": "Two-variable data: models and scatterplots" },
+        { "id": "probability", "name": "Probability and conditional probability" },
+        { "id": "sample-statistics", "name": "Inference from sample statistics and margin of error" },
+        { "id": "evaluating-claims", "name": "Evaluating statistical claims: observational studies and experiments" }
+      ]
+    },
+    {
+      "id": "geometry-trig",
+      "name": "Geometry and Trigonometry",
+      "skills": [
+        { "id": "area-volume", "name": "Area and volume" },
+        { "id": "lines-angles-triangles", "name": "Lines, angles, and triangles" },
+        { "id": "right-triangles-trig", "name": "Right triangles and trigonometry" },
+        { "id": "circles", "name": "Circles" }
+      ]
+    }
+  ]
+}

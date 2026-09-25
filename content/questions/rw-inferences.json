@@ -1,0 +1,282 @@
+{
+  "source": "satori-original",
+  "license": "CC-BY-4.0",
+  "questions": [
+    {
+      "id": "rw-inf-01",
+      "section": "RW",
+      "skill": "inferences",
+      "difficulty": 1,
+      "type": "mcq",
+      "passage_md": "Snowshoe hares change color with the seasons, growing white fur in winter and brown fur in summer. The change is triggered by day length, not by snowfall. In recent years, snow in some regions has arrived later in the fall and melted earlier in the spring, while day length has stayed the same. As a result, ______",
+      "stem_md": "Which choice most logically completes the text?",
+      "choices": [
+        "hares in these regions have started growing brown fur in winter.",
+        "hares in these regions may be white while the ground is still brown, which could make them easier for predators to spot.",
+        "hares in these regions no longer change color at all.",
+        "day length in these regions has begun to change along with the snowfall."
+      ],
+      "answer": "B",
+      "explanation_md": "Fur color follows day length, which hasn’t changed, while the snow season has shortened. So hares will turn white on schedule even when there’s no snow yet, leaving them mismatched with their background.",
+      "distractor_notes": {
+        "A": "Day length still triggers white fur in winter, so hares wouldn’t turn brown then.",
+        "C": "Nothing suggests the color change has stopped; its trigger is unchanged.",
+        "D": "The text says day length “has stayed the same.”"
+      },
+      "tags": ["science"]
+    },
+    {
+      "id": "rw-inf-02",
+      "section": "RW",
+      "skill": "inferences",
+      "difficulty": 1,
+      "type": "mcq",
+      "passage_md": "A bakery tested two versions of its website. Version A showed photos of each pastry, while Version B listed pastries by name only. Visitors to both versions stayed on the site for about the same amount of time, but visitors to Version A placed nearly twice as many orders. The bakery can reasonably conclude that ______",
+      "stem_md": "Which choice most logically completes the text?",
+      "choices": [
+        "the photos likely encouraged visitors to buy.",
+        "visitors to Version B could not find the pastries they wanted.",
+        "visitors spend more time on websites that have photos.",
+        "the pastries shown in the photos were cheaper than the others."
+      ],
+      "answer": "A",
+      "explanation_md": "The only difference between the versions was the photos, time on the site was the same, and orders nearly doubled with photos. The reasonable conclusion is that the photos helped drive purchases.",
+      "distractor_notes": {
+        "B": "Nothing indicates that anyone had trouble finding items.",
+        "C": "Visitors “stayed on the site for about the same amount of time” on both versions.",
+        "D": "Prices aren’t mentioned, and both versions listed the same pastries."
+      },
+      "tags": ["social science"]
+    },
+    {
+      "id": "rw-inf-03",
+      "section": "RW",
+      "skill": "inferences",
+      "difficulty": 1,
+      "type": "mcq",
+      "passage_md": "The ancient city of Ubar was known from legends as a trading hub for frankincense, but for centuries its location was unknown. Researchers eventually studied satellite images of the Arabian desert and noticed faint lines where old caravan tracks had packed the ground. Several tracks met at a single point. Because trade routes would have led to a major trading center, the researchers reasoned that ______",
+      "stem_md": "Which choice most logically completes the text?",
+      "choices": [
+        "frankincense was no longer valuable once the tracks faded.",
+        "satellite images cannot show features buried under sand.",
+        "the place where the tracks met was a promising spot to search for Ubar.",
+        "the legends about Ubar were probably invented."
+      ],
+      "answer": "C",
+      "explanation_md": "Ubar was a trading hub, and trade routes lead to trading centers. So the point where many tracks meet is a logical place to look for the city.",
+      "distractor_notes": {
+        "A": "The value of frankincense has nothing to do with where the tracks meet.",
+        "B": "The images did reveal faint tracks, so this doesn’t follow.",
+        "D": "The researchers used the tracks to *find* Ubar, which treats the legends as grounded in fact."
+      },
+      "tags": ["history"]
+    },
+    {
+      "id": "rw-inf-04",
+      "section": "RW",
+      "skill": "inferences",
+      "difficulty": 1,
+      "type": "mcq",
+      "passage_md": "Most houseplants need their soil to dry out a little between waterings, because roots sitting in constantly wet soil can rot. Julian waters his fern every morning, and he has noticed that its lower leaves are turning yellow and its roots smell sour. Julian’s fern is probably suffering from ______",
+      "stem_md": "Which choice most logically completes the text?",
+      "choices": [
+        "too little light.",
+        "too much water.",
+        "too little water.",
+        "cold temperatures."
+      ],
+      "answer": "B",
+      "explanation_md": "Watering every day keeps the soil constantly wet, which the text links to root rot. Sour-smelling roots fit that. Overwatering is the logical cause.",
+      "distractor_notes": {
+        "A": "Light is never mentioned.",
+        "C": "He waters every morning, so under-watering is unlikely.",
+        "D": "Temperature is never mentioned."
+      },
+      "tags": ["science"]
+    },
+    {
+      "id": "rw-inf-05",
+      "section": "RW",
+      "skill": "inferences",
+      "difficulty": 2,
+      "type": "mcq",
+      "passage_md": "In many languages, words for “mother” begin with an *m* sound, such as *mama*, *mère*, and *mat’*. Some linguists attribute this to a shared ancestral language, but the pattern also appears in languages with no known historical connection. Babies can make an *m* sound simply by opening their lips while making noise, and it is among the first consonants they produce. These facts suggest that ______",
+      "stem_md": "Which choice most logically completes the text?",
+      "choices": [
+        "all the world’s languages come from a single ancestral language.",
+        "babies learn the word for “mother” before any other word.",
+        "the *m* in words for “mother” may reflect how easy the sound is for babies, not just a shared linguistic ancestry.",
+        "languages without an *m* sound have no word for “mother.”"
+      ],
+      "answer": "C",
+      "explanation_md": "Because the pattern appears even in unrelated languages, shared ancestry can’t explain it fully. The ease of the *m* sound for babies offers another explanation.",
+      "distractor_notes": {
+        "A": "The text points to unrelated languages with the same pattern, which argues against a single ancestor as the full explanation.",
+        "B": "The text says *m* is among the first consonants, not that “mother” is the first word.",
+        "D": "The text says nothing about languages without an *m* sound."
+      },
+      "tags": ["humanities", "linguistics"]
+    },
+    {
+      "id": "rw-inf-06",
+      "section": "RW",
+      "skill": "inferences",
+      "difficulty": 2,
+      "type": "mcq",
+      "passage_md": "Astronomers can estimate a star’s surface temperature from its color: cooler stars look red, and hotter stars look blue-white. However, dust between Earth and a distant star scatters blue light more than red light, making the star look redder than it really is. An astronomer who relies only on the color of a star seen through thick dust would therefore likely ______",
+      "stem_md": "Which choice most logically completes the text?",
+      "choices": [
+        "overestimate the star’s temperature.",
+        "underestimate the star’s temperature.",
+        "estimate the star’s temperature correctly.",
+        "conclude that the star has no measurable color."
+      ],
+      "answer": "B",
+      "explanation_md": "Dust makes the star look redder, and redder means cooler. So the astronomer would think the star is cooler than it is—an underestimate.",
+      "distractor_notes": {
+        "A": "Reddening makes a star look cooler, not hotter.",
+        "C": "The dust distorts the color, so the estimate would be off.",
+        "D": "The star still has a visible color; the color is just shifted."
+      },
+      "tags": ["science"]
+    },
+    {
+      "id": "rw-inf-07",
+      "section": "RW",
+      "skill": "inferences",
+      "difficulty": 2,
+      "type": "mcq",
+      "passage_md": "Economists studying a coastal town found that after a new highway cut the drive from the nearest large city from three hours to ninety minutes, the number of day visitors rose sharply, but the number of overnight hotel stays fell. Before the highway, many visitors had stayed the night rather than make the long drive home. This suggests that ______",
+      "stem_md": "Which choice most logically completes the text?",
+      "choices": [
+        "hotels in the town raised their prices after the highway opened.",
+        "the shorter drive made it practical for many visitors to return home the same day instead of staying overnight.",
+        "visitors found the town less appealing after the highway was built.",
+        "the highway reduced the total number of visitors to the town."
+      ],
+      "answer": "B",
+      "explanation_md": "People used to stay overnight to avoid a long drive home. When the drive got shorter, day trips went up and hotel stays went down, so the easier trip home most likely replaced overnight stays.",
+      "distractor_notes": {
+        "A": "Hotel prices aren’t mentioned.",
+        "C": "Day visits “rose sharply,” which suggests the town was as appealing as ever.",
+        "D": "The number of day visitors rose sharply, so the total didn’t necessarily fall."
+      },
+      "tags": ["social science", "economics"]
+    },
+    {
+      "id": "rw-inf-08",
+      "section": "RW",
+      "skill": "inferences",
+      "difficulty": 2,
+      "type": "mcq",
+      "passage_md": "A museum found that visitors spent an average of 40 seconds at each painting in its main gallery. After it added benches facing several paintings, visitors spent an average of 3 minutes at those paintings but still about 40 seconds at the paintings without benches. The museum’s findings suggest that ______",
+      "stem_md": "Which choice most logically completes the text?",
+      "choices": [
+        "the paintings facing the benches were more famous than the others.",
+        "visitors prefer sculptures to paintings.",
+        "giving visitors a place to sit may encourage them to spend more time looking at art.",
+        "visitors spent less time in the museum overall after the benches were added."
+      ],
+      "answer": "C",
+      "explanation_md": "Time at paintings with benches went up sharply, while time at paintings without benches stayed the same. That points to the benches themselves as the cause.",
+      "distractor_notes": {
+        "A": "The text gives no information about how famous the paintings are.",
+        "B": "Sculptures are never mentioned.",
+        "D": "Visitors spent *more* time at some paintings and the same at others, so overall time didn’t fall."
+      },
+      "tags": ["social science"]
+    },
+    {
+      "id": "rw-inf-09",
+      "section": "RW",
+      "skill": "inferences",
+      "difficulty": 3,
+      "type": "mcq",
+      "passage_md": "Tree rings are wider in years with plenty of rain and narrower in dry years. Historian Dalia Mansour compared tree rings from a river valley with records of a medieval kingdom that collected grain taxes there. She found that tax records reported large harvests in several years when the tree rings were unusually narrow. Because tree rings are a reliable record of rainfall, Mansour argues that ______",
+      "stem_md": "Which choice most logically completes the text?",
+      "choices": [
+        "the kingdom’s tax records may have overstated the harvests in those years.",
+        "trees in the valley grew more slowly because farmers cut down nearby forests.",
+        "the valley received more rain in the medieval period than it does today.",
+        "the kingdom collected no grain taxes during dry years."
+      ],
+      "answer": "A",
+      "explanation_md": "Narrow rings mean dry years, and dry years would normally produce small harvests. If the rings are reliable but the tax records show large harvests, the records are the likelier source of error—they may have exaggerated.",
+      "distractor_notes": {
+        "B": "The text presents ring width as a record of rainfall; it gives no evidence about forest clearing.",
+        "C": "The text doesn’t compare medieval rainfall with today’s.",
+        "D": "The records *reported* harvests in those years, so taxes were being collected."
+      },
+      "tags": ["history", "science"]
+    },
+    {
+      "id": "rw-inf-10",
+      "section": "RW",
+      "skill": "inferences",
+      "difficulty": 3,
+      "type": "mcq",
+      "passage_md": "Some frogs survive winter by freezing solid; ice forms in their body cavities while high levels of glucose protect their cells. Biologist Ren Takahashi found that frogs of one such species collected from southern populations tolerated freezing for only a few days, while frogs of the same species from northern populations survived weeks of freezing. When Takahashi raised eggs from both populations in identical conditions, the adult frogs showed the same difference. This suggests that ______",
+      "stem_md": "Which choice most logically completes the text?",
+      "choices": [
+        "the difference in freeze tolerance is caused mainly by the conditions each frog experiences as it grows up.",
+        "northern frogs survive freezing because they eat more glucose-rich food than southern frogs do.",
+        "the difference in freeze tolerance between the populations is at least partly inherited.",
+        "southern frogs do not produce any glucose when temperatures drop."
+      ],
+      "answer": "C",
+      "explanation_md": "Raising both groups in identical conditions removes environmental differences. Because the difference in freeze tolerance still appeared, it must come at least partly from inherited traits.",
+      "distractor_notes": {
+        "A": "This is exactly what the identical-conditions experiment rules out.",
+        "B": "Both groups were raised in identical conditions, and diet isn’t discussed.",
+        "D": "Southern frogs still survive freezing for a few days, which suggests they have some protection."
+      },
+      "tags": ["science", "experiment"]
+    },
+    {
+      "id": "rw-inf-11",
+      "section": "RW",
+      "skill": "inferences",
+      "difficulty": 3,
+      "type": "mcq",
+      "passage_md": "In the 1800s, many novels were first published in weekly or monthly installments in magazines. Authors often wrote each installment shortly before it was printed and could read readers’ letters about earlier chapters as they worked. Literary scholar Grace Liang notes that several characters in serialized novels of the time grow noticeably more prominent partway through the story. Given the publishing conditions, it is plausible that ______",
+      "stem_md": "Which choice most logically completes the text?",
+      "choices": [
+        "authors planned every detail of their novels before the first installment appeared.",
+        "some authors expanded characters’ roles in response to readers’ enthusiasm for them.",
+        "readers disliked novels that were published in installments.",
+        "magazines refused to publish novels with many characters."
+      ],
+      "answer": "B",
+      "explanation_md": "Authors wrote as they went and could read reactions to earlier chapters. A character becoming more prominent midway is plausibly a response to what readers liked.",
+      "distractor_notes": {
+        "A": "Authors wrote each installment “shortly before it was printed,” which contradicts full advance planning.",
+        "C": "Nothing indicates that readers disliked serialized novels; they were writing letters about them.",
+        "D": "The text gives no information about magazine policies."
+      },
+      "tags": ["humanities", "literature"]
+    },
+    {
+      "id": "rw-inf-12",
+      "section": "RW",
+      "skill": "inferences",
+      "difficulty": 3,
+      "type": "mcq",
+      "passage_md": "A company tested whether customers prefer a subscription or a one-time purchase for its photo-editing software. In a survey, 70 percent of customers said they preferred a one-time purchase. But when the company offered both options on its website, 58 percent of buyers chose the subscription, which had a much lower upfront cost. Taken together, these results suggest that ______",
+      "stem_md": "Which choice most logically completes the text?",
+      "choices": [
+        "the survey was given to a different group of customers than the website served.",
+        "most customers who bought a subscription later canceled it.",
+        "customers’ stated preferences may not predict their actual choices when upfront cost is involved.",
+        "the one-time purchase was more expensive over time than the subscription."
+      ],
+      "answer": "C",
+      "explanation_md": "Most customers *said* they preferred a one-time purchase, but most *chose* the subscription, which was cheaper up front. What people say they prefer and what they actually do can differ when cost comes into play.",
+      "distractor_notes": {
+        "A": "The text gives no reason to think the groups were different; this is speculation.",
+        "B": "Cancellations aren’t mentioned.",
+        "D": "The text mentions only upfront cost; long-term costs aren’t given."
+      },
+      "tags": ["social science", "economics"]
+    }
+  ]
+}

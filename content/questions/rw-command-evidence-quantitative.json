@@ -1,0 +1,282 @@
+{
+  "source": "satori-original",
+  "license": "CC-BY-4.0",
+  "questions": [
+    {
+      "id": "rw-ceq-01",
+      "section": "RW",
+      "skill": "command-evidence-quantitative",
+      "difficulty": 1,
+      "type": "mcq",
+      "passage_md": "**Books Borrowed from Riverside Library, by Format**\n\n| Year | Print books | E-books | Audiobooks |\n|---|---|---|---|\n| 2021 | 48,000 | 12,000 | 6,000 |\n| 2022 | 45,000 | 16,000 | 9,000 |\n| 2023 | 44,000 | 21,000 | 13,000 |\n\nA library volunteer notes that while print books were still the most borrowed format each year, digital formats were growing.",
+      "stem_md": "Which choice best describes data from the table that support the volunteer’s statement?",
+      "choices": [
+        "Print book borrowing fell from 48,000 in 2021 to 44,000 in 2023.",
+        "In every year, more print books than e-books or audiobooks were borrowed, and both e-book and audiobook borrowing rose each year.",
+        "Audiobooks were the least borrowed format in 2021.",
+        "E-book borrowing in 2023 was 21,000."
+      ],
+      "answer": "B",
+      "explanation_md": "The statement has two parts: print was the top format every year, and digital formats grew. Choice B covers both (print leads every year; e-books go 12k → 16k → 21k and audiobooks 6k → 9k → 13k).",
+      "distractor_notes": {
+        "A": "This is accurate but addresses only the decline in print, not the growth of digital formats.",
+        "C": "Accurate, but it shows neither print’s lead nor digital growth.",
+        "D": "A single number can’t show a trend of growth."
+      },
+      "tags": ["table"]
+    },
+    {
+      "id": "rw-ceq-02",
+      "section": "RW",
+      "skill": "command-evidence-quantitative",
+      "difficulty": 1,
+      "type": "mcq",
+      "passage_md": "**Average Daily High Temperature (°C) in Two Cities**\n\n| Month | Coastal City | Inland City |\n|---|---|---|\n| January | 14 | 6 |\n| April | 17 | 18 |\n| July | 22 | 33 |\n| October | 19 | 20 |\n\nA student claims that the inland city has a wider range of temperatures over the year than the coastal city does.",
+      "stem_md": "Which choice most effectively uses data from the table to support the student’s claim?",
+      "choices": [
+        "In April, the inland city was 1 degree warmer than the coastal city.",
+        "The coastal city’s highest average was 22°C, in July.",
+        "The inland city’s averages range from 6°C to 33°C, a span of 27 degrees, while the coastal city’s range from 14°C to 22°C, a span of only 8 degrees.",
+        "Both cities were warmer in October than in January."
+      ],
+      "answer": "C",
+      "explanation_md": "The claim compares the *range* of temperatures in the two cities. Choice C computes both ranges (27 versus 8 degrees), which supports it directly.",
+      "distractor_notes": {
+        "A": "A single month’s difference says nothing about the range over the year.",
+        "B": "This describes only the coastal city, with no comparison.",
+        "D": "This is true of both cities and doesn’t compare their ranges."
+      },
+      "tags": ["table"]
+    },
+    {
+      "id": "rw-ceq-03",
+      "section": "RW",
+      "skill": "command-evidence-quantitative",
+      "difficulty": 1,
+      "type": "mcq",
+      "passage_md": "**Survey: How Students at Lakeview High Usually Get to School**\n\n| Method | Percent of students |\n|---|---|\n| School bus | 38% |\n| Car (driven by family) | 27% |\n| Walk or bike | 22% |\n| Drive themselves | 13% |\n\nThe student council wants to add bike racks, arguing that a meaningful share of students already arrive without a car or bus.",
+      "stem_md": "Which choice best describes data from the table that support the student council’s argument?",
+      "choices": [
+        "38% of students take the school bus.",
+        "22% of students walk or bike to school.",
+        "13% of students drive themselves.",
+        "27% of students are driven by family members."
+      ],
+      "answer": "B",
+      "explanation_md": "The argument is about students who come without a car or bus. Walking or biking (22%) is that group.",
+      "distractor_notes": {
+        "A": "Bus riders are the group the argument sets aside.",
+        "C": "Students who drive themselves arrive by car.",
+        "D": "Students driven by family arrive by car."
+      },
+      "tags": ["table"]
+    },
+    {
+      "id": "rw-ceq-04",
+      "section": "RW",
+      "skill": "command-evidence-quantitative",
+      "difficulty": 1,
+      "type": "mcq",
+      "passage_md": "**Monarch Butterflies Counted at a Garden, by Week**\n\n| Week | Monarchs counted |\n|---|---|\n| 1 | 4 |\n| 2 | 11 |\n| 3 | 26 |\n| 4 | 19 |\n| 5 | 7 |\n\nA gardener observed that the number of monarchs peaked in the middle of the five-week period.",
+      "stem_md": "Which choice best describes data from the table that support the gardener’s observation?",
+      "choices": [
+        "The count rose from 4 in week 1 to a high of 26 in week 3, then fell to 7 by week 5.",
+        "The count in week 5 was greater than the count in week 1.",
+        "The count in week 2 was 11.",
+        "More monarchs were counted in week 4 than in week 2."
+      ],
+      "answer": "A",
+      "explanation_md": "A peak in the middle means the counts rise, reach their highest point near week 3, then fall. Choice A describes that shape.",
+      "distractor_notes": {
+        "B": "Comparing only the endpoints says nothing about a peak in the middle.",
+        "C": "A single week’s count can’t show a peak.",
+        "D": "True, but it doesn’t show that the highest count was in the middle."
+      },
+      "tags": ["table"]
+    },
+    {
+      "id": "rw-ceq-05",
+      "section": "RW",
+      "skill": "command-evidence-quantitative",
+      "difficulty": 2,
+      "type": "mcq",
+      "passage_md": "**Germination Rate of Tomato Seeds at Different Soil Temperatures**\n\n| Soil temperature | Seeds planted | Seeds germinated |\n|---|---|---|\n| 10°C | 200 | 34 |\n| 18°C | 200 | 142 |\n| 25°C | 200 | 181 |\n| 32°C | 200 | 120 |\n\nA horticulturist concludes that tomato seeds germinate best at moderately warm temperatures and that both cooler and hotter soil reduce germination.",
+      "stem_md": "Which choice most effectively uses data from the table to support the horticulturist’s conclusion?",
+      "choices": [
+        "At 18°C, 142 of 200 seeds germinated.",
+        "More seeds germinated at 32°C than at 10°C.",
+        "Germination was highest at 25°C (181 of 200 seeds) and lower both at 18°C and below and at 32°C (120 of 200 seeds).",
+        "Every temperature tested had at least some seeds germinate."
+      ],
+      "answer": "C",
+      "explanation_md": "The conclusion has three parts: a best (moderate) temperature, lower germination when cooler, and lower germination when hotter. Choice C shows the peak at 25°C with drops on both sides.",
+      "distractor_notes": {
+        "A": "One data point can’t show where the peak is or that hotter soil hurts germination.",
+        "B": "This compares the two extremes and ignores the peak.",
+        "D": "This is true but doesn’t address which temperature is best."
+      },
+      "tags": ["table", "science"]
+    },
+    {
+      "id": "rw-ceq-06",
+      "section": "RW",
+      "skill": "command-evidence-quantitative",
+      "difficulty": 2,
+      "type": "mcq",
+      "passage_md": "**Share of Electricity Generated from Wind, by Region**\n\n| Region | 2015 | 2020 |\n|---|---|---|\n| North | 8% | 21% |\n| South | 12% | 15% |\n| East | 5% | 9% |\n| West | 15% | 18% |\n\nAn energy analyst argues that although the West had the largest share of wind power in 2015, the North showed by far the fastest growth over the period.",
+      "stem_md": "Which choice best describes data from the table that support the analyst’s argument?",
+      "choices": [
+        "The West’s share rose from 15% to 18%, while the North’s share rose from 8% to 21%, an increase of 13 percentage points compared with increases of 3 to 4 points in the other regions.",
+        "The South’s share of wind power was greater than the East’s in both years.",
+        "In 2020, the North had a larger share of wind power than any other region.",
+        "The East had the smallest share of wind power in both 2015 and 2020."
+      ],
+      "answer": "A",
+      "explanation_md": "The argument makes two points: the West led in 2015 (15%), and the North grew fastest. Choice A notes the West’s 2015 figure and shows the North’s 13-point rise compared with 3–4 points elsewhere.",
+      "distractor_notes": {
+        "B": "This compares two regions the argument doesn’t mention.",
+        "C": "The North’s 2020 lead is a level, not a growth rate, and it leaves out the West’s 2015 lead.",
+        "D": "The East isn’t part of the argument."
+      },
+      "tags": ["table"]
+    },
+    {
+      "id": "rw-ceq-07",
+      "section": "RW",
+      "skill": "command-evidence-quantitative",
+      "difficulty": 2,
+      "type": "mcq",
+      "passage_md": "**Average Minutes of Homework per Night, by Grade and Semester**\n\n| Grade | Fall | Spring |\n|---|---|---|\n| 9 | 52 | 58 |\n| 10 | 61 | 64 |\n| 11 | 75 | 92 |\n| 12 | 70 | 55 |\n\nA school counselor notes that homework time increased from fall to spring in every grade except one.",
+      "stem_md": "Which choice best describes data from the table that support the counselor’s statement?",
+      "choices": [
+        "Grade 11 students did the most homework in the spring.",
+        "Homework time rose from fall to spring in grades 9, 10, and 11, but fell in grade 12, from 70 to 55 minutes.",
+        "Grade 9 students did the least homework in the fall.",
+        "Grade 12 students did 70 minutes of homework per night in the fall."
+      ],
+      "answer": "B",
+      "explanation_md": "The statement says time rose in every grade *except one*. Choice B shows the rise in three grades and names the exception (grade 12).",
+      "distractor_notes": {
+        "A": "This is true, but it doesn’t describe the change from fall to spring across grades.",
+        "C": "This describes a single grade in a single semester.",
+        "D": "This gives one number without showing any change."
+      },
+      "tags": ["table"]
+    },
+    {
+      "id": "rw-ceq-08",
+      "section": "RW",
+      "skill": "command-evidence-quantitative",
+      "difficulty": 2,
+      "type": "mcq",
+      "passage_md": "Researchers compared two methods of teaching fractions to fourth graders. Students took the same test before and after a six-week unit.\n\n| Method | Average pretest score | Average posttest score |\n|---|---|---|\n| Number-line lessons | 54 | 78 |\n| Worksheet practice | 55 | 66 |\n\nThe researchers concluded that the number-line lessons were more effective than worksheet practice.",
+      "stem_md": "Which choice most effectively uses data from the table to support the researchers’ conclusion?",
+      "choices": [
+        "Students using worksheet practice started with a slightly higher average score than students using number-line lessons.",
+        "Both groups had higher average scores after the unit than before it.",
+        "Although the two groups started with nearly the same average scores (54 and 55), the number-line group improved by 24 points, while the worksheet group improved by only 11.",
+        "The worksheet group’s average posttest score was 66."
+      ],
+      "answer": "C",
+      "explanation_md": "To show one method worked better, compare improvement between groups that started out equal. Choice C notes the similar starting scores and the larger gain for number lines (24 versus 11 points).",
+      "distractor_notes": {
+        "A": "Starting scores alone don’t show which method was more effective.",
+        "B": "Both groups improved, so this doesn’t favor either method.",
+        "D": "A single number with no comparison can’t support the conclusion."
+      },
+      "tags": ["table", "experiment"]
+    },
+    {
+      "id": "rw-ceq-09",
+      "section": "RW",
+      "skill": "command-evidence-quantitative",
+      "difficulty": 3,
+      "type": "mcq",
+      "passage_md": "Ecologists measured how many seeds of two plant species were carried away by ants and by rodents in a forest over one month.\n\n| Species | Seeds removed by ants | Seeds removed by rodents | Seeds not removed |\n|---|---|---|---|\n| Wild ginger | 310 | 45 | 145 |\n| Trillium | 190 | 60 | 250 |\n\n(500 seeds of each species were set out.)\n\nThe ecologists hypothesized that wild ginger relies more heavily on ants to spread its seeds than trillium does.",
+      "stem_md": "Which choice best describes data from the table that support the ecologists’ hypothesis?",
+      "choices": [
+        "Rodents removed more trillium seeds than wild ginger seeds.",
+        "Ants removed 62% of wild ginger seeds (310 of 500) but only 38% of trillium seeds (190 of 500).",
+        "More trillium seeds than wild ginger seeds were not removed at all.",
+        "Ants removed more seeds than rodents did for both species."
+      ],
+      "answer": "B",
+      "explanation_md": "The hypothesis compares how much each species depends on ants. Choice B compares the share of seeds ants removed: 62% for wild ginger versus 38% for trillium.",
+      "distractor_notes": {
+        "A": "This is about rodents, not ants.",
+        "C": "Seeds left in place don’t directly show reliance on ants.",
+        "D": "True for both species, so it doesn’t show that wild ginger relies on ants *more*."
+      },
+      "tags": ["table", "science"]
+    },
+    {
+      "id": "rw-ceq-10",
+      "section": "RW",
+      "skill": "command-evidence-quantitative",
+      "difficulty": 3,
+      "type": "mcq",
+      "passage_md": "**Visitors to Three State Parks (thousands)**\n\n| Park | 2019 | 2021 | 2023 |\n|---|---|---|---|\n| Pine Ridge | 420 | 610 | 540 |\n| Cedar Falls | 380 | 395 | 410 |\n| Blue Lake | 510 | 700 | 450 |\n\nA tourism official claims that one park’s attendance grew steadily over the whole period, while the other two rose sharply and then declined.",
+      "stem_md": "Which choice most effectively uses data from the table to support the official’s claim?",
+      "choices": [
+        "Blue Lake had the most visitors in 2019 and 2021.",
+        "Pine Ridge and Blue Lake both had more visitors in 2021 than in 2019.",
+        "Cedar Falls rose from 380 to 395 to 410 thousand visitors, while Pine Ridge and Blue Lake peaked in 2021 (at 610 and 700 thousand) and then fell by 2023.",
+        "Blue Lake had fewer visitors in 2023 than in 2019."
+      ],
+      "answer": "C",
+      "explanation_md": "The claim contrasts one park with steady growth against two that peaked and then declined. Choice C describes both patterns with the right parks.",
+      "distractor_notes": {
+        "A": "This ranks parks by size but says nothing about trends.",
+        "B": "This shows the rise but not the later decline, and it leaves out Cedar Falls’ steady growth.",
+        "D": "This covers only one park, and only its endpoints."
+      },
+      "tags": ["table"]
+    },
+    {
+      "id": "rw-ceq-11",
+      "section": "RW",
+      "skill": "command-evidence-quantitative",
+      "difficulty": 3,
+      "type": "mcq",
+      "passage_md": "A company tested whether a four-day workweek affected output. Two similar teams were compared over six months.\n\n| Team | Schedule | Projects completed | Sick days taken |\n|---|---|---|---|\n| A | 4 days (32 hours) | 46 | 18 |\n| B | 5 days (40 hours) | 45 | 31 |\n\nA manager argues that the shorter week did not reduce productivity and may have improved employee health.",
+      "stem_md": "Which choice best describes data from the table that support the manager’s argument?",
+      "choices": [
+        "Team A worked 8 fewer hours per week than Team B.",
+        "Team B completed 45 projects in six months.",
+        "Team A completed about as many projects as Team B (46 versus 45) and took fewer sick days (18 versus 31).",
+        "Team B took 31 sick days, more than any other team in the company."
+      ],
+      "answer": "C",
+      "explanation_md": "The argument has two parts: productivity held steady (46 versus 45 projects) and health may have improved (18 versus 31 sick days). Choice C covers both.",
+      "distractor_notes": {
+        "A": "This describes the schedules, not their results.",
+        "B": "This gives one team’s output with no comparison.",
+        "D": "The table shows only two teams, so there is no data about “any other team.”"
+      },
+      "tags": ["table"]
+    },
+    {
+      "id": "rw-ceq-12",
+      "section": "RW",
+      "skill": "command-evidence-quantitative",
+      "difficulty": 3,
+      "type": "mcq",
+      "passage_md": "**Share of Adults Who Read at Least One Book in the Past Year, by Age Group**\n\n| Age group | Print only | Digital only | Both print and digital |\n|---|---|---|---|\n| 18–29 | 22% | 14% | 44% |\n| 30–49 | 30% | 9% | 35% |\n| 50–64 | 38% | 6% | 24% |\n| 65+ | 45% | 3% | 16% |\n\nA researcher states that younger adults were more likely than older adults to read in more than one format.",
+      "stem_md": "Which choice best describes data from the table that support the researcher’s statement?",
+      "choices": [
+        "The share of adults who read print only rose from 22% among 18–29-year-olds to 45% among those 65 and older.",
+        "Adults aged 18–29 were the most likely to read digital only.",
+        "The share who read both print and digital fell steadily with age, from 44% of 18–29-year-olds to 16% of those 65 and older.",
+        "Among adults 65 and older, 3% read digital only."
+      ],
+      "answer": "C",
+      "explanation_md": "“More than one format” means the “Both print and digital” column. Choice C shows that share falling steadily from the youngest group to the oldest.",
+      "distractor_notes": {
+        "A": "Print-only readers use a single format.",
+        "B": "Digital-only readers also use a single format.",
+        "D": "This describes one group, for a single format."
+      },
+      "tags": ["table"]
+    }
+  ]
+}

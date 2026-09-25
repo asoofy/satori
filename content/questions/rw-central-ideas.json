@@ -1,0 +1,282 @@
+{
+  "source": "satori-original",
+  "license": "CC-BY-4.0",
+  "questions": [
+    {
+      "id": "rw-ci-01",
+      "section": "RW",
+      "skill": "central-ideas",
+      "difficulty": 1,
+      "type": "mcq",
+      "passage_md": "Community gardens are often praised for supplying fresh vegetables, but their organizers point to a less obvious benefit. In neighborhoods where residents rarely cross paths, a shared plot gives people a reason to show up at the same place week after week. Gardeners trade seedlings, swap advice about pests, and cover for one another during vacations. Over a season, strangers become acquaintances, and acquaintances sometimes become friends.",
+      "stem_md": "Which choice best states the main idea of the text?",
+      "choices": [
+        "Community gardens produce more vegetables than most private gardens do.",
+        "Besides providing food, community gardens can help neighbors form social connections.",
+        "Gardeners in community plots mainly struggle with pests and vacations.",
+        "Most neighborhoods lack a place where residents can grow their own food."
+      ],
+      "answer": "B",
+      "explanation_md": "The text sets up food as the familiar benefit (“often praised for supplying fresh vegetables”) and then focuses on “a less obvious benefit”: gardens bring residents together until “strangers become acquaintances.” Choice B captures both parts.",
+      "distractor_notes": {
+        "A": "The text never compares harvest sizes with private gardens.",
+        "C": "Pests and vacations are mentioned only as examples of what gardeners help each other with, not as the main point.",
+        "D": "The text doesn't claim that most neighborhoods lack gardening space."
+      },
+      "tags": ["social science"]
+    },
+    {
+      "id": "rw-ci-02",
+      "section": "RW",
+      "skill": "central-ideas",
+      "difficulty": 1,
+      "type": "mcq",
+      "passage_md": "The following text is from a short story written for this collection. Marisol has just moved to a new city.\n\nFor the first week, Marisol walked to work by the same route: down Alder Street, past the bakery, left at the fountain. On Saturday she decided to get lost on purpose. She turned wherever a street looked interesting, following the smell of roasting coffee and the sound of someone practicing trumpet behind an open window. By evening her feet ached, but for the first time the city felt less like a map and more like a place she might belong.",
+      "stem_md": "Which choice best states the main idea of the text?",
+      "choices": [
+        "Marisol regrets leaving the route she took to work during her first week.",
+        "Marisol becomes lost and has trouble finding her way home.",
+        "By exploring freely, Marisol begins to feel at home in her new city.",
+        "Marisol prefers the bakery on Alder Street to the city’s coffee shops."
+      ],
+      "answer": "C",
+      "explanation_md": "Marisol chooses to “get lost on purpose,” follows sights and sounds, and ends up feeling that the city is “a place she might belong.” The main idea is that her exploring changes how she feels about the city.",
+      "distractor_notes": {
+        "A": "Nothing suggests regret; she leaves the routine by choice and ends up feeling better.",
+        "B": "She gets lost deliberately, and the text never says she struggles to get home.",
+        "D": "The text doesn’t compare the bakery with coffee shops."
+      },
+      "tags": ["literature"]
+    },
+    {
+      "id": "rw-ci-03",
+      "section": "RW",
+      "skill": "central-ideas",
+      "difficulty": 1,
+      "type": "mcq",
+      "passage_md": "Many people assume that bats are blind, but nearly all bat species can see. Fruit bats in particular have large eyes and rely heavily on vision to find ripe fruit at dusk. Other bats combine eyesight with echolocation, producing high-pitched calls and listening for the echoes to locate insects in complete darkness. Echolocation, in other words, adds to a bat’s senses rather than replacing sight.",
+      "stem_md": "Which choice best states the main idea of the text?",
+      "choices": [
+        "Echolocation is more useful to bats than eyesight is.",
+        "Fruit bats are the only bats that can see.",
+        "Bats cannot find insects without the help of moonlight.",
+        "Contrary to a common belief, bats can see, and many use echolocation as an additional sense."
+      ],
+      "answer": "D",
+      "explanation_md": "The text opens by correcting a belief (“bats are blind”) and ends by saying echolocation “adds to a bat’s senses rather than replacing sight.” Choice D states both points.",
+      "distractor_notes": {
+        "A": "The text doesn’t rank the two senses; it says they work together.",
+        "B": "It says “nearly all bat species can see,” not only fruit bats.",
+        "C": "Echolocation lets bats find insects “in complete darkness,” so this contradicts the text."
+      },
+      "tags": ["science"]
+    },
+    {
+      "id": "rw-ci-04",
+      "section": "RW",
+      "skill": "central-ideas",
+      "difficulty": 1,
+      "type": "mcq",
+      "passage_md": "When the town library began lending tools—drills, ladders, sewing machines, even a pressure washer—some residents doubted anyone would use them. Within a year, the tool collection had a waiting list. Librarians noticed that borrowers often returned with questions about projects, so they added weekend repair workshops. The library now describes itself not only as a place to find information but as a place to learn how to do things.",
+      "stem_md": "Which choice best states the main idea of the text?",
+      "choices": [
+        "A library’s tool-lending program became popular and broadened the library’s idea of its own purpose.",
+        "Residents doubted that the library should spend money on books.",
+        "Repair workshops are more popular than tool lending at most libraries.",
+        "The library stopped lending books so it could lend tools instead."
+      ],
+      "answer": "A",
+      "explanation_md": "The program went from doubted to having “a waiting list,” led to workshops, and changed how the library “describes itself.” Choice A combines the program’s success with that change.",
+      "distractor_notes": {
+        "B": "The doubt was about whether people would use the tools, not about spending on books.",
+        "C": "The text describes one library and doesn’t compare workshops with lending.",
+        "D": "Nothing says the library stopped lending books; it describes itself as “not only” an information source."
+      },
+      "tags": ["social science"]
+    },
+    {
+      "id": "rw-ci-05",
+      "section": "RW",
+      "skill": "central-ideas",
+      "difficulty": 2,
+      "type": "mcq",
+      "passage_md": "Glaciers are often described as rivers of ice, and the comparison is more accurate than it may seem. Under the pressure of its own weight, the ice deep inside a glacier deforms slowly, allowing the whole mass to flow downhill. Meltwater at the base can act as a lubricant, sometimes speeding a glacier’s movement dramatically. Like rivers, glaciers carve valleys and carry sediment, though they reshape the land over centuries rather than seasons.",
+      "stem_md": "Which choice best states the main idea of the text?",
+      "choices": [
+        "Glaciers move faster than rivers because meltwater lubricates them.",
+        "Glaciers are dangerous because their movement is unpredictable.",
+        "Although glaciers are solid, they flow and shape landscapes in ways that resemble rivers.",
+        "Sediment carried by glaciers is the main cause of valley formation."
+      ],
+      "answer": "C",
+      "explanation_md": "The first sentence makes the claim (the river comparison “is more accurate than it may seem”) and the rest supports it: glaciers flow, speed up with meltwater, carve valleys and carry sediment. Choice C sums this up.",
+      "distractor_notes": {
+        "A": "Meltwater can speed a glacier up, but the text says glaciers reshape land “over centuries rather than seasons,” so it doesn’t claim they move faster than rivers.",
+        "B": "Danger and unpredictability are never discussed.",
+        "D": "Carrying sediment is one similarity among several; the text doesn’t call it the main cause of valleys."
+      },
+      "tags": ["science"]
+    },
+    {
+      "id": "rw-ci-06",
+      "section": "RW",
+      "skill": "central-ideas",
+      "difficulty": 2,
+      "type": "mcq",
+      "passage_md": "The following text is from a story written for this collection. Tomas, a young violinist, is preparing for a competition.\n\nHis teacher had told him to stop practicing the concerto’s fast final passage. “You know the notes,” she said. “Now learn the silence before them.” Tomas thought this was nonsense until the night before the competition, when he played the slow opening again and again, listening to how each phrase faded. The next day, when he reached the final passage, his hands did not rush. For the first time, the fast notes sounded like they belonged to the rest of the piece.",
+      "stem_md": "Which choice best states the main idea of the text?",
+      "choices": [
+        "Tomas ignores his teacher’s advice and wins the competition anyway.",
+        "Tomas comes to understand that paying attention to the slower, quieter parts of a piece improves his whole performance.",
+        "Tomas decides that the slow opening of the concerto is more beautiful than its final passage.",
+        "Tomas’s teacher believes he has not yet learned the notes of the final passage."
+      ],
+      "answer": "B",
+      "explanation_md": "At first Tomas dismisses the advice, but after focusing on the slow opening, the fast passage finally “belong[s] to the rest of the piece.” The main idea is his realization that the quieter parts shape the whole performance.",
+      "distractor_notes": {
+        "A": "He ends up following the advice, and the text never says whether he wins.",
+        "C": "He doesn’t judge which section is more beautiful; practicing the opening improves the ending.",
+        "D": "His teacher says, “You know the notes,” which is the opposite."
+      },
+      "tags": ["literature"]
+    },
+    {
+      "id": "rw-ci-07",
+      "section": "RW",
+      "skill": "central-ideas",
+      "difficulty": 2,
+      "type": "mcq",
+      "passage_md": "Urban planners once treated traffic congestion as a simple supply problem: if roads were crowded, build more lanes. Yet cities that widened highways often found that congestion returned within a few years. Economists call this effect induced demand. When driving becomes easier, people make trips they previously skipped, choose homes farther from work, or switch from buses to cars, until the new lanes fill up. For this reason, many planners now favor managing demand, through transit investment or road pricing, over adding capacity alone.",
+      "stem_md": "Which choice best states the main idea of the text?",
+      "choices": [
+        "Widening highways usually fails to reduce congestion for long, which has led many planners toward strategies that manage demand.",
+        "Economists and urban planners disagree about how traffic congestion should be measured.",
+        "People choose to live far from work mainly because highways are wide.",
+        "Road pricing is the only effective way to reduce traffic congestion."
+      ],
+      "answer": "A",
+      "explanation_md": "The text describes the old approach, explains why it fails (induced demand), and ends with the resulting change: planners “now favor managing demand.” Choice A covers both the problem and the response.",
+      "distractor_notes": {
+        "B": "The economists’ concept supports the planners’ new approach; the text doesn’t describe a disagreement over measurement.",
+        "C": "Living farther from work is one example of induced demand, not the main point, and the text doesn’t call it the main reason.",
+        "D": "Road pricing is one option listed alongside transit; “only” overstates the text."
+      },
+      "tags": ["social science"]
+    },
+    {
+      "id": "rw-ci-08",
+      "section": "RW",
+      "skill": "central-ideas",
+      "difficulty": 2,
+      "type": "mcq",
+      "passage_md": "Octopuses have about 500 million neurons, but roughly two-thirds of them are located in the animal’s arms rather than its central brain. Each arm can taste and touch what it explores and can even carry out simple movements after being separated from the body. Researchers who study octopus behavior therefore describe the animal’s intelligence as distributed: the central brain sets goals, while the arms work out many of the details on their own.",
+      "stem_md": "Which choice best states the main idea of the text?",
+      "choices": [
+        "Octopuses have more neurons than any other invertebrate.",
+        "Because so many neurons are in its arms, an octopus’s intelligence is spread throughout its body instead of being located only in its brain.",
+        "An octopus arm that is separated from the body can survive on its own.",
+        "Researchers have determined that the octopus’s central brain plays no role in its behavior."
+      ],
+      "answer": "B",
+      "explanation_md": "The text explains where the neurons are, what the arms can do, and concludes that octopus intelligence is “distributed.” Choice B restates that conclusion and the reason for it.",
+      "distractor_notes": {
+        "A": "The text gives a neuron count but doesn’t compare it with other invertebrates.",
+        "C": "A severed arm can carry out “simple movements,” which is different from surviving independently.",
+        "D": "The text says the central brain “sets goals,” so it does play a role."
+      },
+      "tags": ["science"]
+    },
+    {
+      "id": "rw-ci-09",
+      "section": "RW",
+      "skill": "central-ideas",
+      "difficulty": 3,
+      "type": "mcq",
+      "passage_md": "Historians of the printing press often emphasize speed: a press could produce in a week what a team of scribes might copy in a year. But historian Adaeze Okafor argues that consistency mattered as much as speed. When every copy of a map, legal code, or astronomical table was identical, readers in distant cities could cite the same page and detect the same errors. Corrections, once published, spread to every later edition. In Okafor’s view, the press changed not just how many texts existed but how scholars could build on one another’s work.",
+      "stem_md": "Which choice best states the main idea of the text?",
+      "choices": [
+        "Okafor argues that historians have overestimated how quickly printing presses produced texts.",
+        "Okafor claims that scribes introduced more errors into texts than printers did.",
+        "Okafor contends that the identical copies made by printing presses were as important as their speed, because they made shared scholarship possible.",
+        "Okafor believes maps and legal codes were the most important texts produced by early printing presses."
+      ],
+      "answer": "C",
+      "explanation_md": "Okafor doesn’t dispute the emphasis on speed; she argues “consistency mattered as much as speed,” because identical copies let scholars “build on one another’s work.” Choice C states that argument and its reason.",
+      "distractor_notes": {
+        "A": "Okafor accepts the speed claim; she adds consistency as another factor.",
+        "B": "The text never compares error rates between scribes and printers; consistency is about copies being identical.",
+        "D": "Maps and legal codes are examples of consistent texts, not ranked as the most important."
+      },
+      "tags": ["history"]
+    },
+    {
+      "id": "rw-ci-10",
+      "section": "RW",
+      "skill": "central-ideas",
+      "difficulty": 3,
+      "type": "mcq",
+      "passage_md": "The following text is from an essay about city life, written for this collection in the style of the early 1900s.\n\nThe city dweller is accused of coldness because he passes a thousand faces without a nod. Yet consider the alternative. Were he to greet every stranger as the villager greets his neighbor, he would exhaust himself before noon. His reserve is not an absence of feeling but a way of saving it—a wall behind which he keeps his warmth for the few whom he has chosen.",
+      "stem_md": "Which choice best states the main idea of the text?",
+      "choices": [
+        "City dwellers are colder than villagers because they have too many neighbors.",
+        "The reserved behavior of city dwellers is a sensible way of conserving their feelings rather than proof that they lack them.",
+        "Villagers greet strangers because they have more free time than city dwellers.",
+        "City dwellers should try harder to greet the strangers they pass each day."
+      ],
+      "answer": "B",
+      "explanation_md": "The author raises an accusation (city dwellers are cold) and answers it: reserve is “not an absence of feeling but a way of saving it.” Choice B paraphrases this defense.",
+      "distractor_notes": {
+        "A": "This repeats the accusation that the author argues against.",
+        "C": "The text doesn’t discuss villagers’ free time; it says greeting everyone would exhaust a city dweller.",
+        "D": "The author defends city dwellers’ reserve instead of urging them to change."
+      },
+      "tags": ["literature", "historical text"]
+    },
+    {
+      "id": "rw-ci-11",
+      "section": "RW",
+      "skill": "central-ideas",
+      "difficulty": 3,
+      "type": "mcq",
+      "passage_md": "For decades, the success of a new crop variety was judged largely by yield per acre. Agronomist Priya Raman proposes a broader measure. A variety that produces slightly less grain but survives droughts, she notes, may leave a farmer far better off over ten years than a high-yield variety that fails completely in a dry season. Raman’s models therefore weigh a variety’s average yield against how much that yield varies from year to year, favoring varieties that are reliably good over those that are occasionally excellent.",
+      "stem_md": "Which choice best states the main idea of the text?",
+      "choices": [
+        "Raman argues that crop varieties should be evaluated on how reliable their yields are over time, not only on their average yield.",
+        "Raman has developed a crop variety that yields more grain than any other variety during droughts.",
+        "Raman believes that farmers should stop planting high-yield varieties entirely.",
+        "Raman shows that yields per acre have declined over the past several decades."
+      ],
+      "answer": "A",
+      "explanation_md": "Raman proposes “a broader measure” that weighs average yield against year-to-year variation, favoring varieties that are “reliably good.” Choice A captures that proposal.",
+      "distractor_notes": {
+        "B": "Raman builds evaluation models; the text never says she developed a new variety.",
+        "C": "She changes how varieties are ranked but doesn’t call for abandoning high-yield ones.",
+        "D": "The text doesn’t report any trend in yields over time."
+      },
+      "tags": ["science"]
+    },
+    {
+      "id": "rw-ci-12",
+      "section": "RW",
+      "skill": "central-ideas",
+      "difficulty": 3,
+      "type": "mcq",
+      "passage_md": "Translators of poetry face a familiar dilemma: preserving a poem’s literal meaning often destroys its rhythm and rhyme, while preserving its sound often requires changing what it says. Translator Luis Ferreira rejects the idea that one must simply choose. In his translations he keeps the original’s meaning in some lines and its music in others, and he includes notes explaining each choice, so that readers can see both what the poem says and what it sounds like—even if no single line does both.",
+      "stem_md": "Which choice best states the main idea of the text?",
+      "choices": [
+        "Ferreira believes that a poem’s sound is more important than its literal meaning.",
+        "Ferreira avoids the usual trade-off in poetry translation by balancing meaning and sound across the poem and explaining his decisions.",
+        "Ferreira argues that poetry cannot be translated, so readers should learn the original language.",
+        "Ferreira’s translations are more accurate than those of other translators because they rhyme."
+      ],
+      "answer": "B",
+      "explanation_md": "Ferreira “rejects the idea that one must simply choose”: he alternates between meaning and music and adds notes so readers get both. Choice B describes this approach.",
+      "distractor_notes": {
+        "A": "He doesn’t rank sound above meaning; he keeps each in different lines.",
+        "C": "He translates poetry himself, so he clearly thinks it can be done.",
+        "D": "The text doesn’t compare his accuracy with other translators’ or say his translations rhyme throughout."
+      },
+      "tags": ["humanities"]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+services:
+  satori:
+    build: .
+    image: satori:latest
+    ports:
+      # Only this computer can reach Satori. See SECURITY.md before exposing it to a network.
+      - "127.0.0.1:3000:3000"
+    volumes:
+      - satori-data:/data
+    env_file:
+      - path: .env.local
+        required: false
+    restart: unless-stopped
+
+volumes:
+  satori-data:

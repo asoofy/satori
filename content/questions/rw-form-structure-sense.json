@@ -1,0 +1,308 @@
+{
+  "source": "satori-original",
+  "license": "CC-BY-4.0",
+  "questions": [
+    {
+      "id": "rw-fss-01",
+      "section": "RW",
+      "skill": "form-structure-sense",
+      "difficulty": 1,
+      "type": "mcq",
+      "passage_md": "The collection of rare maps in the university library ______ drawn by explorers in the sixteenth century.",
+      "stem_md": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "include those",
+        "includes those",
+        "have included those",
+        "are including those"
+      ],
+      "answer": "B",
+      "explanation_md": "The subject is “collection” (singular), not “maps.” A singular subject takes the singular verb “includes.”",
+      "distractor_notes": {
+        "A": "“Include” is plural; it agrees with “maps,” which is inside a prepositional phrase and isn’t the subject.",
+        "C": "“Have” is plural.",
+        "D": "“Are” is plural."
+      },
+      "tags": [
+        "subject-verb agreement"
+      ]
+    },
+    {
+      "id": "rw-fss-02",
+      "section": "RW",
+      "skill": "form-structure-sense",
+      "difficulty": 1,
+      "type": "mcq",
+      "passage_md": "After months of planning, the city orchestra announced that ______ spring season would include three works by living composers.",
+      "stem_md": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "their",
+        "its",
+        "it’s",
+        "there"
+      ],
+      "answer": "B",
+      "explanation_md": "The pronoun refers to “the city orchestra,” a single organization, so it takes the singular possessive “its.”",
+      "distractor_notes": {
+        "A": "“Their” is plural, but “orchestra” is a single group here.",
+        "C": "“It’s” means “it is,” which makes no sense here (“it is spring season”).",
+        "D": "“There” is a place word, not a possessive."
+      },
+      "tags": [
+        "pronoun agreement",
+        "possessives"
+      ]
+    },
+    {
+      "id": "rw-fss-03",
+      "section": "RW",
+      "skill": "form-structure-sense",
+      "difficulty": 1,
+      "type": "mcq",
+      "passage_md": "Last summer, Luis ______ a small vegetable garden behind his apartment building and gave most of the tomatoes to his neighbors.",
+      "stem_md": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "plants",
+        "will plant",
+        "planted",
+        "is planting"
+      ],
+      "answer": "C",
+      "explanation_md": "“Last summer” places the action in the past, and “gave” is past tense. “Planted” matches.",
+      "distractor_notes": {
+        "A": "Present tense clashes with “last summer.”",
+        "B": "Future tense clashes with “last summer.”",
+        "D": "Present progressive clashes with the past time frame."
+      },
+      "tags": [
+        "verb tense"
+      ]
+    },
+    {
+      "id": "rw-fss-04",
+      "section": "RW",
+      "skill": "form-structure-sense",
+      "difficulty": 1,
+      "type": "mcq",
+      "passage_md": "The two ______ nests were built high in the same oak tree, only a few branches apart.",
+      "stem_md": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "birds",
+        "bird’s",
+        "birds’",
+        "birds’s"
+      ],
+      "answer": "C",
+      "explanation_md": "The nests belong to two birds, so the plural possessive is needed: “birds’.”",
+      "distractor_notes": {
+        "A": "“Birds” is plural but not possessive.",
+        "B": "“Bird’s” is singular possessive, but there are two birds.",
+        "D": "“Birds’s” isn’t a correct form."
+      },
+      "tags": [
+        "possessives"
+      ]
+    },
+    {
+      "id": "rw-fss-05",
+      "section": "RW",
+      "skill": "form-structure-sense",
+      "difficulty": 2,
+      "type": "mcq",
+      "passage_md": "Walking through the botanical garden at dawn, ______",
+      "stem_md": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "the smell of jasmine surprised Priya.",
+        "Priya was surprised by the smell of jasmine.",
+        "surprise came to Priya from the smell of jasmine.",
+        "the jasmine’s smell was surprising to Priya."
+      ],
+      "answer": "B",
+      "explanation_md": "The opening phrase “Walking through the botanical garden” must describe whoever comes right after the comma. Priya is the one walking, so “Priya” must come first.",
+      "distractor_notes": {
+        "A": "This says the *smell* was walking through the garden, a dangling modifier.",
+        "C": "This says *surprise* was walking.",
+        "D": "This says the *jasmine’s smell* was walking."
+      },
+      "tags": [
+        "modifier placement"
+      ]
+    },
+    {
+      "id": "rw-fss-06",
+      "section": "RW",
+      "skill": "form-structure-sense",
+      "difficulty": 2,
+      "type": "mcq",
+      "passage_md": "Neither the head chef nor the servers ______ aware that the delivery of fresh fish had been delayed until the first orders came in.",
+      "stem_md": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "was",
+        "were",
+        "is",
+        "has been"
+      ],
+      "answer": "B",
+      "explanation_md": "With “neither…nor,” the verb agrees with the nearer subject, “servers” (plural). The sentence is in the past, so “were” is correct.",
+      "distractor_notes": {
+        "A": "“Was” is singular, but the nearer subject, “servers,” is plural.",
+        "C": "“Is” is singular and present tense.",
+        "D": "“Has been” is singular and doesn’t fit the past time frame (“had been delayed”)."
+      },
+      "tags": [
+        "subject-verb agreement",
+        "neither/nor"
+      ]
+    },
+    {
+      "id": "rw-fss-07",
+      "section": "RW",
+      "skill": "form-structure-sense",
+      "difficulty": 2,
+      "type": "mcq",
+      "passage_md": "Coral reefs cover less than one percent of the ocean floor, yet ______ home to roughly a quarter of all known marine species.",
+      "stem_md": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "it is",
+        "they are",
+        "its",
+        "their"
+      ],
+      "answer": "B",
+      "explanation_md": "The pronoun refers to “coral reefs” (plural), so “they are” is correct.",
+      "distractor_notes": {
+        "A": "“It” is singular and doesn’t agree with “reefs.”",
+        "C": "“Its” is a possessive and leaves the clause without a verb.",
+        "D": "“Their” is a possessive and leaves the clause without a verb."
+      },
+      "tags": [
+        "pronoun agreement"
+      ]
+    },
+    {
+      "id": "rw-fss-08",
+      "section": "RW",
+      "skill": "form-structure-sense",
+      "difficulty": 2,
+      "type": "mcq",
+      "passage_md": "By the time the rescue team reached the stranded hikers, the storm ______ for nearly two days.",
+      "stem_md": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "rages",
+        "has raged",
+        "had been raging",
+        "will rage"
+      ],
+      "answer": "C",
+      "explanation_md": "“By the time the rescue team reached” sets a past moment, and the storm had been going on before and up to that moment. The past perfect progressive “had been raging” expresses that.",
+      "distractor_notes": {
+        "A": "Present tense doesn’t fit the past time frame.",
+        "B": "Present perfect links the action to the present, not to a past moment.",
+        "D": "Future tense doesn’t fit a past event."
+      },
+      "tags": [
+        "verb tense"
+      ]
+    },
+    {
+      "id": "rw-fss-09",
+      "section": "RW",
+      "skill": "form-structure-sense",
+      "difficulty": 3,
+      "type": "mcq",
+      "passage_md": "The findings of the study, which tracked more than 3,000 adults over two decades and was funded by several universities, ______ that regular walking may reduce the risk of memory loss.",
+      "stem_md": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "suggests",
+        "suggest",
+        "has suggested",
+        "is suggesting"
+      ],
+      "answer": "B",
+      "explanation_md": "The subject is “findings” (plural). The long “which…” clause describes “the study” and sits between the subject and its verb. A plural subject needs “suggest.”",
+      "distractor_notes": {
+        "A": "“Suggests” agrees with “study,” which is not the subject.",
+        "C": "“Has” is singular.",
+        "D": "“Is” is singular."
+      },
+      "tags": [
+        "subject-verb agreement"
+      ]
+    },
+    {
+      "id": "rw-fss-10",
+      "section": "RW",
+      "skill": "form-structure-sense",
+      "difficulty": 3,
+      "type": "mcq",
+      "passage_md": "The committee praised the proposal for being affordable, easy to maintain, and ______",
+      "stem_md": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "it would benefit the whole neighborhood.",
+        "beneficial to the whole neighborhood.",
+        "benefiting the whole neighborhood would happen.",
+        "the whole neighborhood would benefit from it."
+      ],
+      "answer": "B",
+      "explanation_md": "Items in a list should share the same form. “Affordable” and “easy to maintain” are adjectives or adjective phrases, so the third item should be too: “beneficial to the whole neighborhood.”",
+      "distractor_notes": {
+        "A": "This is a full clause, which breaks the parallel list.",
+        "C": "This awkward clause breaks the parallel structure.",
+        "D": "This is a full clause, which breaks the parallel list."
+      },
+      "tags": [
+        "parallel structure"
+      ]
+    },
+    {
+      "id": "rw-fss-11",
+      "section": "RW",
+      "skill": "form-structure-sense",
+      "difficulty": 3,
+      "type": "mcq",
+      "passage_md": "Every one of the paintings in the exhibition, including the three that were loaned by private collectors, ______ insured against damage during shipping.",
+      "stem_md": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "were",
+        "are",
+        "was",
+        "have been"
+      ],
+      "answer": "C",
+      "explanation_md": "The subject is “Every one” (singular). “Of the paintings” and the “including…” phrase don’t change the subject, so it takes the singular “was.”",
+      "distractor_notes": {
+        "A": "“Were” is plural; it agrees with “paintings” or “three,” neither of which is the subject.",
+        "B": "“Are” is plural.",
+        "D": "“Have been” is plural."
+      },
+      "tags": [
+        "subject-verb agreement"
+      ]
+    },
+    {
+      "id": "rw-fss-12",
+      "section": "RW",
+      "skill": "form-structure-sense",
+      "difficulty": 3,
+      "type": "mcq",
+      "passage_md": "Having analyzed decades of rainfall records from dozens of weather stations, ______",
+      "stem_md": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "the conclusion reached by climatologist Ana Brito was that the region’s dry seasons are lengthening.",
+        "the region’s dry seasons, according to climatologist Ana Brito, are lengthening.",
+        "climatologist Ana Brito concluded that the region’s dry seasons are lengthening.",
+        "it was concluded by climatologist Ana Brito that the region’s dry seasons are lengthening."
+      ],
+      "answer": "C",
+      "explanation_md": "“Having analyzed decades of rainfall records” describes whoever did the analysis, so that person must come right after the comma: “climatologist Ana Brito concluded….”",
+      "distractor_notes": {
+        "A": "This says “the conclusion” analyzed the records.",
+        "B": "This says “the region’s dry seasons” analyzed the records.",
+        "D": "“It” comes right after the modifier, so there is no clear person doing the analyzing."
+      },
+      "tags": [
+        "modifier placement"
+      ]
+    }
+  ]
+}

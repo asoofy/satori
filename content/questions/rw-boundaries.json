@@ -1,0 +1,309 @@
+{
+  "source": "satori-original",
+  "license": "CC-BY-4.0",
+  "questions": [
+    {
+      "id": "rw-bd-01",
+      "section": "RW",
+      "skill": "boundaries",
+      "difficulty": 1,
+      "type": "mcq",
+      "passage_md": "The museum opened a new wing last spring ______ it features art from more than forty countries.",
+      "stem_md": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "spring,",
+        "spring;",
+        "spring",
+        "spring, and, it"
+      ],
+      "answer": "B",
+      "explanation_md": "Both parts are independent clauses (“The museum opened a new wing last spring” and “it features art…”). A semicolon can join two independent clauses.",
+      "distractor_notes": {
+        "A": "A comma alone between two independent clauses creates a comma splice.",
+        "C": "No punctuation creates a run-on sentence.",
+        "D": "The comma after “and” is incorrect, and it repeats “it”: the result would read “and, it it features.”"
+      },
+      "tags": [
+        "semicolon",
+        "comma splice"
+      ]
+    },
+    {
+      "id": "rw-bd-02",
+      "section": "RW",
+      "skill": "boundaries",
+      "difficulty": 1,
+      "type": "mcq",
+      "passage_md": "Before the storm arrived, the farmers harvested the ______ and moved their equipment into the barn.",
+      "stem_md": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "wheat;",
+        "wheat,",
+        "wheat",
+        "wheat:"
+      ],
+      "answer": "C",
+      "explanation_md": "“Harvested the wheat and moved their equipment” is one clause with two verbs joined by “and.” No punctuation belongs between them.",
+      "distractor_notes": {
+        "A": "A semicolon needs an independent clause on each side; “and moved their equipment…” isn’t one.",
+        "B": "A comma isn’t used before “and” when it joins two verbs that share one subject.",
+        "D": "A colon would wrongly separate the verb “harvested” from the second verb that belongs with it."
+      },
+      "tags": [
+        "compound predicate"
+      ]
+    },
+    {
+      "id": "rw-bd-03",
+      "section": "RW",
+      "skill": "boundaries",
+      "difficulty": 1,
+      "type": "mcq",
+      "passage_md": "The recipe calls for three ______ flour, sugar, and butter.",
+      "stem_md": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "ingredients:",
+        "ingredients;",
+        "ingredients,",
+        "ingredients"
+      ],
+      "answer": "A",
+      "explanation_md": "A colon can follow a complete clause to introduce a list. “The recipe calls for three ingredients” is complete, and the list follows.",
+      "distractor_notes": {
+        "B": "A semicolon joins independent clauses, but “flour, sugar, and butter” isn’t a clause.",
+        "C": "A comma here is unclear; it could look like “ingredients” is the first item of the list.",
+        "D": "With no punctuation, the list runs into the sentence and reads incorrectly."
+      },
+      "tags": [
+        "colon",
+        "list"
+      ]
+    },
+    {
+      "id": "rw-bd-04",
+      "section": "RW",
+      "skill": "boundaries",
+      "difficulty": 1,
+      "type": "mcq",
+      "passage_md": "My older ______ a veterinarian in Denver, adopted two cats from the shelter where she volunteers.",
+      "stem_md": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "sister",
+        "sister,",
+        "sister;",
+        "sister:"
+      ],
+      "answer": "B",
+      "explanation_md": "“A veterinarian in Denver” is extra information describing “sister,” so it must be set off by a pair of commas. The closing comma comes after “Denver,” so an opening comma is needed after “sister.”",
+      "distractor_notes": {
+        "A": "Without an opening comma, the phrase has only one comma, which breaks up the sentence incorrectly.",
+        "C": "A semicolon can’t set off a descriptive phrase.",
+        "D": "A colon can’t open a phrase that is closed with a comma."
+      },
+      "tags": [
+        "appositive",
+        "commas"
+      ]
+    },
+    {
+      "id": "rw-bd-05",
+      "section": "RW",
+      "skill": "boundaries",
+      "difficulty": 2,
+      "type": "mcq",
+      "passage_md": "Octavia Butler’s novel *Kindred* follows a modern woman who is repeatedly pulled back in time to the early ______ the book combines science fiction with a searching look at American history.",
+      "stem_md": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "1800s,",
+        "1800s",
+        "1800s. Structured as a time-travel story,",
+        "1800s, structured as a time-travel story,"
+      ],
+      "answer": "C",
+      "explanation_md": "The text contains two independent clauses. Choice C ends the first with a period and starts the second with an introductory phrase, making two correct sentences.",
+      "distractor_notes": {
+        "A": "A comma alone between two independent clauses is a comma splice.",
+        "B": "No punctuation creates a run-on sentence.",
+        "D": "The added phrase still leaves two independent clauses joined only by commas, which is a comma splice."
+      },
+      "tags": [
+        "sentence boundary"
+      ]
+    },
+    {
+      "id": "rw-bd-06",
+      "section": "RW",
+      "skill": "boundaries",
+      "difficulty": 2,
+      "type": "mcq",
+      "passage_md": "The expedition’s ______ reached the summit on the third day, planted a small flag, and began the long descent before nightfall.",
+      "stem_md": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "leader, who had trained for years",
+        "leader, who had trained for years,",
+        "leader who had trained for years,",
+        "leader; who had trained for years,"
+      ],
+      "answer": "B",
+      "explanation_md": "“Who had trained for years” adds information about the (single) expedition leader, so it’s nonessential and needs a comma on both sides.",
+      "distractor_notes": {
+        "A": "Without the closing comma, the clause runs into the verb “reached.”",
+        "C": "A comma after the clause with none before it separates the subject from its verb.",
+        "D": "A semicolon can’t introduce a relative clause."
+      },
+      "tags": [
+        "nonessential clause"
+      ]
+    },
+    {
+      "id": "rw-bd-07",
+      "section": "RW",
+      "skill": "boundaries",
+      "difficulty": 2,
+      "type": "mcq",
+      "passage_md": "The team had a single goal for the ______ to design a water filter that could be built for less than five dollars.",
+      "stem_md": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "project:",
+        "project;",
+        "project, and",
+        "project, which was"
+      ],
+      "answer": "A",
+      "explanation_md": "The first part is a complete clause, and what follows explains what the goal was. A colon introduces that explanation.",
+      "distractor_notes": {
+        "B": "A semicolon needs an independent clause after it; “to design a water filter…” isn’t one.",
+        "C": "“And” joins the explanation as if it were a separate idea, which doesn’t make sense.",
+        "D": "“Which was” refers to “project,” but the phrase that follows describes the goal, not the project."
+      },
+      "tags": [
+        "colon"
+      ]
+    },
+    {
+      "id": "rw-bd-08",
+      "section": "RW",
+      "skill": "boundaries",
+      "difficulty": 2,
+      "type": "mcq",
+      "passage_md": "Beekeepers who want to check on a hive without agitating the bees often use ______ the smoke masks the alarm signals bees release when they sense danger.",
+      "stem_md": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "smoke,",
+        "smoke",
+        "smoke; because",
+        "smoke because"
+      ],
+      "answer": "D",
+      "explanation_md": "“Because the smoke masks…” is a dependent clause explaining why beekeepers use smoke. It attaches to the main clause with no punctuation.",
+      "distractor_notes": {
+        "A": "Without “because,” you have two independent clauses joined by a comma, which is a comma splice.",
+        "B": "Without “because” or punctuation, the result is a run-on sentence.",
+        "C": "A semicolon can’t come before a dependent clause beginning with “because.”"
+      },
+      "tags": [
+        "subordination"
+      ]
+    },
+    {
+      "id": "rw-bd-09",
+      "section": "RW",
+      "skill": "boundaries",
+      "difficulty": 3,
+      "type": "mcq",
+      "passage_md": "The survey asked residents to rank three possible uses for the empty lot: a community garden, which received the most first-place ______ a playground, which was popular with families; and a parking area, which ranked last overall.",
+      "stem_md": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "votes,",
+        "votes;",
+        "votes",
+        "votes:"
+      ],
+      "answer": "B",
+      "explanation_md": "The list items contain commas of their own (“a community garden, which…”), so the items are separated by semicolons. The semicolon after “parking area” shows this pattern, and “votes” needs one to match.",
+      "distractor_notes": {
+        "A": "A comma would blur the boundary between list items that already contain commas.",
+        "C": "No punctuation runs the first item into the second.",
+        "D": "A colon already introduced the list; a second colon would be incorrect here."
+      },
+      "tags": [
+        "semicolons in lists"
+      ]
+    },
+    {
+      "id": "rw-bd-10",
+      "section": "RW",
+      "skill": "boundaries",
+      "difficulty": 3,
+      "type": "mcq",
+      "passage_md": "In her essay “On Maps,” writer Keiko Andersen observes that every map is a kind of ______ to show a road clearly, a mapmaker must leave out the fields, fences, and houses beside it.",
+      "stem_md": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "argument:",
+        "argument,",
+        "argument",
+        "argument, which"
+      ],
+      "answer": "A",
+      "explanation_md": "“Every map is a kind of argument” is a complete clause, and the rest explains *why*: to show a road, a mapmaker must leave other things out. A colon introduces that explanation.",
+      "distractor_notes": {
+        "B": "A comma between two independent clauses creates a comma splice.",
+        "C": "No punctuation creates a run-on sentence.",
+        "D": "“Which” turns the rest into a clause that doesn’t make grammatical sense (“which to show a road clearly, a mapmaker must…”)."
+      },
+      "tags": [
+        "colon"
+      ]
+    },
+    {
+      "id": "rw-bd-11",
+      "section": "RW",
+      "skill": "boundaries",
+      "difficulty": 3,
+      "type": "mcq",
+      "passage_md": "The oldest known musical instruments are flutes carved from bird bone and mammoth ______ some of them are more than 40,000 years old.",
+      "stem_md": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "ivory, and",
+        "ivory,",
+        "ivory",
+        "ivory and,"
+      ],
+      "answer": "A",
+      "explanation_md": "Two independent clauses can be joined by a comma plus a coordinating conjunction (“and”).",
+      "distractor_notes": {
+        "B": "A comma alone creates a comma splice.",
+        "C": "No punctuation or conjunction creates a run-on.",
+        "D": "The comma must come before “and,” not after it."
+      },
+      "tags": [
+        "comma + conjunction"
+      ]
+    },
+    {
+      "id": "rw-bd-12",
+      "section": "RW",
+      "skill": "boundaries",
+      "difficulty": 3,
+      "type": "mcq",
+      "passage_md": "Among the documents in the archive is a letter from ______ to her brother, describing the flood that destroyed the family’s mill in 1872.",
+      "stem_md": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "engineer, Harriet Cole",
+        "engineer Harriet Cole",
+        "engineer, Harriet Cole,",
+        "engineer Harriet, Cole"
+      ],
+      "answer": "B",
+      "explanation_md": "In “engineer Harriet Cole,” the word “engineer” works like a title directly before the name, so no punctuation separates them: “a letter from engineer Harriet Cole to her brother.”",
+      "distractor_notes": {
+        "A": "A comma between a title-like descriptor and the name it precedes is incorrect.",
+        "C": "Commas would set the name off as extra information, but here “engineer” and the name form a single unit with no article (“the”) before it.",
+        "D": "A comma between a first and last name is incorrect."
+      },
+      "tags": [
+        "restrictive appositive"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,247 @@
+{
+  "source": "satori-original",
+  "license": "CC-BY-4.0",
+  "questions": [
+    {
+      "id": "m-adv-01",
+      "section": "MATH",
+      "skill": "nonlinear-functions",
+      "difficulty": 1,
+      "type": "spr",
+      "stem_md": "The function $h$ is defined by $h(x) = 2^x + 5$. What is the value of $h(4)$?",
+      "answer": "21",
+      "explanation_md": "$h(4) = 2^4 + 5 = 16 + 5 = 21$.",
+      "tags": ["exponential"]
+    },
+    {
+      "id": "m-adv-02",
+      "section": "MATH",
+      "skill": "nonlinear-functions",
+      "difficulty": 2,
+      "type": "mcq",
+      "stem_md": "The value of a used car, in dollars, is modeled by $V(t) = 18{,}000(0.85)^t$, where $t$ is the number of years since the car was purchased. Which statement is the best interpretation of $0.85$ in this context?",
+      "choices": [
+        "The car loses \\$0.85 of value each year.",
+        "Each year the car’s value is 85% of its value the year before.",
+        "The car loses 85% of its value each year.",
+        "The car was purchased for 85% of its original price."
+      ],
+      "answer": "B",
+      "explanation_md": "In $V(t) = a \\cdot b^t$, the base $b$ is the growth factor: each year the value is multiplied by $b$. Multiplying by 0.85 means the car keeps 85% of the previous year’s value (a 15% loss each year).",
+      "distractor_notes": {
+        "A": "A fixed dollar loss each year would be a linear model, not exponential.",
+        "C": "The car *keeps* 85% of its value, so it loses 15%.",
+        "D": "The purchase price is 18,000, the value at $t = 0$."
+      },
+      "tags": ["exponential", "interpretation"]
+    },
+    {
+      "id": "m-adv-03",
+      "section": "MATH",
+      "skill": "nonlinear-functions",
+      "difficulty": 2,
+      "type": "mcq",
+      "stem_md": "The graph of $y = (x - 3)^2 - 16$ in the $xy$-plane is a parabola. What are the $x$-intercepts of the graph?",
+      "choices": ["$(3, 0)$ and $(-16, 0)$", "$(-1, 0)$ and $(7, 0)$", "$(1, 0)$ and $(-7, 0)$", "$(-3, 0)$ and $(16, 0)$"],
+      "answer": "B",
+      "explanation_md": "Set $y = 0$: $(x - 3)^2 = 16$, so $x - 3 = \\pm 4$.\n\nThat gives $x = 7$ or $x = -1$.",
+      "distractor_notes": {
+        "A": "These use the vertex coordinates, not the intercepts.",
+        "C": "Sign errors: $x - 3 = \\pm 4$ gives $x = 7$ or $x = -1$.",
+        "D": "These read the numbers from the equation with the wrong signs."
+      },
+      "tags": ["quadratic", "intercepts"]
+    },
+    {
+      "id": "m-adv-04",
+      "section": "MATH",
+      "skill": "nonlinear-functions",
+      "difficulty": 3,
+      "type": "spr",
+      "stem_md": "A ball is thrown upward, and its height, in feet, $t$ seconds after it is thrown is modeled by $h(t) = -16t^2 + 64t + 5$. What is the maximum height, in feet, of the ball?",
+      "answer": "69",
+      "explanation_md": "The maximum occurs at the vertex, $t = -\\dfrac{b}{2a} = -\\dfrac{64}{2(-16)} = 2$.\n\n$$h(2) = -16(4) + 64(2) + 5 = -64 + 128 + 5 = 69$$",
+      "tags": ["quadratic", "vertex"]
+    },
+    {
+      "id": "m-adv-05",
+      "section": "MATH",
+      "skill": "nonlinear-functions",
+      "difficulty": 3,
+      "type": "mcq",
+      "stem_md": "The function $f$ is defined by $f(x) = a(x - 2)(x + 6)$, where $a$ is a constant. The graph of $y = f(x)$ in the $xy$-plane passes through the point $(0, -6)$. What is the minimum value of $f(x)$?",
+      "choices": ["$-6$", "$-8$", "$-2$", "$-16$"],
+      "answer": "B",
+      "explanation_md": "1. Find $a$: $f(0) = a(-2)(6) = -12a = -6$, so $a = \\frac{1}{2}$. Because $a > 0$, the parabola opens upward and has a minimum.\n2. The vertex is halfway between the zeros $x = 2$ and $x = -6$: $x = \\frac{2 + (-6)}{2} = -2$.\n3. $f(-2) = \\frac{1}{2}(-4)(4) = -8$.",
+      "distractor_notes": {
+        "A": "This is the $y$-intercept, $f(0)$, not the minimum.",
+        "C": "This is the $x$-coordinate of the vertex, not the minimum value.",
+        "D": "This is $(-4)(4)$ without multiplying by $a = \\frac{1}{2}$."
+      },
+      "tags": ["quadratic", "vertex"]
+    },
+    {
+      "id": "m-adv-06",
+      "section": "MATH",
+      "skill": "nonlinear-functions",
+      "difficulty": 1,
+      "type": "mcq",
+      "stem_md": "A population of 500 fish in a pond triples every year. Which function gives the number of fish $P(t)$ after $t$ years?",
+      "choices": ["$P(t) = 500 + 3t$", "$P(t) = 3(500)^t$", "$P(t) = 500(3)^t$", "$P(t) = 500 \\cdot 3t$"],
+      "answer": "C",
+      "explanation_md": "Tripling every year means multiplying by 3 once per year, starting from 500:\n\n$$P(t) = 500 \\cdot 3^t$$",
+      "distractor_notes": {
+        "A": "This adds 3 fish per year, which is linear.",
+        "B": "This swaps the starting value and the growth factor.",
+        "D": "This is linear growth, since $1500t$ just adds 1,500 per year."
+      },
+      "tags": ["exponential", "modeling"]
+    },
+    {
+      "id": "m-adv-07",
+      "section": "MATH",
+      "skill": "nonlinear-equations",
+      "difficulty": 1,
+      "type": "spr",
+      "stem_md": "What is the positive solution to $x^2 = 81$?",
+      "answer": "9",
+      "explanation_md": "$x = \\pm\\sqrt{81} = \\pm 9$. The positive solution is 9.",
+      "tags": []
+    },
+    {
+      "id": "m-adv-08",
+      "section": "MATH",
+      "skill": "nonlinear-equations",
+      "difficulty": 2,
+      "type": "mcq",
+      "stem_md": "What are the solutions to $2x^2 - 5x - 3 = 0$?",
+      "choices": ["$x = 3$ and $x = -\\frac{1}{2}$", "$x = -3$ and $x = \\frac{1}{2}$", "$x = 3$ and $x = \\frac{1}{2}$", "$x = 6$ and $x = -1$"],
+      "answer": "A",
+      "explanation_md": "Factor: $2x^2 - 5x - 3 = (2x + 1)(x - 3)$.\n\nSet each factor to zero: $x = -\\frac{1}{2}$ or $x = 3$.\n\nCheck $x = 3$: $18 - 15 - 3 = 0$. ✓",
+      "distractor_notes": {
+        "B": "Both signs are flipped; setting each factor to zero gives $x = 3$ and $x = -\\frac{1}{2}$.",
+        "C": "The sign of $-\\frac{1}{2}$ is wrong.",
+        "D": "These are the roots of $x^2 - 5x - 6$; the leading coefficient 2 was ignored."
+      },
+      "tags": ["factoring"]
+    },
+    {
+      "id": "m-adv-09",
+      "section": "MATH",
+      "skill": "nonlinear-equations",
+      "difficulty": 2,
+      "type": "spr",
+      "stem_md": "$$\\begin{aligned} y &= x^2 - 4 \\\\ y &= 3x \\end{aligned}$$\n\nThe system of equations above has two solutions, $(x_1, y_1)$ and $(x_2, y_2)$. What is the value of $y_1 + y_2$?",
+      "answer": "9",
+      "explanation_md": "Set the expressions equal: $x^2 - 4 = 3x$, so $x^2 - 3x - 4 = 0$ and $(x - 4)(x + 1) = 0$.\n\nThen $x = 4 \\Rightarrow y = 12$, and $x = -1 \\Rightarrow y = -3$.\n\n$y_1 + y_2 = 12 + (-3) = 9$.",
+      "tags": ["systems"]
+    },
+    {
+      "id": "m-adv-10",
+      "section": "MATH",
+      "skill": "nonlinear-equations",
+      "difficulty": 3,
+      "type": "mcq",
+      "stem_md": "In the equation $x^2 + kx + 25 = 0$, $k$ is a positive constant. If the equation has exactly one real solution, what is the value of $k$?",
+      "choices": ["$5$", "$10$", "$25$", "$50$"],
+      "answer": "B",
+      "explanation_md": "A quadratic has exactly one real solution when its discriminant is zero:\n\n$$k^2 - 4(1)(25) = 0 \\;\\Rightarrow\\; k^2 = 100 \\;\\Rightarrow\\; k = 10 \\text{ (positive)}$$\n\nCheck: $x^2 + 10x + 25 = (x + 5)^2$. ✓",
+      "distractor_notes": {
+        "A": "This is $\\sqrt{25}$; the middle coefficient of a perfect square $(x + 5)^2$ is $2 \\cdot 5 = 10$.",
+        "C": "This uses the constant term.",
+        "D": "This is $2 \\cdot 25$, which is not the perfect-square coefficient."
+      },
+      "tags": ["discriminant"]
+    },
+    {
+      "id": "m-adv-11",
+      "section": "MATH",
+      "skill": "nonlinear-equations",
+      "difficulty": 3,
+      "type": "spr",
+      "stem_md": "What is the solution to the equation $\\sqrt{2x + 11} = x + 4$?",
+      "answer": "-1",
+      "explanation_md": "Square both sides: $2x + 11 = x^2 + 8x + 16$, so $x^2 + 6x + 5 = 0$ and $(x + 1)(x + 5) = 0$.\n\nThe possible solutions are $x = -1$ and $x = -5$. **Check both in the original equation**, because squaring can create extra solutions:\n\n- $x = -1$: $\\sqrt{9} = 3$ and $-1 + 4 = 3$. ✓\n- $x = -5$: $\\sqrt{1} = 1$, but $-5 + 4 = -1$. ✗ (a square root can’t be negative)\n\nThe only solution is $x = -1$.",
+      "tags": ["radical", "extraneous solutions"]
+    },
+    {
+      "id": "m-adv-12",
+      "section": "MATH",
+      "skill": "equivalent-expressions",
+      "difficulty": 1,
+      "type": "mcq",
+      "stem_md": "Which expression is equivalent to $3x(x - 4) + 2x$?",
+      "choices": ["$3x^2 - 10x$", "$3x^2 - 12x$", "$3x^2 - 14x$", "$5x^2 - 4x$"],
+      "answer": "A",
+      "explanation_md": "Distribute: $3x^2 - 12x$. Then add $2x$: $3x^2 - 10x$.",
+      "distractor_notes": {
+        "B": "This forgot to add the $2x$.",
+        "C": "This subtracted $2x$ instead of adding it.",
+        "D": "This combined unlike terms."
+      },
+      "tags": ["distributing"]
+    },
+    {
+      "id": "m-adv-13",
+      "section": "MATH",
+      "skill": "equivalent-expressions",
+      "difficulty": 2,
+      "type": "mcq",
+      "stem_md": "Which expression is equivalent to $\\dfrac{x^2 - 9}{x + 3}$ for $x \\ne -3$?",
+      "choices": ["$x + 3$", "$x - 3$", "$x - 9$", "$x^2 - 3$"],
+      "answer": "B",
+      "explanation_md": "Factor the numerator as a difference of squares: $x^2 - 9 = (x - 3)(x + 3)$.\n\n$$\\frac{(x - 3)(x + 3)}{x + 3} = x - 3$$",
+      "distractor_notes": {
+        "A": "The factor $x + 3$ cancels; what remains is $x - 3$.",
+        "C": "You can’t cancel terms that are added or subtracted.",
+        "D": "This divided only the 9 by 3."
+      },
+      "tags": ["factoring", "rational expressions"]
+    },
+    {
+      "id": "m-adv-14",
+      "section": "MATH",
+      "skill": "equivalent-expressions",
+      "difficulty": 2,
+      "type": "mcq",
+      "stem_md": "Which expression is equivalent to $\\left(x^{3}\\right)^{2} \\cdot x^{-4}$ for $x \\ne 0$?",
+      "choices": ["$x$", "$x^2$", "$x^{10}$", "$x^{-24}$"],
+      "answer": "B",
+      "explanation_md": "Power of a power: $(x^3)^2 = x^6$. Then multiply by adding exponents: $x^6 \\cdot x^{-4} = x^{2}$.",
+      "distractor_notes": {
+        "A": "This added $3 + 2 - 4$ instead of multiplying $3 \\cdot 2$ first.",
+        "C": "This subtracted the $-4$, as if dividing by $x^{-4}$.",
+        "D": "This multiplied all the exponents together."
+      },
+      "tags": ["exponents"]
+    },
+    {
+      "id": "m-adv-15",
+      "section": "MATH",
+      "skill": "equivalent-expressions",
+      "difficulty": 3,
+      "type": "spr",
+      "stem_md": "The expression $4x^2 + bx + 9$ is equivalent to $(2x - 3)^2$. What is the value of $b$?",
+      "answer": "-12",
+      "explanation_md": "Expand: $(2x - 3)^2 = 4x^2 - 2(2x)(3) + 9 = 4x^2 - 12x + 9$.\n\nSo $b = -12$.",
+      "tags": ["perfect square"]
+    },
+    {
+      "id": "m-adv-16",
+      "section": "MATH",
+      "skill": "equivalent-expressions",
+      "difficulty": 3,
+      "type": "mcq",
+      "stem_md": "If $a^{\\frac{2}{3}} = 16$ and $a > 0$, what is the value of $a$?",
+      "choices": ["$64$", "$24$", "$\\frac{32}{3}$", "$4096$"],
+      "answer": "A",
+      "explanation_md": "Raise both sides to the $\\frac{3}{2}$ power: $a = 16^{3/2} = \\left(\\sqrt{16}\\right)^3 = 4^3 = 64$.\n\nCheck: $64^{2/3} = \\left(\\sqrt[3]{64}\\right)^2 = 4^2 = 16$. ✓",
+      "distractor_notes": {
+        "B": "This multiplied 16 by $\\frac{3}{2}$ instead of raising it to that power.",
+        "C": "This multiplied 16 by $\\frac{2}{3}$.",
+        "D": "This is $16^3$; the square root was skipped."
+      },
+      "tags": ["rational exponents"]
+    }
+  ]
+}

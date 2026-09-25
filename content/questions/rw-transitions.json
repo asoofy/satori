@@ -1,0 +1,222 @@
+{
+  "source": "satori-original",
+  "license": "CC-BY-4.0",
+  "questions": [
+    {
+      "id": "rw-tr-01",
+      "section": "RW",
+      "skill": "transitions",
+      "difficulty": 1,
+      "type": "mcq",
+      "passage_md": "The desert receives less than ten centimeters of rain a year. ______ dozens of plant species thrive there, storing water in thick stems and leaves.",
+      "stem_md": "Which choice completes the text with the most logical transition?",
+      "choices": ["Therefore,", "Nevertheless,", "For example,", "Similarly,"],
+      "answer": "B",
+      "explanation_md": "Very little rain would lead you to expect few plants, but the next sentence says dozens thrive. That’s a contrast with expectations, so “Nevertheless” fits.",
+      "distractor_notes": {
+        "A": "“Therefore” would mean that low rainfall *causes* plants to thrive, which isn’t logical.",
+        "C": "The second sentence isn’t an example of low rainfall.",
+        "D": "The sentences contrast rather than describe similar ideas."
+      },
+      "tags": ["contrast"]
+    },
+    {
+      "id": "rw-tr-02",
+      "section": "RW",
+      "skill": "transitions",
+      "difficulty": 1,
+      "type": "mcq",
+      "passage_md": "Maya practiced the piano for an hour every day for a year. ______ she was able to play the entire sonata from memory at her recital.",
+      "stem_md": "Which choice completes the text with the most logical transition?",
+      "choices": ["However,", "As a result,", "In contrast,", "Meanwhile,"],
+      "answer": "B",
+      "explanation_md": "A year of daily practice leads to playing the sonata from memory. That is cause and effect, so “As a result” fits.",
+      "distractor_notes": {
+        "A": "Nothing here is a contrast.",
+        "C": "Nothing is being contrasted.",
+        "D": "“Meanwhile” means at the same time, but the recital comes after the year of practice."
+      },
+      "tags": ["cause-effect"]
+    },
+    {
+      "id": "rw-tr-03",
+      "section": "RW",
+      "skill": "transitions",
+      "difficulty": 1,
+      "type": "mcq",
+      "passage_md": "Many foods are good sources of vitamin C. ______ oranges, strawberries, and bell peppers all contain large amounts of it.",
+      "stem_md": "Which choice completes the text with the most logical transition?",
+      "choices": ["For instance,", "However,", "Consequently,", "Instead,"],
+      "answer": "A",
+      "explanation_md": "The second sentence lists specific foods that illustrate the general claim, so “For instance” fits.",
+      "distractor_notes": {
+        "B": "The sentences agree, so no contrast is needed.",
+        "C": "The foods aren’t a consequence of the first sentence; they’re examples of it.",
+        "D": "“Instead” signals a replacement, which doesn’t fit."
+      },
+      "tags": ["example"]
+    },
+    {
+      "id": "rw-tr-04",
+      "section": "RW",
+      "skill": "transitions",
+      "difficulty": 1,
+      "type": "mcq",
+      "passage_md": "To make the bread, first mix the flour, yeast, and water into a dough. ______ let the dough rise for about an hour before shaping it.",
+      "stem_md": "Which choice completes the text with the most logical transition?",
+      "choices": ["In contrast,", "Next,", "For example,", "Finally,"],
+      "answer": "B",
+      "explanation_md": "These are steps in order (“first… then”), and the rising step comes right after mixing, with shaping still to come. “Next” fits.",
+      "distractor_notes": {
+        "A": "The steps don’t contrast with each other.",
+        "C": "Letting dough rise isn’t an example of mixing.",
+        "D": "“Finally” signals the last step, but shaping still comes afterward."
+      },
+      "tags": ["sequence"]
+    },
+    {
+      "id": "rw-tr-05",
+      "section": "RW",
+      "skill": "transitions",
+      "difficulty": 2,
+      "type": "mcq",
+      "passage_md": "Early telescopes produced blurry images because different colors of light bent by different amounts as they passed through the lens. In the 1660s, Isaac Newton sidestepped this problem by using a curved mirror instead of a lens to gather light. ______ his reflecting telescope produced sharper images than refracting telescopes of the same size.",
+      "stem_md": "Which choice completes the text with the most logical transition?",
+      "choices": ["Nonetheless,", "Similarly,", "Consequently,", "For example,"],
+      "answer": "C",
+      "explanation_md": "Using a mirror avoided the problem that blurred lens images, so the sharper images are a result. “Consequently” fits.",
+      "distractor_notes": {
+        "A": "“Nonetheless” signals an unexpected outcome, but sharper images are exactly what you’d expect.",
+        "B": "The sentence isn’t describing something similar; it’s describing a result.",
+        "D": "Sharper images aren’t an example of using a mirror; they’re an effect of it."
+      },
+      "tags": ["cause-effect", "science"]
+    },
+    {
+      "id": "rw-tr-06",
+      "section": "RW",
+      "skill": "transitions",
+      "difficulty": 2,
+      "type": "mcq",
+      "passage_md": "Most spiders spin webs to catch prey. Jumping spiders, ______ hunt by stalking their prey and leaping onto it, relying on their excellent eyesight rather than silk traps.",
+      "stem_md": "Which choice completes the text with the most logical transition?",
+      "choices": ["for instance,", "in addition,", "on the other hand,", "as a result,"],
+      "answer": "C",
+      "explanation_md": "Jumping spiders hunt differently from “most spiders,” which use webs. The contrast calls for “on the other hand.”",
+      "distractor_notes": {
+        "A": "Jumping spiders are an exception to web-spinning, not an example of it.",
+        "B": "“In addition” signals more of the same, but this is a difference.",
+        "D": "Their hunting method isn’t caused by other spiders spinning webs."
+      },
+      "tags": ["contrast"]
+    },
+    {
+      "id": "rw-tr-07",
+      "section": "RW",
+      "skill": "transitions",
+      "difficulty": 2,
+      "type": "mcq",
+      "passage_md": "The city council approved funding for a new park in the spring. Construction was expected to begin in June. ______ a dispute over the land’s ownership delayed the project by more than a year.",
+      "stem_md": "Which choice completes the text with the most logical transition?",
+      "choices": ["However,", "Therefore,", "Likewise,", "In other words,"],
+      "answer": "A",
+      "explanation_md": "Construction was *expected* in June, but a dispute delayed it. That contrast between plan and outcome calls for “However.”",
+      "distractor_notes": {
+        "B": "The delay isn’t caused by the expected start date.",
+        "C": "The delay isn’t similar to the plan; it disrupts it.",
+        "D": "The last sentence adds new information rather than restating the previous one."
+      },
+      "tags": ["contrast"]
+    },
+    {
+      "id": "rw-tr-08",
+      "section": "RW",
+      "skill": "transitions",
+      "difficulty": 2,
+      "type": "mcq",
+      "passage_md": "Chess players at the top level often spend hours studying openings, the first several moves of a game. ______ many grandmasters have memorized thousands of opening lines, sometimes twenty or more moves deep.",
+      "stem_md": "Which choice completes the text with the most logical transition?",
+      "choices": ["In fact,", "However,", "Instead,", "Still,"],
+      "answer": "A",
+      "explanation_md": "The second sentence intensifies the first: they don’t just study openings, they memorize thousands of lines. “In fact” introduces a stronger version of a point.",
+      "distractor_notes": {
+        "B": "The sentences agree, so there’s no contrast.",
+        "C": "The second sentence doesn’t replace the first.",
+        "D": "“Still” signals a concession, but nothing is being conceded."
+      },
+      "tags": ["emphasis"]
+    },
+    {
+      "id": "rw-tr-09",
+      "section": "RW",
+      "skill": "transitions",
+      "difficulty": 3,
+      "type": "mcq",
+      "passage_md": "Economists have long assumed that people save more when interest rates rise, since each dollar saved earns more. Some studies, ______ have found that higher rates can lead certain households to save *less*: if a family is saving toward a fixed goal, such as a down payment, higher returns let it reach that goal while setting aside less each month.",
+      "stem_md": "Which choice completes the text with the most logical transition?",
+      "choices": ["for example,", "however,", "therefore,", "similarly,"],
+      "answer": "B",
+      "explanation_md": "The studies found the opposite of the long-held assumption (saving *less* rather than more). “However” marks that contrast.",
+      "distractor_notes": {
+        "A": "The studies contradict the assumption rather than illustrate it.",
+        "C": "The findings don’t follow logically from the assumption.",
+        "D": "The findings differ from the assumption."
+      },
+      "tags": ["contrast", "economics"]
+    },
+    {
+      "id": "rw-tr-10",
+      "section": "RW",
+      "skill": "transitions",
+      "difficulty": 3,
+      "type": "mcq",
+      "passage_md": "The poet wrote almost entirely in traditional forms such as sonnets and villanelles, which have strict rules for rhyme and line length. Her subjects, ______ were thoroughly modern: traffic jams, office cubicles, and late-night television.",
+      "stem_md": "Which choice completes the text with the most logical transition?",
+      "choices": ["accordingly,", "by contrast,", "for instance,", "moreover,"],
+      "answer": "B",
+      "explanation_md": "Her *forms* were traditional, but her *subjects* were modern, and the transition should mark that contrast. “By contrast” fits.",
+      "distractor_notes": {
+        "A": "“Accordingly” would mean her modern subjects followed from her traditional forms.",
+        "C": "Modern subjects aren’t an example of traditional forms.",
+        "D": "“Moreover” adds a similar point, but this is a contrasting one."
+      },
+      "tags": ["contrast", "literature"]
+    },
+    {
+      "id": "rw-tr-11",
+      "section": "RW",
+      "skill": "transitions",
+      "difficulty": 3,
+      "type": "mcq",
+      "passage_md": "The researchers’ first experiment suggested that the new drug lowered blood pressure, but the study involved only twenty participants. ______ the team ran a second trial with over two thousand participants, which confirmed the original result.",
+      "stem_md": "Which choice completes the text with the most logical transition?",
+      "choices": ["To address this limitation,", "In contrast,", "For example,", "Nonetheless,"],
+      "answer": "A",
+      "explanation_md": "The small sample (twenty participants) is a weakness, and the larger trial was run to fix it. “To address this limitation” links the second trial to that problem.",
+      "distractor_notes": {
+        "B": "The second trial confirmed the first rather than contrasting with it.",
+        "C": "The second trial isn’t an example of the first.",
+        "D": "“Nonetheless” would suggest the team went ahead *despite* the limitation, when the second trial was a response to it."
+      },
+      "tags": ["purpose", "science"]
+    },
+    {
+      "id": "rw-tr-12",
+      "section": "RW",
+      "skill": "transitions",
+      "difficulty": 3,
+      "type": "mcq",
+      "passage_md": "Some historians describe the town’s 1890s growth as the result of the new railway, which brought settlers and trade. Census records complicate this story. The town’s population had already doubled in the decade *before* the railway arrived; ______ the railway may have accelerated a boom that was already underway rather than starting it.",
+      "stem_md": "Which choice completes the text with the most logical transition?",
+      "choices": ["in other words,", "similarly,", "for example,", "in contrast,"],
+      "answer": "A",
+      "explanation_md": "The final clause restates what the census data mean: if growth began before the railway, the railway sped up a boom rather than causing it. “In other words” introduces that restatement.",
+      "distractor_notes": {
+        "B": "The clause isn’t describing something similar; it explains what the data mean.",
+        "C": "The clause interprets the data rather than giving an example of them.",
+        "D": "The clause follows from the data instead of contrasting with them."
+      },
+      "tags": ["restatement", "history"]
+    }
+  ]
+}

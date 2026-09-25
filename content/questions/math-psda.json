@@ -1,0 +1,381 @@
+{
+  "source": "satori-original",
+  "license": "CC-BY-4.0",
+  "questions": [
+    {
+      "id": "m-psda-01",
+      "section": "MATH",
+      "skill": "ratios-rates-units",
+      "difficulty": 1,
+      "type": "spr",
+      "stem_md": "A printer prints 18 pages per minute. At this rate, how many minutes will it take to print 270 pages?",
+      "answer": "15",
+      "explanation_md": "$270 \\div 18 = 15$ minutes.",
+      "tags": [
+        "rates"
+      ]
+    },
+    {
+      "id": "m-psda-02",
+      "section": "MATH",
+      "skill": "ratios-rates-units",
+      "difficulty": 2,
+      "type": "mcq",
+      "stem_md": "On a map, 2 centimeters represent 15 kilometers. Two towns are 9 centimeters apart on the map. What is the actual distance, in kilometers, between the towns?",
+      "choices": [
+        "$22.5$",
+        "$\\frac{6}{5}$",
+        "$67.5$",
+        "$135$"
+      ],
+      "answer": "C",
+      "explanation_md": "Each centimeter represents $15 \\div 2 = 7.5$ km.\n\n$$9 \\times 7.5 = 67.5 \\text{ km}$$",
+      "distractor_notes": {
+        "A": "This added 15 to 7.5 instead of scaling.",
+        "B": "This set up the proportion upside down: $9 \\times \\frac{2}{15}$.",
+        "D": "This multiplied 9 by 15, forgetting that 15 km corresponds to 2 cm, not 1 cm."
+      },
+      "tags": [
+        "scale"
+      ]
+    },
+    {
+      "id": "m-psda-03",
+      "section": "MATH",
+      "skill": "ratios-rates-units",
+      "difficulty": 3,
+      "type": "spr",
+      "stem_md": "A garden hose fills a 60-gallon tank in 25 minutes. A second hose alone fills the same tank in 15 minutes. If both hoses run together, how many minutes will it take to fill the tank?",
+      "answer": "75/8",
+      "explanation_md": "Add the rates:\n\n- Hose 1: $\\frac{60}{25} = 2.4$ gallons per minute.\n- Hose 2: $\\frac{60}{15} = 4$ gallons per minute.\n- Together: $6.4$ gallons per minute.\n\nTime: $\\dfrac{60}{6.4} = 9.375 = \\dfrac{75}{8}$ minutes.\n\n(9.375 is also accepted.)",
+      "tags": [
+        "combined rates"
+      ]
+    },
+    {
+      "id": "m-psda-04",
+      "section": "MATH",
+      "skill": "percentages",
+      "difficulty": 1,
+      "type": "spr",
+      "stem_md": "What is 35% of 240?",
+      "answer": "84",
+      "explanation_md": "$0.35 \\times 240 = 84$.",
+      "tags": []
+    },
+    {
+      "id": "m-psda-05",
+      "section": "MATH",
+      "skill": "percentages",
+      "difficulty": 2,
+      "type": "mcq",
+      "stem_md": "The number of members in a hiking club increased from 80 to 92. By what percent did the number of members increase?",
+      "choices": [
+        "12%",
+        "13%",
+        "15%",
+        "87%"
+      ],
+      "answer": "C",
+      "explanation_md": "Percent change is the change divided by the **original** amount:\n\n$$\\frac{92 - 80}{80} = \\frac{12}{80} = 0.15 = 15\\%$$",
+      "distractor_notes": {
+        "A": "This is the change in members (12), not a percent.",
+        "B": "This divided by the new amount: $12/92 \\approx 13\\%$.",
+        "D": "This is $80/92$, the old amount as a percent of the new."
+      },
+      "tags": [
+        "percent change"
+      ]
+    },
+    {
+      "id": "m-psda-06",
+      "section": "MATH",
+      "skill": "percentages",
+      "difficulty": 3,
+      "type": "mcq",
+      "stem_md": "The price of a stock rose by 25% on Monday and fell by 20% on Tuesday. What was the overall percent change in the price from the start of Monday to the end of Tuesday?",
+      "choices": [
+        "A 5% increase",
+        "No change",
+        "A 5% decrease",
+        "A 45% increase"
+      ],
+      "answer": "B",
+      "explanation_md": "Multiply the factors: $1.25 \\times 0.80 = 1.00$.\n\nThe price ended exactly where it started, so there was no change.",
+      "distractor_notes": {
+        "A": "Percents of different bases can’t be added: $25\\% - 20\\% \\ne$ the overall change.",
+        "C": "The combined factor is exactly 1, so there is no decrease.",
+        "D": "This added the two percents."
+      },
+      "tags": [
+        "successive percent"
+      ]
+    },
+    {
+      "id": "m-psda-07",
+      "section": "MATH",
+      "skill": "one-var-data",
+      "difficulty": 1,
+      "type": "spr",
+      "stem_md": "What is the median of the data set $12,\\ 7,\\ 19,\\ 4,\\ 15,\\ 10$?",
+      "answer": "11",
+      "explanation_md": "Sort the data: $4, 7, 10, 12, 15, 19$.\n\nWith six values, the median is the mean of the 3rd and 4th values: $\\frac{10 + 12}{2} = 11$.",
+      "tags": [
+        "median"
+      ]
+    },
+    {
+      "id": "m-psda-08",
+      "section": "MATH",
+      "skill": "one-var-data",
+      "difficulty": 2,
+      "type": "mcq",
+      "stem_md": "A data set consists of the values $20, 22, 23, 25, 26$. A new value of $80$ is added to the data set. Which statement about the mean and median is true?",
+      "choices": [
+        "The mean and the median both increase by the same amount.",
+        "The mean increases much more than the median does.",
+        "The median increases much more than the mean does.",
+        "Neither the mean nor the median changes."
+      ],
+      "answer": "B",
+      "explanation_md": "- Mean before: $116/5 = 23.2$. After: $196/6 \\approx 32.7$, an increase of about 9.5.\n- Median before: 23. After: $\\frac{23 + 25}{2} = 24$, an increase of 1.\n\nAn outlier pulls the mean far more than the median.",
+      "distractor_notes": {
+        "A": "The mean rises about 9.5 and the median rises 1.",
+        "C": "The reverse is true: the median is resistant to outliers.",
+        "D": "Both change; the mean changes a lot."
+      },
+      "tags": [
+        "outliers"
+      ]
+    },
+    {
+      "id": "m-psda-09",
+      "section": "MATH",
+      "skill": "one-var-data",
+      "difficulty": 3,
+      "type": "mcq",
+      "stem_md": "Data set A is $\\{10, 20, 30, 40, 50\\}$. Data set B is formed by adding 5 to each value in A. Data set C is formed by multiplying each value in A by 2. Which statement is true about the standard deviations of the data sets?",
+      "choices": [
+        "A and B have the same standard deviation, and C’s is larger.",
+        "All three data sets have the same standard deviation.",
+        "B has the largest standard deviation.",
+        "A and C have the same standard deviation, and B’s is larger."
+      ],
+      "answer": "A",
+      "explanation_md": "Standard deviation measures spread. Adding the same number to every value shifts the data but doesn’t change the spread, so A and B match. Multiplying every value by 2 doubles all the distances from the mean, so C’s standard deviation is twice A’s.",
+      "distractor_notes": {
+        "B": "Scaling by 2 does change the spread.",
+        "C": "Shifting doesn’t change the spread at all.",
+        "D": "This has the two effects reversed."
+      },
+      "tags": [
+        "standard deviation"
+      ]
+    },
+    {
+      "id": "m-psda-10",
+      "section": "MATH",
+      "skill": "two-var-data",
+      "difficulty": 1,
+      "type": "mcq",
+      "stem_md": "A scatterplot shows the number of hours students studied, $x$, and their test scores, $y$. The line of best fit is $y = 4.5x + 62$. Based on this model, what is the predicted score for a student who studied 6 hours?",
+      "choices": [
+        "$62$",
+        "$72.5$",
+        "$89$",
+        "$99$"
+      ],
+      "answer": "C",
+      "explanation_md": "$y = 4.5(6) + 62 = 27 + 62 = 89$.",
+      "distractor_notes": {
+        "A": "This is the $y$-intercept, the prediction for 0 hours.",
+        "B": "This added $4.5 + 6$ instead of multiplying.",
+        "D": "Arithmetic error: $4.5 \\times 6 = 27$."
+      },
+      "tags": [
+        "line of best fit"
+      ]
+    },
+    {
+      "id": "m-psda-11",
+      "section": "MATH",
+      "skill": "two-var-data",
+      "difficulty": 2,
+      "type": "mcq",
+      "stem_md": "A study of used cars found that a car’s resale value, $v$ (in thousands of dollars), is modeled by $v = 24 - 1.8a$, where $a$ is the car’s age in years. What is the best interpretation of $1.8$ in this model?",
+      "choices": [
+        "A new car is worth \\$1,800.",
+        "The predicted value decreases by about \\$1,800 for each additional year of age.",
+        "Cars lose 1.8% of their value each year.",
+        "The average car in the study is 1.8 years old."
+      ],
+      "answer": "B",
+      "explanation_md": "1.8 is the slope: for each additional year ($a$ up by 1), the predicted value changes by $-1.8$ thousand dollars, a decrease of about \\$1,800.",
+      "distractor_notes": {
+        "A": "A new car ($a = 0$) is predicted to be worth \\$24,000.",
+        "C": "A linear model loses a fixed amount each year, not a fixed percent.",
+        "D": "The slope isn’t an average age."
+      },
+      "tags": [
+        "slope interpretation"
+      ]
+    },
+    {
+      "id": "m-psda-12",
+      "section": "MATH",
+      "skill": "two-var-data",
+      "difficulty": 3,
+      "type": "mcq",
+      "stem_md": "| $x$ | 0 | 1 | 2 | 3 | 4 |\n|---|---|---|---|---|---|\n| $y$ | 3 | 6 | 12 | 24 | 48 |\n\nWhich type of model best fits the data in the table?",
+      "choices": [
+        "Linear, increasing by 3 each step",
+        "Exponential, doubling each step",
+        "Linear, increasing by 6 each step",
+        "Quadratic, with a minimum at $x = 0$"
+      ],
+      "answer": "B",
+      "explanation_md": "The differences are 3, 6, 12, 24, so they aren’t constant and the model isn’t linear. The ratios are $6/3 = 12/6 = 24/12 = 48/24 = 2$, which are constant.\n\nA constant ratio means exponential growth: $y = 3 \\cdot 2^x$.",
+      "distractor_notes": {
+        "A": "Only the first difference is 3; the differences keep growing.",
+        "C": "The differences aren’t constant.",
+        "D": "A quadratic’s *second* differences are constant; here they are 3, 6, 12, which are not."
+      },
+      "tags": [
+        "model selection"
+      ]
+    },
+    {
+      "id": "m-psda-13",
+      "section": "MATH",
+      "skill": "probability",
+      "difficulty": 1,
+      "type": "mcq",
+      "stem_md": "A bag contains 6 red marbles, 4 blue marbles, and 10 green marbles. If one marble is chosen at random, what is the probability that it is blue?",
+      "choices": [
+        "$\\frac{1}{4}$",
+        "$\\frac{1}{5}$",
+        "$\\frac{2}{5}$",
+        "$\\frac{2}{3}$"
+      ],
+      "answer": "B",
+      "explanation_md": "There are $6 + 4 + 10 = 20$ marbles, 4 of them blue.\n\n$$P(\\text{blue}) = \\frac{4}{20} = \\frac{1}{5}$$",
+      "distractor_notes": {
+        "A": "This is $\\frac{4}{16}$, which divides by the number of non-blue marbles instead of the total.",
+        "C": "This is $\\frac{4}{10}$, blue compared with green only.",
+        "D": "This is $\\frac{4}{6}$, blue compared with red only."
+      },
+      "tags": []
+    },
+    {
+      "id": "m-psda-14",
+      "section": "MATH",
+      "skill": "probability",
+      "difficulty": 3,
+      "type": "spr",
+      "stem_md": "| | Owns a pet | Does not own a pet | Total |\n|---|---|---|---|\n| Lives in an apartment | 18 | 42 | 60 |\n| Lives in a house | 51 | 39 | 90 |\n| Total | 69 | 81 | 150 |\n\nA survey of 150 people is summarized above. If a person who owns a pet is chosen at random, what is the probability that the person lives in an apartment?",
+      "answer": "6/23",
+      "explanation_md": "“If a person who owns a pet is chosen” restricts the group to the 69 pet owners. Of those, 18 live in an apartment.\n\n$$\\frac{18}{69} = \\frac{6}{23} \\approx 0.2608$$\n\n(.2608 or .2609 is also accepted.)",
+      "tags": [
+        "conditional probability",
+        "two-way table"
+      ]
+    },
+    {
+      "id": "m-psda-15",
+      "section": "MATH",
+      "skill": "sample-statistics",
+      "difficulty": 2,
+      "type": "mcq",
+      "stem_md": "A random sample of 400 voters in a city found that 56% support a new library, with a margin of error of 5%. Which conclusion is most appropriate?",
+      "choices": [
+        "Exactly 56% of all voters in the city support the new library.",
+        "The percent of all voters in the city who support the library is plausibly between 51% and 61%.",
+        "Between 51% and 61% of the voters in the sample support the library.",
+        "Fewer than half of the voters in the city support the library."
+      ],
+      "answer": "B",
+      "explanation_md": "A margin of error gives a plausible range for the **population** value: $56\\% \\pm 5\\%$, or 51% to 61%.",
+      "distractor_notes": {
+        "A": "A sample estimate isn’t exact for the whole population.",
+        "C": "The sample value is exactly 56%; the interval describes the population.",
+        "D": "The whole plausible range is above 50%."
+      },
+      "tags": [
+        "margin of error"
+      ]
+    },
+    {
+      "id": "m-psda-16",
+      "section": "MATH",
+      "skill": "sample-statistics",
+      "difficulty": 3,
+      "type": "mcq",
+      "stem_md": "Two researchers estimate the mean height of the same tree species. Researcher A measures a random sample of 50 trees, and Researcher B measures a random sample of 500 trees. Both use the same method. Which statement is most likely true?",
+      "choices": [
+        "Researcher A’s estimate will have a smaller margin of error.",
+        "Researcher B’s estimate will have a smaller margin of error.",
+        "Both estimates will have the same margin of error.",
+        "Researcher B’s estimate will be larger than Researcher A’s."
+      ],
+      "answer": "B",
+      "explanation_md": "Larger random samples give more precise estimates, so the margin of error shrinks as the sample size grows. Researcher B’s sample is ten times larger.",
+      "distractor_notes": {
+        "A": "A smaller sample means *more* uncertainty.",
+        "C": "The margin of error depends on sample size.",
+        "D": "Sample size affects precision, not whether an estimate runs high or low."
+      },
+      "tags": [
+        "sample size"
+      ]
+    },
+    {
+      "id": "m-psda-17",
+      "section": "MATH",
+      "skill": "evaluating-claims",
+      "difficulty": 2,
+      "type": "mcq",
+      "stem_md": "Researchers surveyed people who visit a gym regularly and found that they reported sleeping better than people who don’t. Which conclusion is best supported?",
+      "choices": [
+        "Going to the gym causes people to sleep better.",
+        "Among the people surveyed, regular gym visits are associated with better reported sleep.",
+        "Sleeping better causes people to go to the gym.",
+        "Everyone who starts going to the gym will sleep better."
+      ],
+      "answer": "B",
+      "explanation_md": "This is an **observational** study: nobody was assigned to go to the gym. It can show an association but not cause and effect, because other factors (such as general health or schedules) could explain both.",
+      "distractor_notes": {
+        "A": "Establishing cause and effect requires random assignment to groups.",
+        "C": "Causation in either direction isn’t supported.",
+        "D": "This overgeneralizes beyond the data, and it’s causal."
+      },
+      "tags": [
+        "observational study"
+      ]
+    },
+    {
+      "id": "m-psda-18",
+      "section": "MATH",
+      "skill": "evaluating-claims",
+      "difficulty": 3,
+      "type": "mcq",
+      "stem_md": "A school selected 200 students at random from its 1,500 students and randomly assigned half of them to use a new reading app for a semester; the other half did not. The app group’s reading scores improved significantly more. To which group can the result most appropriately be generalized, and what can be concluded?",
+      "choices": [
+        "All students in the country; the app causes improvement.",
+        "The 1,500 students at the school; the app likely caused the greater improvement.",
+        "Only the 100 students who used the app; no causal conclusion is possible.",
+        "The 1,500 students at the school; the app is associated with improvement, but no causal conclusion is possible."
+      ],
+      "answer": "B",
+      "explanation_md": "- **Random selection** from the school’s 1,500 students lets the result generalize to that school.\n- **Random assignment** to groups supports a cause-and-effect conclusion.\n\nBoth were done, so the app likely caused the improvement for students at that school.",
+      "distractor_notes": {
+        "A": "The sample came only from this school, so the result can’t generalize to the whole country.",
+        "C": "Random assignment *does* support a causal conclusion, and random selection allows generalizing beyond the sample.",
+        "D": "Random assignment allows more than an association."
+      },
+      "tags": [
+        "experiments",
+        "generalization"
+      ]
+    }
+  ]
+}

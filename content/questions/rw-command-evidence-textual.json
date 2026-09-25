@@ -1,0 +1,282 @@
+{
+  "source": "satori-original",
+  "license": "CC-BY-4.0",
+  "questions": [
+    {
+      "id": "rw-cet-01",
+      "section": "RW",
+      "skill": "command-evidence-textual",
+      "difficulty": 1,
+      "type": "mcq",
+      "passage_md": "A biologist hypothesizes that a species of songbird learns its song by listening to adult birds rather than being born knowing it. To test this, she raises some chicks in a quiet room where they cannot hear adult birds, and others in a room where recordings of adult songs are played.",
+      "stem_md": "Which finding, if true, would most directly support the biologist’s hypothesis?",
+      "choices": [
+        "Chicks in both rooms grew to the same adult size.",
+        "Chicks raised with the recordings sang the typical adult song, while chicks raised in the quiet room sang unusual, simplified songs.",
+        "Chicks raised in the quiet room sang the typical adult song as well as the other chicks did.",
+        "Chicks in both rooms began singing at about the same age."
+      ],
+      "answer": "B",
+      "explanation_md": "If song is learned by listening, then only the chicks that heard adult songs should sing the normal song. Choice B shows exactly that difference between the two groups.",
+      "distractor_notes": {
+        "A": "Body size says nothing about how song develops.",
+        "C": "If chicks that heard no adults still sang normally, that would suggest song is inborn, which weakens the hypothesis.",
+        "D": "When the chicks start singing doesn’t show whether what they sing is learned."
+      },
+      "tags": ["science", "experiment"]
+    },
+    {
+      "id": "rw-cet-02",
+      "section": "RW",
+      "skill": "command-evidence-textual",
+      "difficulty": 1,
+      "type": "mcq",
+      "passage_md": "In the novel *The Lantern Keeper*, the narrator’s grandmother is described as someone who notices details that others overlook.",
+      "stem_md": "Which quotation from the novel most effectively illustrates this claim?",
+      "choices": [
+        "“Grandmother woke before anyone else and was always the last to sleep.”",
+        "“She had lived in the lighthouse for forty years and never once wished to leave.”",
+        "“She could tell from the color of the gulls’ feet whether a storm was two days away or three.”",
+        "“Visitors often remarked that her kitchen smelled of cinnamon and salt.”"
+      ],
+      "answer": "C",
+      "explanation_md": "The claim is about noticing overlooked details. Reading the weather from “the color of the gulls’ feet” is a vivid example of seeing a tiny detail most people would miss.",
+      "distractor_notes": {
+        "A": "This shows her schedule, not her attention to detail.",
+        "B": "This shows contentment or loyalty to the lighthouse, not observation.",
+        "D": "This is what visitors notice about her kitchen, not what she notices."
+      },
+      "tags": ["literature", "quotation"]
+    },
+    {
+      "id": "rw-cet-03",
+      "section": "RW",
+      "skill": "command-evidence-textual",
+      "difficulty": 1,
+      "type": "mcq",
+      "passage_md": "A city official claims that the new bike lanes on Harbor Avenue have made the street safer for cyclists.",
+      "stem_md": "Which finding, if true, would most directly support the official’s claim?",
+      "choices": [
+        "The number of cyclists using Harbor Avenue has doubled since the bike lanes were added.",
+        "Several nearby streets are also scheduled to get bike lanes.",
+        "Collisions involving cyclists on Harbor Avenue fell by 40 percent in the year after the lanes were added, even though bike traffic increased.",
+        "Drivers on Harbor Avenue report that they dislike the new lanes."
+      ],
+      "answer": "C",
+      "explanation_md": "“Safer” is about risk. Fewer collisions—despite more cyclists—directly supports the claim.",
+      "distractor_notes": {
+        "A": "More cyclists shows the lanes are popular, not that they’re safer.",
+        "B": "Future plans for other streets say nothing about safety on Harbor Avenue.",
+        "D": "Drivers’ opinions don’t measure cyclists’ safety."
+      },
+      "tags": ["social science"]
+    },
+    {
+      "id": "rw-cet-04",
+      "section": "RW",
+      "skill": "command-evidence-textual",
+      "difficulty": 1,
+      "type": "mcq",
+      "passage_md": "In the poem “Night Market,” the speaker suggests that the market is full of sound and motion.",
+      "stem_md": "Which quotation from the poem most effectively illustrates this claim?",
+      "choices": [
+        "“The stalls are strung with paper moons.”",
+        "“Vendors shout their prices over sizzling pans / as children dart between the carts.”",
+        "“I remember the market as it was years ago.”",
+        "“The sky above is dark and very still.”"
+      ],
+      "answer": "B",
+      "explanation_md": "The claim has two parts, sound and motion. Choice B has both: shouting and sizzling (sound) and children darting (motion).",
+      "distractor_notes": {
+        "A": "This is a visual image with no sound or movement.",
+        "C": "This is about memory and doesn’t describe the market’s activity.",
+        "D": "“Dark and very still” suggests the opposite of motion, and it describes the sky, not the market."
+      },
+      "tags": ["literature", "poetry", "quotation"]
+    },
+    {
+      "id": "rw-cet-05",
+      "section": "RW",
+      "skill": "command-evidence-textual",
+      "difficulty": 2,
+      "type": "mcq",
+      "passage_md": "Ecologist Keanu Alapaʻi suspects that invasive rats on a Pacific island reduce the number of native trees by eating their seeds. He plans to remove rats from half of the island’s forest plots and leave the other plots unchanged, then count new tree seedlings in each plot after two years.",
+      "stem_md": "Which result, if it occurred, would most strongly support Alapaʻi’s suspicion?",
+      "choices": [
+        "Both kinds of plots had similar numbers of native seedlings, but the rat-free plots had more insects.",
+        "Plots with rats had more native seedlings than rat-free plots did.",
+        "Rat-free plots had many more native seedlings than plots where rats remained.",
+        "Rats in the unchanged plots were observed eating the fruit of non-native trees."
+      ],
+      "answer": "C",
+      "explanation_md": "If rats limit native trees by eating seeds, removing them should let more seedlings grow. Choice C shows that comparison turning out as predicted.",
+      "distractor_notes": {
+        "A": "Similar seedling counts would suggest the rats *aren’t* limiting the trees; insect counts aren’t relevant.",
+        "B": "This is the opposite of the expected result, so it would weaken the suspicion.",
+        "D": "The suspicion is about native trees; rats eating non-native fruit doesn’t support it."
+      },
+      "tags": ["science", "experiment"]
+    },
+    {
+      "id": "rw-cet-06",
+      "section": "RW",
+      "skill": "command-evidence-textual",
+      "difficulty": 2,
+      "type": "mcq",
+      "passage_md": "In a 1920s novel, the character Evelyn Marsh is portrayed as outwardly calm but inwardly anxious about her family’s finances.",
+      "stem_md": "Which quotation from the novel most effectively illustrates this claim?",
+      "choices": [
+        "“Evelyn poured the tea with a steady hand and smiled at the banker’s jokes, though beneath the table she was counting, again and again, the months until the loan came due.”",
+        "“Evelyn’s family had lived in the house on Beacon Hill for three generations.”",
+        "“The banker remarked that Evelyn was the most gracious hostess in the city.”",
+        "“Evelyn worried constantly and spoke of nothing but money.”"
+      ],
+      "answer": "A",
+      "explanation_md": "The claim contrasts outward calm with inner worry about money. Choice A shows both: a “steady hand” and a smile on the surface, and anxious counting of “the months until the loan came due” underneath.",
+      "distractor_notes": {
+        "B": "This gives family history without showing Evelyn’s calm or anxiety.",
+        "C": "This shows only the calm exterior (through the banker’s eyes), not the hidden worry.",
+        "D": "Her worry here isn’t hidden—she “spoke of nothing but money”—so the contrast is missing."
+      },
+      "tags": ["literature", "quotation"]
+    },
+    {
+      "id": "rw-cet-07",
+      "section": "RW",
+      "skill": "command-evidence-textual",
+      "difficulty": 2,
+      "type": "mcq",
+      "passage_md": "Economist Hana Sato argues that when a city raises its minimum wage, restaurant prices tend to rise only slightly, because restaurants spread the extra labor cost across many menu items and some savings come from lower staff turnover.",
+      "stem_md": "Which finding, if true, would most directly support Sato’s argument?",
+      "choices": [
+        "After a minimum-wage increase, many restaurant workers reported greater job satisfaction.",
+        "In cities that raised the minimum wage by 10 percent, average restaurant menu prices rose by about 1 percent, and restaurants reported hiring fewer replacement workers.",
+        "Restaurants in cities without minimum-wage increases raised prices by about 1 percent a year.",
+        "Some restaurants closed after a minimum-wage increase, while others opened."
+      ],
+      "answer": "B",
+      "explanation_md": "Sato makes two points: prices rise only slightly, and lower turnover helps offset costs. Choice B supports both—a 10% wage increase led to about a 1% price rise, plus fewer replacement hires.",
+      "distractor_notes": {
+        "A": "Job satisfaction might be related to turnover, but this says nothing about prices.",
+        "C": "Price changes in cities *without* wage increases don’t show what happens when wages go up.",
+        "D": "Openings and closings don’t address prices or turnover."
+      },
+      "tags": ["social science", "economics"]
+    },
+    {
+      "id": "rw-cet-08",
+      "section": "RW",
+      "skill": "command-evidence-textual",
+      "difficulty": 2,
+      "type": "mcq",
+      "passage_md": "In the play *The Clockmaker’s Daughter*, the character Ines is shown to value honesty even when it is inconvenient for her.",
+      "stem_md": "Which quotation from the play most effectively illustrates this claim?",
+      "choices": [
+        "INES: “Father’s clocks are the finest in the province. Everyone says so.”",
+        "INES: “I could tell the magistrate the clock was stolen and save us the fine. But it wasn’t stolen. I broke it, and I’ll say so.”",
+        "INES: “Honesty is a fine thing for people who can afford it.”",
+        "INES: “Let us not speak of the broken clock tonight.”"
+      ],
+      "answer": "B",
+      "explanation_md": "Ines turns down an easy lie that would “save us the fine” and admits she broke the clock. That is honesty at a personal cost, exactly what the claim describes.",
+      "distractor_notes": {
+        "A": "Praising her father’s clocks has nothing to do with honesty under pressure.",
+        "C": "This line sounds skeptical of honesty, which cuts against the claim.",
+        "D": "Avoiding the subject suggests evasion, not honesty."
+      },
+      "tags": ["literature", "drama", "quotation"]
+    },
+    {
+      "id": "rw-cet-09",
+      "section": "RW",
+      "skill": "command-evidence-textual",
+      "difficulty": 3,
+      "type": "mcq",
+      "passage_md": "Many archaeologists have assumed that a large stone enclosure in a highland valley was built to defend a settlement. Archaeologist Tupac Quispe proposes instead that it was a ceremonial space used only on certain dates, pointing out that its walls are low and have wide gaps that would have been hard to defend.",
+      "stem_md": "Which finding, if true, would most directly support Quispe’s proposal?",
+      "choices": [
+        "The enclosure’s walls were built from stone quarried several kilometers away.",
+        "Weapons found near the enclosure date from the same period as its walls.",
+        "The enclosure’s main gap lines up with the sunrise on the winter solstice, and pottery inside it appears in thin layers consistent with brief, repeated gatherings rather than continuous living.",
+        "Other settlements in the region were surrounded by tall defensive walls."
+      ],
+      "answer": "C",
+      "explanation_md": "Quispe claims the site was ceremonial and used on particular dates. A solstice alignment ties it to a calendar date, and pottery layers from “brief, repeated gatherings” point to occasional rather than continuous use. Both details support the proposal directly.",
+      "distractor_notes": {
+        "A": "Where the stone came from doesn’t tell us how the enclosure was used.",
+        "B": "Weapons from the same period would, if anything, support the defensive explanation.",
+        "D": "Tall walls elsewhere offer a contrast, but they don’t show that this enclosure was ceremonial."
+      },
+      "tags": ["history", "archaeology"]
+    },
+    {
+      "id": "rw-cet-10",
+      "section": "RW",
+      "skill": "command-evidence-textual",
+      "difficulty": 3,
+      "type": "mcq",
+      "passage_md": "Psychologist Amara Nwosu hypothesizes that people remember information better when they explain it to someone else than when they simply reread it, and that the benefit comes from having to organize the ideas, not from the social interaction itself.",
+      "stem_md": "Which finding, if true, would most strongly support the second part of Nwosu’s hypothesis?",
+      "choices": [
+        "Participants who explained a lesson to a classmate remembered more than participants who reread it.",
+        "Participants who explained a lesson aloud to an empty room remembered about as much as participants who explained it to a classmate, and both groups remembered more than those who reread it.",
+        "Participants who reread a lesson three times remembered more than those who read it once.",
+        "Participants enjoyed explaining lessons to classmates more than rereading them."
+      ],
+      "answer": "B",
+      "explanation_md": "The second part of the hypothesis says the benefit comes from organizing ideas, *not* from the social interaction. If explaining to an empty room works just as well as explaining to a person, then the audience isn’t what matters. Choice B shows exactly that.",
+      "distractor_notes": {
+        "A": "This supports the first part (explaining beats rereading) but can’t separate organizing ideas from social interaction.",
+        "C": "This compares amounts of rereading, not explaining versus rereading.",
+        "D": "Enjoyment isn’t memory, and it doesn’t address why explaining helps."
+      },
+      "tags": ["social science", "experiment"]
+    },
+    {
+      "id": "rw-cet-11",
+      "section": "RW",
+      "skill": "command-evidence-textual",
+      "difficulty": 3,
+      "type": "mcq",
+      "passage_md": "In her 1890s diary, an unnamed schoolteacher on the Nebraska prairie reveals a growing affection for the landscape she had at first found bleak.",
+      "stem_md": "Which quotation from the diary most effectively illustrates this claim?",
+      "choices": [
+        "“There is not a tree for miles, and the wind never ceases.”",
+        "“When I arrived I thought the prairie an empty page; now I find I can read it—the grasses silver before rain, gold in the evening—and I would not trade it for any orchard back East.”",
+        "“My pupils walk as far as four miles to reach the schoolhouse.”",
+        "“I have written to Mother asking her to send more books and a warmer coat.”"
+      ],
+      "answer": "B",
+      "explanation_md": "The claim describes a change from bleak to beloved. Choice B shows the change directly: the prairie was once “an empty page,” and now she wouldn’t “trade it for any orchard back East.”",
+      "distractor_notes": {
+        "A": "This shows only her early, bleak impression, with no growing affection.",
+        "C": "This is about her pupils, not how she feels about the landscape.",
+        "D": "Asking for supplies suggests hardship but not a change in her feelings."
+      },
+      "tags": ["history", "primary source", "quotation"]
+    },
+    {
+      "id": "rw-cet-12",
+      "section": "RW",
+      "skill": "command-evidence-textual",
+      "difficulty": 3,
+      "type": "mcq",
+      "passage_md": "Materials scientist Oskar Lindqvist claims that a new plant-based coating keeps cut fruit fresh mainly by slowing water loss rather than by blocking bacteria.",
+      "stem_md": "Which finding, if true, would most directly weaken Lindqvist’s claim?",
+      "choices": [
+        "Coated fruit lost water much more slowly than uncoated fruit.",
+        "The coating is made from a waxy compound found in the skin of apples.",
+        "Coated and uncoated fruit lost water at nearly the same rate, but coated fruit had far less bacterial growth and stayed fresh longer.",
+        "Customers preferred the taste of coated fruit to that of uncoated fruit."
+      ],
+      "answer": "C",
+      "explanation_md": "Lindqvist credits slower water loss. If water loss was about the same with or without the coating, yet coated fruit stayed fresh because of less bacteria, the coating works mainly by blocking bacteria. That would weaken his claim.",
+      "distractor_notes": {
+        "A": "Slower water loss fits Lindqvist’s explanation, so it supports rather than weakens it.",
+        "B": "What the coating is made of doesn’t show how it works.",
+        "D": "Taste preferences say nothing about how the coating preserves fruit."
+      },
+      "tags": ["science", "weaken"]
+    }
+  ]
+}

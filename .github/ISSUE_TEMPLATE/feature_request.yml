@@ -1,0 +1,26 @@
+name: Feature request
+description: Suggest an idea or improvement for Satori.
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: What problem would this solve?
+      description: For example, "When I review a practice test, I can't …"
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: What would you like to happen?
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives you've considered
+  - type: markdown
+    attributes:
+      value: |
+        Satori stays local-first: no accounts, no cloud, and fully usable without AI.
+        Question ideas must be original, never copied from the College Board or prep sites.

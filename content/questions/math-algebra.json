@@ -1,0 +1,242 @@
+{
+  "source": "satori-original",
+  "license": "CC-BY-4.0",
+  "questions": [
+    {
+      "id": "m-alg-01",
+      "section": "MATH",
+      "skill": "linear-equations-one-var",
+      "difficulty": 1,
+      "type": "spr",
+      "stem_md": "If $4(x - 3) = 20$, what is the value of $x$?",
+      "answer": "8",
+      "explanation_md": "Divide both sides by 4: $x - 3 = 5$. Then add 3: $x = 8$.\n\nCheck: $4(8 - 3) = 4(5) = 20$. ✓",
+      "tags": []
+    },
+    {
+      "id": "m-alg-02",
+      "section": "MATH",
+      "skill": "linear-equations-one-var",
+      "difficulty": 2,
+      "type": "mcq",
+      "stem_md": "How many solutions does the equation $3(2x + 5) = 6x + 15$ have?",
+      "choices": ["Exactly one", "Exactly two", "Infinitely many", "Zero"],
+      "answer": "C",
+      "explanation_md": "Distribute the left side: $6x + 15 = 6x + 15$.\n\nBoth sides are identical, so the equation is true for **every** value of $x$. It has infinitely many solutions.",
+      "distractor_notes": {
+        "A": "A linear equation has exactly one solution only when the $x$-coefficients on the two sides differ.",
+        "B": "A linear equation can never have exactly two solutions.",
+        "D": "Zero solutions happens when the $x$-terms match but the constants differ, such as $6x + 15 = 6x + 10$."
+      },
+      "tags": ["number of solutions"]
+    },
+    {
+      "id": "m-alg-03",
+      "section": "MATH",
+      "skill": "linear-equations-one-var",
+      "difficulty": 3,
+      "type": "spr",
+      "stem_md": "In the equation $5(kx - 2) = 15x + c$, $k$ and $c$ are constants. If the equation has infinitely many solutions, what is the value of $k + c$?",
+      "answer": "-7",
+      "explanation_md": "Distribute: $5kx - 10 = 15x + c$.\n\nFor infinitely many solutions, both sides must be identical:\n\n- $x$-coefficients: $5k = 15$, so $k = 3$.\n- Constants: $c = -10$.\n\nSo $k + c = 3 + (-10) = -7$.",
+      "tags": ["number of solutions"]
+    },
+    {
+      "id": "m-alg-04",
+      "section": "MATH",
+      "skill": "linear-functions",
+      "difficulty": 1,
+      "type": "mcq",
+      "stem_md": "A candle is 30 centimeters tall when it is lit, and it burns down at a constant rate of 1.5 centimeters per hour. Which function gives the height $h(t)$, in centimeters, of the candle $t$ hours after it is lit?",
+      "choices": ["$h(t) = 30 + 1.5t$", "$h(t) = 30 - 1.5t$", "$h(t) = 1.5 - 30t$", "$h(t) = 30t - 1.5$"],
+      "answer": "B",
+      "explanation_md": "The starting height is 30 cm (the value when $t = 0$), and it **decreases** by 1.5 cm each hour, so the slope is $-1.5$:\n\n$$h(t) = 30 - 1.5t$$",
+      "distractor_notes": {
+        "A": "This candle would grow taller over time.",
+        "C": "This swaps the starting height and the rate.",
+        "D": "This multiplies the starting height by time."
+      },
+      "tags": ["modeling"]
+    },
+    {
+      "id": "m-alg-05",
+      "section": "MATH",
+      "skill": "linear-functions",
+      "difficulty": 2,
+      "type": "mcq",
+      "stem_md": "The function $f$ is defined by $f(x) = -\\frac{2}{3}x + 4$. What is the $x$-intercept of the graph of $y = f(x)$ in the $xy$-plane?",
+      "choices": ["$(4, 0)$", "$(6, 0)$", "$(0, 4)$", "$\\left(-\\frac{2}{3}, 0\\right)$"],
+      "answer": "B",
+      "explanation_md": "The $x$-intercept is where $f(x) = 0$:\n\n$$-\\frac{2}{3}x + 4 = 0 \\;\\Rightarrow\\; \\frac{2}{3}x = 4 \\;\\Rightarrow\\; x = 6$$\n\nThe $x$-intercept is $(6, 0)$.",
+      "distractor_notes": {
+        "A": "This uses the $y$-intercept value as the $x$-value.",
+        "C": "This is the $y$-intercept.",
+        "D": "This uses the slope as the intercept."
+      },
+      "tags": ["intercepts"]
+    },
+    {
+      "id": "m-alg-06",
+      "section": "MATH",
+      "skill": "linear-functions",
+      "difficulty": 2,
+      "type": "spr",
+      "stem_md": "| $x$ | $g(x)$ |\n|---|---|\n| 2 | 11 |\n| 5 | 20 |\n| 9 | 32 |\n\nThe table shows three values of $x$ and their corresponding values of $g(x)$ for the linear function $g$. What is the value of $g(0)$?",
+      "answer": "5",
+      "explanation_md": "Slope: $\\dfrac{20 - 11}{5 - 2} = \\dfrac{9}{3} = 3$ (check: $\\dfrac{32 - 20}{9 - 5} = 3$ ✓).\n\nGo back 2 units from $x = 2$: $g(0) = 11 - 3(2) = 5$.",
+      "tags": ["table"]
+    },
+    {
+      "id": "m-alg-07",
+      "section": "MATH",
+      "skill": "linear-functions",
+      "difficulty": 3,
+      "type": "mcq",
+      "stem_md": "For the linear function $p$, $p(3) = 7$ and $p(x + 1) = p(x) - 4$ for all $x$. Which equation defines $p$?",
+      "choices": ["$p(x) = -4x + 19$", "$p(x) = 4x - 5$", "$p(x) = -4x + 7$", "$p(x) = -\\frac{1}{4}x + \\frac{31}{4}$"],
+      "answer": "A",
+      "explanation_md": "$p(x + 1) = p(x) - 4$ means that each time $x$ increases by 1, $p$ decreases by 4, so the slope is $-4$.\n\nSo $p(x) = -4x + b$. Using $p(3) = 7$: $-12 + b = 7$, so $b = 19$.\n\n$$p(x) = -4x + 19$$",
+      "distractor_notes": {
+        "B": "This has the wrong sign on the slope, since $p$ decreases.",
+        "C": "This uses $p(3)$ as the $y$-intercept, but the intercept is $p(0)$.",
+        "D": "This uses the reciprocal of the rate of change as the slope."
+      },
+      "tags": ["function notation"]
+    },
+    {
+      "id": "m-alg-08",
+      "section": "MATH",
+      "skill": "linear-equations-two-var",
+      "difficulty": 1,
+      "type": "mcq",
+      "stem_md": "A store sells notebooks for \\$3 each and pens for \\$2 each. Jamal spent exactly \\$24 on $n$ notebooks and $p$ pens. Which equation represents this situation?",
+      "choices": ["$3n + 2p = 24$", "$2n + 3p = 24$", "$5(n + p) = 24$", "$3n = 2p + 24$"],
+      "answer": "A",
+      "explanation_md": "Notebooks cost $3n$ dollars and pens cost $2p$ dollars, and together they total 24:\n\n$$3n + 2p = 24$$",
+      "distractor_notes": {
+        "B": "This swaps the two prices.",
+        "C": "This charges \\$5 for every item.",
+        "D": "This sets the notebook cost equal to the pen cost plus 24."
+      },
+      "tags": ["modeling"]
+    },
+    {
+      "id": "m-alg-09",
+      "section": "MATH",
+      "skill": "linear-equations-two-var",
+      "difficulty": 2,
+      "type": "spr",
+      "stem_md": "The line with equation $2x + 5y = 30$ crosses the $y$-axis at the point $(0, b)$. What is the value of $b$?",
+      "answer": "6",
+      "explanation_md": "On the $y$-axis, $x = 0$: $5y = 30$, so $y = 6$. So $b = 6$.",
+      "tags": ["intercepts"]
+    },
+    {
+      "id": "m-alg-10",
+      "section": "MATH",
+      "skill": "linear-equations-two-var",
+      "difficulty": 3,
+      "type": "mcq",
+      "stem_md": "Line $\\ell$ in the $xy$-plane is perpendicular to the line with equation $y = \\frac{3}{4}x - 2$ and passes through the point $(6, 1)$. Which equation defines line $\\ell$?",
+      "choices": ["$y = \\frac{3}{4}x - \\frac{7}{2}$", "$y = -\\frac{4}{3}x + 9$", "$y = -\\frac{4}{3}x - 7$", "$y = \\frac{4}{3}x - 7$"],
+      "answer": "B",
+      "explanation_md": "Perpendicular slopes are negative reciprocals, so the slope of $\\ell$ is $-\\frac{4}{3}$.\n\nUse $(6, 1)$: $1 = -\\frac{4}{3}(6) + b = -8 + b$, so $b = 9$.\n\n$$y = -\\frac{4}{3}x + 9$$",
+      "distractor_notes": {
+        "A": "This line is parallel, not perpendicular.",
+        "C": "This has the right slope but a sign error in the intercept: $1 = -8 + b$ gives $b = 9$, not $-7$.",
+        "D": "This uses the reciprocal without changing the sign."
+      },
+      "tags": ["perpendicular lines"]
+    },
+    {
+      "id": "m-alg-11",
+      "section": "MATH",
+      "skill": "systems-linear",
+      "difficulty": 1,
+      "type": "spr",
+      "stem_md": "$$\\begin{aligned} y &= 3x \\\\ x + y &= 20 \\end{aligned}$$\n\nIf $(x, y)$ is the solution to the system of equations above, what is the value of $y$?",
+      "answer": "15",
+      "explanation_md": "Substitute $y = 3x$ into the second equation: $x + 3x = 20$, so $4x = 20$ and $x = 5$.\n\nThen $y = 3(5) = 15$.",
+      "tags": ["substitution"]
+    },
+    {
+      "id": "m-alg-12",
+      "section": "MATH",
+      "skill": "systems-linear",
+      "difficulty": 2,
+      "type": "mcq",
+      "stem_md": "A theater sold 200 tickets for a show. Adult tickets cost \\$12 and student tickets cost \\$7. The theater collected \\$1,900 in total. How many adult tickets were sold?",
+      "choices": ["80", "100", "120", "140"],
+      "answer": "B",
+      "explanation_md": "Let $a$ be the number of adult tickets and $s$ the number of student tickets:\n\n$$a + s = 200, \\qquad 12a + 7s = 1900$$\n\nSubstitute $s = 200 - a$: $12a + 1400 - 7a = 1900$, so $5a = 500$ and $a = 100$.\n\nCheck: $100 \\cdot 12 + 100 \\cdot 7 = 1200 + 700 = 1900$. ✓",
+      "distractor_notes": {
+        "A": "With 80 adult tickets: $960 + 120 \\cdot 7 = 1800 \\ne 1900$.",
+        "C": "With 120 adult tickets: $1440 + 80 \\cdot 7 = 2000 \\ne 1900$.",
+        "D": "With 140 adult tickets: $1680 + 60 \\cdot 7 = 2100 \\ne 1900$."
+      },
+      "tags": ["word problem"]
+    },
+    {
+      "id": "m-alg-13",
+      "section": "MATH",
+      "skill": "systems-linear",
+      "difficulty": 3,
+      "type": "spr",
+      "stem_md": "$$\\begin{aligned} 6x - 4y &= 9 \\\\ ax - 10y &= 20 \\end{aligned}$$\n\nIn the system of equations above, $a$ is a constant. For what value of $a$ does the system have no solution?",
+      "answer": "15",
+      "explanation_md": "A system of two lines has no solution when the lines are parallel and distinct: same slope, different intercepts.\n\nThe $y$-coefficients have ratio $\\frac{-10}{-4} = \\frac{5}{2}$, so the $x$-coefficients need the same ratio: $a = \\frac{5}{2}(6) = 15$.\n\nCheck that the lines are distinct: $\\frac{5}{2}(9) = 22.5 \\ne 20$. ✓ So $a = 15$.",
+      "tags": ["no solution"]
+    },
+    {
+      "id": "m-alg-14",
+      "section": "MATH",
+      "skill": "linear-inequalities",
+      "difficulty": 1,
+      "type": "mcq",
+      "stem_md": "Which of the following values of $x$ satisfies $2x - 7 > 5$?",
+      "choices": ["$4$", "$5$", "$6$", "$7$"],
+      "answer": "D",
+      "explanation_md": "Add 7 to both sides: $2x > 12$. Divide by 2: $x > 6$.\n\nOnly 7 is greater than 6.",
+      "distractor_notes": {
+        "A": "$2(4) - 7 = 1$, which isn’t greater than 5.",
+        "B": "$2(5) - 7 = 3$, which isn’t greater than 5.",
+        "C": "$2(6) - 7 = 5$, which equals 5 but isn’t *greater* than 5."
+      },
+      "tags": []
+    },
+    {
+      "id": "m-alg-15",
+      "section": "MATH",
+      "skill": "linear-inequalities",
+      "difficulty": 2,
+      "type": "mcq",
+      "stem_md": "A delivery van can carry at most 1,500 pounds. The driver weighs 180 pounds, and each package weighs 40 pounds. Which inequality represents the number of packages, $p$, the van can carry along with the driver?",
+      "choices": ["$40p + 180 \\le 1500$", "$40p + 180 \\ge 1500$", "$180p + 40 \\le 1500$", "$40p \\le 1500 + 180$"],
+      "answer": "A",
+      "explanation_md": "The total weight is the packages ($40p$) plus the driver (180), and “at most 1,500” means $\\le 1500$:\n\n$$40p + 180 \\le 1500$$",
+      "distractor_notes": {
+        "B": "“At most” means less than or equal to, not greater than or equal to.",
+        "C": "This swaps the driver’s weight and the package weight.",
+        "D": "This adds the driver’s weight to the capacity instead of counting it against the capacity."
+      },
+      "tags": ["modeling"]
+    },
+    {
+      "id": "m-alg-16",
+      "section": "MATH",
+      "skill": "linear-inequalities",
+      "difficulty": 3,
+      "type": "mcq",
+      "stem_md": "$$\\begin{aligned} y &\\le -x + 6 \\\\ y &> 2x - 3 \\end{aligned}$$\n\nWhich point $(x, y)$ is a solution to the system of inequalities above?",
+      "choices": ["$(4, 1)$", "$(3, 3)$", "$(0, 0)$", "$(-2, 9)$"],
+      "answer": "C",
+      "explanation_md": "Test each point in **both** inequalities.\n\n$(0, 0)$: $0 \\le 6$ ✓ and $0 > -3$ ✓, so it works.",
+      "distractor_notes": {
+        "A": "$(4, 1)$: $1 \\le 2$ ✓, but $1 > 5$ ✗.",
+        "B": "$(3, 3)$: $3 \\le 3$ ✓, but $3 > 3$ ✗ (the inequality is strict).",
+        "D": "$(-2, 9)$: $9 \\le 8$ ✗."
+      },
+      "tags": ["systems of inequalities"]
+    }
+  ]
+}

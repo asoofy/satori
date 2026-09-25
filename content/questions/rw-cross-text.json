@@ -1,0 +1,282 @@
+{
+  "source": "satori-original",
+  "license": "CC-BY-4.0",
+  "questions": [
+    {
+      "id": "rw-ctc-01",
+      "section": "RW",
+      "skill": "cross-text-connections",
+      "difficulty": 1,
+      "type": "mcq",
+      "passage_md": "**Text 1**\n\nHomework helps students practice skills they learned in class. Without regular practice at home, many students forget new material before the next lesson.\n\n**Text 2**\n\nHomework can be useful, but only in moderation. Studies suggest that beyond about two hours a night, extra homework adds stress without improving learning for high school students.",
+      "stem_md": "Based on the texts, how would the author of Text 2 most likely respond to the claim in Text 1?",
+      "choices": [
+        "By agreeing that homework can help, while cautioning that too much of it is counterproductive",
+        "By arguing that homework never helps students learn",
+        "By claiming that students remember everything they learn in class",
+        "By insisting that students should do more than two hours of homework a night"
+      ],
+      "answer": "A",
+      "explanation_md": "Text 2 grants that homework “can be useful” but adds a limit: too much causes stress without better learning. So its author would partly agree with Text 1 and add that caution.",
+      "distractor_notes": {
+        "B": "Text 2 says homework “can be useful,” so “never” is too extreme.",
+        "C": "Neither text claims this.",
+        "D": "Text 2 argues against going beyond about two hours."
+      },
+      "tags": ["paired texts"]
+    },
+    {
+      "id": "rw-ctc-02",
+      "section": "RW",
+      "skill": "cross-text-connections",
+      "difficulty": 1,
+      "type": "mcq",
+      "passage_md": "**Text 1**\n\nDinosaurs were once pictured as slow, cold-blooded reptiles that dragged their tails on the ground. That image persisted in museums for decades.\n\n**Text 2**\n\nFossil trackways show few tail-drag marks, and bone studies suggest that many dinosaurs grew quickly, as warm-blooded animals do. Today most paleontologists picture dinosaurs as active animals that held their tails off the ground.",
+      "stem_md": "Which choice best describes how Text 2 relates to Text 1?",
+      "choices": [
+        "Text 2 offers evidence that supports the older view described in Text 1.",
+        "Text 2 presents evidence that has led scientists to revise the view described in Text 1.",
+        "Text 2 describes the museums mentioned in Text 1.",
+        "Text 2 argues that dinosaurs were smaller than Text 1 suggests."
+      ],
+      "answer": "B",
+      "explanation_md": "Text 1 describes an old image (slow, tail-dragging). Text 2 gives evidence against it (few tail marks, fast growth) and describes the updated view.",
+      "distractor_notes": {
+        "A": "Text 2’s evidence challenges the older view rather than supporting it.",
+        "C": "Text 2 is about fossil evidence, not museums.",
+        "D": "Size is never discussed."
+      },
+      "tags": ["paired texts", "science"]
+    },
+    {
+      "id": "rw-ctc-03",
+      "section": "RW",
+      "skill": "cross-text-connections",
+      "difficulty": 1,
+      "type": "mcq",
+      "passage_md": "**Text 1**\n\nPublic libraries should stay open later in the evening. Many working adults can’t visit during the day, and late hours would let them use computers, borrow books, and attend classes.\n\n**Text 2**\n\nWhen the Maple Grove library extended its hours to 10 p.m., evening visits more than doubled. Most new visitors were adults who said their jobs had kept them from coming before.",
+      "stem_md": "Based on the texts, how would the author of Text 1 most likely view the results described in Text 2?",
+      "choices": [
+        "As evidence that supports the argument for longer library hours",
+        "As proof that libraries should close earlier",
+        "As irrelevant, because Text 1 is about children rather than adults",
+        "As a sign that libraries need fewer computers"
+      ],
+      "answer": "A",
+      "explanation_md": "Text 1 argues that working adults would use later hours. Text 2 shows that exactly this happened at Maple Grove, so the author of Text 1 would see it as support.",
+      "distractor_notes": {
+        "B": "The results favor longer hours, not shorter ones.",
+        "C": "Text 1 is specifically about working adults.",
+        "D": "Neither text says anything about reducing computers."
+      },
+      "tags": ["paired texts"]
+    },
+    {
+      "id": "rw-ctc-04",
+      "section": "RW",
+      "skill": "cross-text-connections",
+      "difficulty": 1,
+      "type": "mcq",
+      "passage_md": "**Text 1**\n\nFor centuries, people have believed that goldfish have a memory span of only three seconds.\n\n**Text 2**\n\nIn experiments, goldfish have learned to push levers for food and remembered the task months later. They can even be trained to respond to particular sounds.",
+      "stem_md": "Which choice best describes how Text 2 relates to Text 1?",
+      "choices": [
+        "Text 2 explains why the belief in Text 1 is correct.",
+        "Text 2 provides evidence that contradicts the belief described in Text 1.",
+        "Text 2 describes how the belief in Text 1 first spread.",
+        "Text 2 agrees with Text 1 but adds that goldfish cannot hear."
+      ],
+      "answer": "B",
+      "explanation_md": "Remembering a task for months directly contradicts a three-second memory.",
+      "distractor_notes": {
+        "A": "The evidence in Text 2 goes against the belief.",
+        "C": "Text 2 doesn’t discuss where the belief came from.",
+        "D": "Text 2 says goldfish respond to sounds, so they can hear, and it doesn’t agree with Text 1."
+      },
+      "tags": ["paired texts", "science"]
+    },
+    {
+      "id": "rw-ctc-05",
+      "section": "RW",
+      "skill": "cross-text-connections",
+      "difficulty": 2,
+      "type": "mcq",
+      "passage_md": "**Text 1**\n\nRewilding—returning land to a natural state by reintroducing species such as wolves or beavers—is often presented as a way to restore ecosystems to how they once were. But ecosystems change constantly, and it is rarely clear which past state should count as “natural.”\n\n**Text 2**\n\nEcologist Maren Solberg argues that rewilding should not aim to recreate any particular past. Instead, she says, it should restore ecological *processes*, such as predators controlling grazing or beavers flooding valleys, and let the landscape develop from there.",
+      "stem_md": "Based on the texts, how would Solberg (Text 2) most likely respond to the concern raised in Text 1?",
+      "choices": [
+        "She would argue that the concern is irrelevant because ecosystems never change.",
+        "She would agree that rewilding should be abandoned because its goals are unclear.",
+        "She would suggest that the concern can be avoided by focusing on restoring processes rather than a specific past state.",
+        "She would claim that scientists have already agreed on which past state is natural."
+      ],
+      "answer": "C",
+      "explanation_md": "Text 1 worries that no past state clearly counts as “natural.” Solberg sidesteps that by aiming to restore processes rather than recreate any particular past. Her approach answers the concern instead of dismissing it.",
+      "distractor_notes": {
+        "A": "Solberg’s approach expects the landscape to “develop,” which accepts that ecosystems change.",
+        "B": "Solberg supports rewilding; she just reframes its goal.",
+        "D": "Solberg’s approach avoids having to pick a past state at all."
+      },
+      "tags": ["paired texts", "science"]
+    },
+    {
+      "id": "rw-ctc-06",
+      "section": "RW",
+      "skill": "cross-text-connections",
+      "difficulty": 2,
+      "type": "mcq",
+      "passage_md": "**Text 1**\n\nSome critics dismiss graphic novels as simplified stories for readers who struggle with “real” books. But the best graphic novels ask readers to do more work, not less, interpreting how images and words interact.\n\n**Text 2**\n\nTeacher Rosa Delgado found that students who read a graphic novel version of a historical memoir remembered more details than students who read the prose version. But when asked to write about the author’s tone, the graphic-novel readers struggled more, often describing what the images showed rather than the words.",
+      "stem_md": "Based on the texts, how would the author of Text 1 most likely respond to Delgado’s finding about tone?",
+      "choices": [
+        "By arguing that it proves graphic novels are only for struggling readers",
+        "By suggesting that the students may not have been taught to interpret how the images and words work together",
+        "By agreeing that graphic novels should not be used in classrooms",
+        "By claiming that prose readers always remember more details"
+      ],
+      "answer": "B",
+      "explanation_md": "Text 1 says graphic novels require interpreting how images and words interact. Describing only the images points to a skill the students hadn’t developed, which is consistent with Text 1’s view that reading graphic novels is demanding.",
+      "distractor_notes": {
+        "A": "Text 1 argues against the view that graphic novels are simplified.",
+        "C": "Text 1 defends graphic novels.",
+        "D": "Delgado found that graphic-novel readers remembered *more* details."
+      },
+      "tags": ["paired texts"]
+    },
+    {
+      "id": "rw-ctc-07",
+      "section": "RW",
+      "skill": "cross-text-connections",
+      "difficulty": 2,
+      "type": "mcq",
+      "passage_md": "**Text 1**\n\nRemote work boosts productivity. Without commutes and office interruptions, employees can focus for longer stretches, and many companies have reported higher output since allowing work from home.\n\n**Text 2**\n\nEconomist Arjun Mehta found that remote employees completed individual tasks faster, but teams that worked fully remotely produced fewer new product ideas than teams that met in person at least twice a week.",
+      "stem_md": "Based on the texts, how would Mehta (Text 2) most likely respond to the claim in Text 1?",
+      "choices": [
+        "By agreeing that remote work helps with focused individual work, but noting that it may hurt collaborative creativity",
+        "By rejecting the claim entirely, since remote employees were slower at every kind of task",
+        "By arguing that commutes improve focus",
+        "By claiming that companies have not reported any change in output"
+      ],
+      "answer": "A",
+      "explanation_md": "Mehta’s finding partly matches Text 1 (remote employees finished individual tasks faster) and partly qualifies it (remote teams generated fewer new ideas). Choice A captures that mixed response.",
+      "distractor_notes": {
+        "B": "Mehta found remote workers were faster at individual tasks.",
+        "C": "Neither text suggests that commutes improve focus.",
+        "D": "Mehta’s study doesn’t address company reports."
+      },
+      "tags": ["paired texts", "social science"]
+    },
+    {
+      "id": "rw-ctc-08",
+      "section": "RW",
+      "skill": "cross-text-connections",
+      "difficulty": 2,
+      "type": "mcq",
+      "passage_md": "**Text 1**\n\nThe decline of honeybee colonies is often blamed on a single cause, such as a particular pesticide. Researchers who favor this view point to experiments in which bees exposed to the pesticide lost their way back to the hive.\n\n**Text 2**\n\nEntomologist Chidi Eze argues that no single factor explains colony losses. In his field studies, colonies facing only one stress—parasites, poor nutrition, or pesticides—usually survived, while colonies facing two or more at once often collapsed.",
+      "stem_md": "Based on the texts, how would Eze (Text 2) most likely respond to the researchers described in Text 1?",
+      "choices": [
+        "He would agree that one pesticide is the main cause of colony collapse.",
+        "He would argue that the pesticide may contribute to losses, but mainly in combination with other stresses.",
+        "He would claim that pesticides have no effect on bees.",
+        "He would suggest that colony losses are not actually occurring."
+      ],
+      "answer": "B",
+      "explanation_md": "Eze found that single stresses (including pesticides) usually didn’t cause collapse, while combinations often did. He would accept that the pesticide matters but reject the idea that it is the sole cause.",
+      "distractor_notes": {
+        "A": "Eze explicitly says “no single factor” explains the losses.",
+        "C": "Pesticides are one of the stresses in his studies, so he doesn’t say they have no effect.",
+        "D": "Eze studies colonies that collapsed, so he accepts that losses are real."
+      },
+      "tags": ["paired texts", "science"]
+    },
+    {
+      "id": "rw-ctc-09",
+      "section": "RW",
+      "skill": "cross-text-connections",
+      "difficulty": 3,
+      "type": "mcq",
+      "passage_md": "**Text 1**\n\nHistorians have often described the medieval period in Europe as an era of scientific stagnation between the achievements of the ancient world and the Renaissance. Few major new theories about nature, they note, emerged in these centuries.\n\n**Text 2**\n\nHistorian Sofia Marchetti points out that medieval scholars translated, copied, and commented on ancient scientific texts, often correcting errors and adding observations. Without this work, she argues, many ancient ideas would not have survived for Renaissance thinkers to build on—so judging the period only by new theories misses its contribution.",
+      "stem_md": "Based on the texts, how would Marchetti (Text 2) most likely respond to the historians discussed in Text 1?",
+      "choices": [
+        "She would agree that the medieval period made no contribution to science.",
+        "She would argue that medieval scholars produced more new theories than ancient scholars did.",
+        "She would contend that their standard for judging the period is too narrow, because preserving and refining knowledge was itself an important contribution.",
+        "She would claim that the Renaissance was less important than the medieval period."
+      ],
+      "answer": "C",
+      "explanation_md": "The historians in Text 1 judge the period by new theories. Marchetti says “judging the period only by new theories misses its contribution,” which was preserving and refining ancient work. She objects to their narrow standard.",
+      "distractor_notes": {
+        "A": "Marchetti argues that the period *did* contribute.",
+        "B": "She doesn’t claim that medieval scholars produced more new theories; she values a different kind of work.",
+        "D": "She doesn’t rank the periods; she says the Renaissance built on medieval preservation."
+      },
+      "tags": ["paired texts", "history"]
+    },
+    {
+      "id": "rw-ctc-10",
+      "section": "RW",
+      "skill": "cross-text-connections",
+      "difficulty": 3,
+      "type": "mcq",
+      "passage_md": "**Text 1**\n\nWhen a language has only a few elderly speakers left, recording them is urgent. Linguists should prioritize creating detailed dictionaries and grammars so that the language is documented before it disappears.\n\n**Text 2**\n\nLinguist Tama Rangi agrees that documentation matters but warns that dictionaries alone rarely bring a language back into use. Communities that have revived languages, she notes, did so mainly by creating settings—schools, radio programs, family gatherings—where children heard and used the language every day.",
+      "stem_md": "Based on the texts, how would Rangi (Text 2) most likely respond to the priority described in Text 1?",
+      "choices": [
+        "She would reject documentation as a waste of time.",
+        "She would accept it as valuable but insufficient for keeping a language in active use.",
+        "She would argue that elderly speakers should not be recorded.",
+        "She would claim that schools are less effective than dictionaries for reviving languages."
+      ],
+      "answer": "B",
+      "explanation_md": "Rangi “agrees that documentation matters” but says dictionaries “rarely bring a language back into use” without daily-use settings. She sees documentation as valuable but not enough.",
+      "distractor_notes": {
+        "A": "She explicitly agrees that documentation matters.",
+        "C": "Nothing suggests she opposes recording speakers.",
+        "D": "She says the reverse: daily-use settings such as schools were key."
+      },
+      "tags": ["paired texts", "humanities"]
+    },
+    {
+      "id": "rw-ctc-11",
+      "section": "RW",
+      "skill": "cross-text-connections",
+      "difficulty": 3,
+      "type": "mcq",
+      "passage_md": "**Text 1**\n\nMany nutrition studies ask participants to recall what they ate over the past week. Researcher Leah Brenner argues that such studies are unreliable, because people consistently underreport snacks and overreport vegetables.\n\n**Text 2**\n\nNutrition scientist Kofi Asante acknowledges that food recall is imperfect. But he notes that the errors tend to be similar across groups, so recall studies can still reliably show *differences* between groups—for instance, that people in one region eat more fish than people in another—even if the exact amounts are off.",
+      "stem_md": "Based on the texts, how would Asante (Text 2) most likely respond to Brenner’s argument (Text 1)?",
+      "choices": [
+        "By denying that people misreport what they eat",
+        "By arguing that the problem she identifies does not make recall studies useless for comparing groups",
+        "By agreeing that recall studies should never be used",
+        "By claiming that people overreport snacks rather than underreport them"
+      ],
+      "answer": "B",
+      "explanation_md": "Asante accepts that recall is “imperfect” but says consistent errors still allow reliable comparisons between groups. He limits Brenner’s conclusion rather than denying her point.",
+      "distractor_notes": {
+        "A": "He “acknowledges that food recall is imperfect.”",
+        "C": "He defends using recall studies for comparisons.",
+        "D": "He doesn’t dispute the direction of the errors Brenner describes."
+      },
+      "tags": ["paired texts", "science"]
+    },
+    {
+      "id": "rw-ctc-12",
+      "section": "RW",
+      "skill": "cross-text-connections",
+      "difficulty": 3,
+      "type": "mcq",
+      "passage_md": "**Text 1**\n\nArchitect Nils Berg argues that new buildings in historic districts should imitate the style of their older neighbors. Buildings that clash with their surroundings, he says, break the visual harmony that makes such districts worth preserving.\n\n**Text 2**\n\nPreservationist Amina Diallo contends that imitation can mislead: a new building made to look old blurs the line between genuine history and reproduction. She favors new buildings that match their neighbors in height, scale, and materials but are clearly of their own time.",
+      "stem_md": "Based on the texts, how would Diallo (Text 2) most likely respond to Berg’s position (Text 1)?",
+      "choices": [
+        "She would share his concern for fitting in with the surroundings but reject imitating older styles as the way to achieve it.",
+        "She would argue that new buildings in historic districts should be as different as possible from their neighbors.",
+        "She would agree completely that new buildings should copy the style of older ones.",
+        "She would claim that historic districts are not worth preserving."
+      ],
+      "answer": "A",
+      "explanation_md": "Diallo wants new buildings to match their neighbors in “height, scale, and materials” (so she cares about fitting in), but she objects to imitation because it “blurs the line” between real and reproduced history. She shares Berg’s goal but not his method.",
+      "distractor_notes": {
+        "B": "She wants buildings to match their neighbors in scale and materials, not to be as different as possible.",
+        "C": "She explicitly argues against imitation.",
+        "D": "As a preservationist she values historic districts; her concern is protecting their authenticity."
+      },
+      "tags": ["paired texts", "humanities"]
+    }
+  ]
+}

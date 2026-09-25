@@ -1,0 +1,276 @@
+{
+  "source": "satori-original",
+  "license": "CC-BY-4.0",
+  "questions": [
+    {
+      "id": "m-geo-01",
+      "section": "MATH",
+      "skill": "area-volume",
+      "difficulty": 1,
+      "type": "spr",
+      "stem_md": "A rectangle has a length of 12 inches and a perimeter of 40 inches. What is the area, in square inches, of the rectangle?",
+      "answer": "96",
+      "explanation_md": "Perimeter: $2(12) + 2w = 40$, so $2w = 16$ and $w = 8$.\n\nArea: $12 \\times 8 = 96$ square inches.",
+      "tags": [
+        "rectangle"
+      ]
+    },
+    {
+      "id": "m-geo-02",
+      "section": "MATH",
+      "skill": "area-volume",
+      "difficulty": 2,
+      "type": "mcq",
+      "stem_md": "A right circular cone has a radius of 6 centimeters and a height of 10 centimeters. What is the volume, in cubic centimeters, of the cone? (The volume of a cone is $V = \\frac{1}{3}\\pi r^2 h$.)",
+      "choices": [
+        "$120\\pi$",
+        "$360\\pi$",
+        "$20\\pi$",
+        "$60\\pi$"
+      ],
+      "answer": "A",
+      "explanation_md": "$$V = \\frac{1}{3}\\pi (6)^2 (10) = \\frac{1}{3}\\pi (36)(10) = 120\\pi$$",
+      "distractor_notes": {
+        "B": "This forgot the $\\frac{1}{3}$ (it’s the volume of a cylinder).",
+        "C": "This didn’t square the radius: $\\frac{1}{3}\\pi(6)(10) = 20\\pi$.",
+        "D": "This used $\\frac{1}{6}$ instead of $\\frac{1}{3}$."
+      },
+      "tags": [
+        "cone"
+      ]
+    },
+    {
+      "id": "m-geo-03",
+      "section": "MATH",
+      "skill": "area-volume",
+      "difficulty": 2,
+      "type": "spr",
+      "stem_md": "A rectangular fish tank is 50 centimeters long and 30 centimeters wide. Water is poured in until the tank holds 36,000 cubic centimeters of water. What is the depth of the water, in centimeters?",
+      "answer": "24",
+      "explanation_md": "Volume = length × width × depth:\n\n$$50 \\times 30 \\times d = 36{,}000 \\;\\Rightarrow\\; 1500d = 36{,}000 \\;\\Rightarrow\\; d = 24$$",
+      "tags": [
+        "prism"
+      ]
+    },
+    {
+      "id": "m-geo-04",
+      "section": "MATH",
+      "skill": "area-volume",
+      "difficulty": 3,
+      "type": "mcq",
+      "stem_md": "A sphere has a volume of $36\\pi$ cubic units. What is the surface area of the sphere? (The volume of a sphere is $\\frac{4}{3}\\pi r^3$, and its surface area is $4\\pi r^2$.)",
+      "choices": [
+        "$12\\pi$",
+        "$27\\pi$",
+        "$36\\pi$",
+        "$9\\pi$"
+      ],
+      "answer": "C",
+      "explanation_md": "1. $\\frac{4}{3}\\pi r^3 = 36\\pi \\Rightarrow r^3 = 27 \\Rightarrow r = 3$.\n2. Surface area: $4\\pi (3)^2 = 36\\pi$.\n\n(For $r = 3$, the volume and surface area happen to have the same number, but they are different measurements.)",
+      "distractor_notes": {
+        "A": "This is $4\\pi r$; the radius wasn’t squared.",
+        "B": "This is $r^3\\pi$, not the surface area.",
+        "D": "This is $\\pi r^2$ (the area of a circle with radius 3), not the sphere’s surface area $4\\pi r^2$."
+      },
+      "tags": [
+        "sphere"
+      ]
+    },
+    {
+      "id": "m-geo-05",
+      "section": "MATH",
+      "skill": "lines-angles-triangles",
+      "difficulty": 1,
+      "type": "spr",
+      "stem_md": "Two angles are supplementary. One angle measures $58^\\circ$. What is the measure, in degrees, of the other angle?",
+      "answer": "122",
+      "explanation_md": "Supplementary angles add to $180^\\circ$: $180 - 58 = 122$.",
+      "tags": [
+        "angles"
+      ]
+    },
+    {
+      "id": "m-geo-06",
+      "section": "MATH",
+      "skill": "lines-angles-triangles",
+      "difficulty": 2,
+      "type": "mcq",
+      "stem_md": "Two parallel lines are cut by a transversal. One of the angles formed measures $(3x + 10)^\\circ$, and the angle that is its alternate interior angle measures $(5x - 30)^\\circ$. What is the value of $x$?",
+      "choices": [
+        "$-20$",
+        "$20$",
+        "$25$",
+        "$70$"
+      ],
+      "answer": "B",
+      "explanation_md": "Alternate interior angles formed by parallel lines are **congruent**:\n\n$$3x + 10 = 5x - 30 \\;\\Rightarrow\\; 40 = 2x \\;\\Rightarrow\\; x = 20$$\n\n(Each angle measures $70^\\circ$.)",
+      "distractor_notes": {
+        "A": "Sign error when collecting terms: $3x + 10 = 5x - 30$ gives $2x = 40$, so $x = 20$.",
+        "C": "This treated the angles as supplementary ($8x - 20 = 180$).",
+        "D": "This is the angle measure, not $x$."
+      },
+      "tags": [
+        "parallel lines"
+      ]
+    },
+    {
+      "id": "m-geo-07",
+      "section": "MATH",
+      "skill": "lines-angles-triangles",
+      "difficulty": 2,
+      "type": "spr",
+      "stem_md": "In an isosceles triangle, the vertex angle measures $40^\\circ$. What is the measure, in degrees, of each base angle?",
+      "answer": "70",
+      "explanation_md": "The base angles are equal, and all three angles sum to $180^\\circ$:\n\n$$40 + 2b = 180 \\;\\Rightarrow\\; b = 70$$",
+      "tags": [
+        "isosceles"
+      ]
+    },
+    {
+      "id": "m-geo-08",
+      "section": "MATH",
+      "skill": "lines-angles-triangles",
+      "difficulty": 3,
+      "type": "mcq",
+      "stem_md": "In triangle $ABC$, point $D$ lies on $\\overline{AB}$ and point $E$ lies on $\\overline{AC}$ so that $\\overline{DE} \\parallel \\overline{BC}$. If $AD = 4$, $DB = 6$, and $DE = 5$, what is the length of $\\overline{BC}$?",
+      "choices": [
+        "$7.5$",
+        "$11$",
+        "$12.5$",
+        "$\\frac{10}{3}$"
+      ],
+      "answer": "C",
+      "explanation_md": "Because $\\overline{DE} \\parallel \\overline{BC}$, triangle $ADE$ is similar to triangle $ABC$.\n\n$AB = AD + DB = 10$, so the scale factor from $ADE$ to $ABC$ is $\\frac{10}{4} = 2.5$.\n\n$$BC = 2.5 \\times 5 = 12.5$$",
+      "distractor_notes": {
+        "A": "This used $\\frac{DB}{AD} = \\frac{6}{4}$ as the scale factor instead of $\\frac{AB}{AD}$.",
+        "B": "This added 6 to 5 instead of scaling.",
+        "D": "This set up the ratio upside down and used $DB$: $5 \\times \\frac{4}{6}$."
+      },
+      "tags": [
+        "similar triangles"
+      ]
+    },
+    {
+      "id": "m-geo-09",
+      "section": "MATH",
+      "skill": "right-triangles-trig",
+      "difficulty": 1,
+      "type": "mcq",
+      "stem_md": "A 13-foot ladder leans against a wall. The bottom of the ladder is 5 feet from the base of the wall. How high up the wall, in feet, does the ladder reach?",
+      "choices": [
+        "$8$",
+        "$12$",
+        "$18$",
+        "$\\sqrt{194}$"
+      ],
+      "answer": "B",
+      "explanation_md": "The ladder is the hypotenuse:\n\n$$h = \\sqrt{13^2 - 5^2} = \\sqrt{169 - 25} = \\sqrt{144} = 12$$",
+      "distractor_notes": {
+        "A": "This subtracted the lengths: $13 - 5$.",
+        "C": "This added the lengths.",
+        "D": "This added the squares, treating the ladder as a leg."
+      },
+      "tags": [
+        "pythagorean"
+      ]
+    },
+    {
+      "id": "m-geo-10",
+      "section": "MATH",
+      "skill": "right-triangles-trig",
+      "difficulty": 2,
+      "type": "mcq",
+      "stem_md": "In a $30^\\circ$-$60^\\circ$-$90^\\circ$ triangle, the side opposite the $30^\\circ$ angle has length 7. What is the length of the hypotenuse?",
+      "choices": [
+        "$7\\sqrt{3}$",
+        "$14$",
+        "$\\frac{7}{2}$",
+        "$7\\sqrt{2}$"
+      ],
+      "answer": "B",
+      "explanation_md": "In a 30-60-90 triangle the sides are in the ratio $x : x\\sqrt{3} : 2x$, where $x$ is opposite $30^\\circ$.\n\nWith $x = 7$, the hypotenuse is $2x = 14$.",
+      "distractor_notes": {
+        "A": "This is the side opposite the $60^\\circ$ angle.",
+        "C": "This halved instead of doubling.",
+        "D": "This uses the 45-45-90 ratio."
+      },
+      "tags": [
+        "special triangles"
+      ]
+    },
+    {
+      "id": "m-geo-11",
+      "section": "MATH",
+      "skill": "right-triangles-trig",
+      "difficulty": 3,
+      "type": "spr",
+      "stem_md": "In right triangle $PQR$, angle $R$ is the right angle and $\\cos P = \\frac{8}{17}$. What is the value of $\\tan P$?",
+      "answer": "15/8",
+      "explanation_md": "$\\cos P = \\frac{\\text{adjacent}}{\\text{hypotenuse}} = \\frac{8}{17}$, so take adjacent $= 8$ and hypotenuse $= 17$.\n\nOpposite: $\\sqrt{17^2 - 8^2} = \\sqrt{289 - 64} = \\sqrt{225} = 15$.\n\n$$\\tan P = \\frac{\\text{opposite}}{\\text{adjacent}} = \\frac{15}{8}$$\n\n(1.875 is also accepted.)",
+      "tags": [
+        "trig ratios"
+      ]
+    },
+    {
+      "id": "m-geo-12",
+      "section": "MATH",
+      "skill": "circles",
+      "difficulty": 1,
+      "type": "mcq",
+      "stem_md": "A circle has a diameter of 10 inches. What is its area, in square inches?",
+      "choices": [
+        "$10\\pi$",
+        "$25\\pi$",
+        "$100\\pi$",
+        "$20\\pi$"
+      ],
+      "answer": "B",
+      "explanation_md": "The radius is half the diameter: $r = 5$.\n\n$$A = \\pi r^2 = 25\\pi$$",
+      "distractor_notes": {
+        "A": "This is the circumference ($\\pi d$).",
+        "C": "This used the diameter as the radius.",
+        "D": "This is $2\\pi d$, which isn’t a formula for area or circumference."
+      },
+      "tags": [
+        "area"
+      ]
+    },
+    {
+      "id": "m-geo-13",
+      "section": "MATH",
+      "skill": "circles",
+      "difficulty": 2,
+      "type": "spr",
+      "stem_md": "The equation of a circle in the $xy$-plane is $(x + 2)^2 + (y - 7)^2 = 49$. What is the radius of the circle?",
+      "answer": "7",
+      "explanation_md": "In the standard form $(x - h)^2 + (y - k)^2 = r^2$, we have $r^2 = 49$, so $r = 7$.\n\n(The center is $(-2, 7)$.)",
+      "tags": [
+        "equation of a circle"
+      ]
+    },
+    {
+      "id": "m-geo-14",
+      "section": "MATH",
+      "skill": "circles",
+      "difficulty": 3,
+      "type": "mcq",
+      "stem_md": "Points $A$ and $B$ lie on a circle with center $O$, and the measure of central angle $AOB$ is $\\frac{2\\pi}{5}$ radians. What is the measure, in degrees, of angle $AOB$?",
+      "choices": [
+        "$36^\\circ$",
+        "$72^\\circ$",
+        "$144^\\circ$",
+        "$\\frac{2}{5}^\\circ$"
+      ],
+      "answer": "B",
+      "explanation_md": "To convert radians to degrees, multiply by $\\frac{180^\\circ}{\\pi}$:\n\n$$\\frac{2\\pi}{5} \\cdot \\frac{180^\\circ}{\\pi} = 72^\\circ$$",
+      "distractor_notes": {
+        "A": "This used $\\pi$ radians $= 90^\\circ$.",
+        "C": "This used $\\pi$ radians $= 360^\\circ$.",
+        "D": "This dropped $\\pi$ without converting."
+      },
+      "tags": [
+        "radians"
+      ]
+    }
+  ]
+}

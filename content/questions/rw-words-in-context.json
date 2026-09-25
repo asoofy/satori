@@ -1,0 +1,222 @@
+{
+  "source": "satori-original",
+  "license": "CC-BY-4.0",
+  "questions": [
+    {
+      "id": "rw-wic-01",
+      "section": "RW",
+      "skill": "words-in-context",
+      "difficulty": 1,
+      "type": "mcq",
+      "passage_md": "The hikers were ______ by the storm: rain turned the trail to mud, and they had to wait in a shelter for six hours before they could continue.",
+      "stem_md": "Which choice completes the text with the most logical and precise word or phrase?",
+      "choices": ["delayed", "encouraged", "rewarded", "amused"],
+      "answer": "A",
+      "explanation_md": "Waiting six hours before they “could continue” means the storm held them up. “Delayed” fits.",
+      "distractor_notes": {
+        "B": "Being stuck in a shelter for six hours isn’t encouraging.",
+        "C": "Nothing about the storm rewards them.",
+        "D": "The situation described is an inconvenience, not a source of amusement."
+      },
+      "tags": ["vocabulary"]
+    },
+    {
+      "id": "rw-wic-02",
+      "section": "RW",
+      "skill": "words-in-context",
+      "difficulty": 1,
+      "type": "mcq",
+      "passage_md": "Though the new phone was praised for its camera, reviewers were ______ about its battery, which often ran out before the end of the day.",
+      "stem_md": "Which choice completes the text with the most logical and precise word or phrase?",
+      "choices": ["enthusiastic", "critical", "curious", "silent"],
+      "answer": "B",
+      "explanation_md": "“Though” sets up a contrast with the praise, and the battery “often ran out.” Reviewers were negative, so “critical” fits.",
+      "distractor_notes": {
+        "A": "Enthusiasm wouldn’t contrast with the praise, and a weak battery isn’t exciting.",
+        "C": "“Curious” doesn’t express the negative judgment the battery problem calls for.",
+        "D": "The text describes what reviewers said about the battery, so they weren’t silent."
+      },
+      "tags": ["vocabulary"]
+    },
+    {
+      "id": "rw-wic-03",
+      "section": "RW",
+      "skill": "words-in-context",
+      "difficulty": 1,
+      "type": "mcq",
+      "passage_md": "Chef Aroha Tane is known for her ______ approach to cooking: she uses only ingredients grown within fifty miles of her restaurant and changes her menu every week to match what local farms are harvesting.",
+      "stem_md": "Which choice completes the text with the most logical and precise word or phrase?",
+      "choices": ["careless", "expensive", "seasonal", "foreign"],
+      "answer": "C",
+      "explanation_md": "Changing the menu to match what farms are harvesting each week means cooking with the seasons. “Seasonal” fits.",
+      "distractor_notes": {
+        "A": "Following strict rules about ingredients is the opposite of careless.",
+        "B": "Cost is never mentioned.",
+        "D": "She uses local ingredients, which is the opposite of foreign."
+      },
+      "tags": ["vocabulary"]
+    },
+    {
+      "id": "rw-wic-04",
+      "section": "RW",
+      "skill": "words-in-context",
+      "difficulty": 1,
+      "type": "mcq",
+      "passage_md": "The old bridge was ______, so the city closed it to cars until engineers could reinforce its cracked supports.",
+      "stem_md": "Which choice completes the text with the most logical and precise word or phrase?",
+      "choices": ["decorative", "unsafe", "crowded", "historic"],
+      "answer": "B",
+      "explanation_md": "Cracked supports and a closure until the bridge is reinforced point to danger. “Unsafe” fits.",
+      "distractor_notes": {
+        "A": "Being decorative wouldn’t be a reason to close a bridge.",
+        "C": "Crowding doesn’t explain the need to reinforce cracked supports.",
+        "D": "A bridge could be historic, but that doesn’t explain why it was closed."
+      },
+      "tags": ["vocabulary"]
+    },
+    {
+      "id": "rw-wic-05",
+      "section": "RW",
+      "skill": "words-in-context",
+      "difficulty": 2,
+      "type": "mcq",
+      "passage_md": "Early critics dismissed the architect’s designs as impractical, but her buildings have proven remarkably ______: many have stood for more than a century with little need for repair.",
+      "stem_md": "Which choice completes the text with the most logical and precise word or phrase?",
+      "choices": ["fashionable", "durable", "controversial", "elaborate"],
+      "answer": "B",
+      "explanation_md": "“Stood for more than a century with little need for repair” describes buildings that last. “Durable” fits, and it answers the critics’ “impractical” charge.",
+      "distractor_notes": {
+        "A": "Lasting a century is about sturdiness, not style.",
+        "C": "“Controversial” echoes the critics and doesn’t fit the praise that follows “but.”",
+        "D": "Elaborate design isn’t what “little need for repair” shows."
+      },
+      "tags": ["vocabulary"]
+    },
+    {
+      "id": "rw-wic-06",
+      "section": "RW",
+      "skill": "words-in-context",
+      "difficulty": 2,
+      "type": "mcq",
+      "passage_md": "The committee’s report was ______: it summarized two years of research in just four pages, leaving out no essential finding.",
+      "stem_md": "Which choice completes the text with the most logical and precise word or phrase?",
+      "choices": ["concise", "vague", "exhaustive", "tentative"],
+      "answer": "A",
+      "explanation_md": "The report is short (four pages) yet complete (no essential finding left out). That is what “concise” means.",
+      "distractor_notes": {
+        "B": "Leaving out no essential finding shows clarity, not vagueness.",
+        "C": "“Exhaustive” suggests long and detailed, which clashes with “just four pages.”",
+        "D": "Nothing suggests the findings were uncertain."
+      },
+      "tags": ["vocabulary"]
+    },
+    {
+      "id": "rw-wic-07",
+      "section": "RW",
+      "skill": "words-in-context",
+      "difficulty": 2,
+      "type": "mcq",
+      "passage_md": "The following text is from a story written for this collection in the style of the early 1900s.\n\nMr. Hollis was not a man to ______ his opinions. When the vicar’s sermon displeased him, he said so at the church door, loudly and at length, while the rest of the congregation shuffled past.",
+      "stem_md": "Which choice completes the text with the most logical and precise word or phrase?",
+      "choices": ["conceal", "announce", "change", "defend"],
+      "answer": "A",
+      "explanation_md": "Mr. Hollis says what he thinks “loudly and at length,” so he is not a man to *hide* his opinions. “Conceal” fits.",
+      "distractor_notes": {
+        "B": "“Not a man to announce” would mean he keeps quiet, the opposite of what the text shows.",
+        "C": "Changing his opinions isn’t discussed.",
+        "D": "“Not a man to defend” his opinions contradicts his loud complaints."
+      },
+      "tags": ["vocabulary", "literature"]
+    },
+    {
+      "id": "rw-wic-08",
+      "section": "RW",
+      "skill": "words-in-context",
+      "difficulty": 2,
+      "type": "mcq",
+      "passage_md": "Because the museum’s collection of ancient textiles is so ______, curators display each piece for only a few months at a time, then return it to dark, climate-controlled storage to protect it from light damage.",
+      "stem_md": "Which choice completes the text with the most logical and precise word or phrase?",
+      "choices": ["popular", "fragile", "colorful", "recent"],
+      "answer": "B",
+      "explanation_md": "Limiting display time and storing the textiles in dark, controlled conditions “to protect it from light damage” shows the pieces are easily harmed. “Fragile” fits.",
+      "distractor_notes": {
+        "A": "Popularity would be a reason to display them more, not less.",
+        "C": "Being colorful doesn’t explain why they need protection.",
+        "D": "They are “ancient,” not recent."
+      },
+      "tags": ["vocabulary"]
+    },
+    {
+      "id": "rw-wic-09",
+      "section": "RW",
+      "skill": "words-in-context",
+      "difficulty": 3,
+      "type": "mcq",
+      "passage_md": "Historian Camille Durand cautions against reading too much into the letter. Its author, she notes, often wrote in an ironic tone, so statements that seem to express admiration for the governor may in fact be ______ .",
+      "stem_md": "Which choice completes the text with the most logical and precise word or phrase?",
+      "choices": ["sincere", "mocking", "lengthy", "anonymous"],
+      "answer": "B",
+      "explanation_md": "Irony means saying the opposite of what one means. Admiration written in an ironic tone could actually be ridicule. “Mocking” fits.",
+      "distractor_notes": {
+        "A": "Durand warns that the admiration might *not* be what it seems, so “sincere” undercuts her point.",
+        "C": "Length has nothing to do with irony.",
+        "D": "The letter has a known author (“its author”)."
+      },
+      "tags": ["vocabulary"]
+    },
+    {
+      "id": "rw-wic-10",
+      "section": "RW",
+      "skill": "words-in-context",
+      "difficulty": 3,
+      "type": "mcq",
+      "passage_md": "The ecologist’s claim that the wetland had fully recovered was ______ by her own data: while bird counts had returned to earlier levels, three native fish species were still absent.",
+      "stem_md": "Which choice completes the text with the most logical and precise word or phrase?",
+      "choices": ["confirmed", "undermined", "inspired", "anticipated"],
+      "answer": "B",
+      "explanation_md": "“Fully recovered” conflicts with three native fish species still missing, so her data weaken her own claim. “Undermined” fits.",
+      "distractor_notes": {
+        "A": "Missing species contradict full recovery rather than confirm it.",
+        "C": "The data don’t inspire the claim; they conflict with it.",
+        "D": "“Anticipated” doesn’t express the contradiction."
+      },
+      "tags": ["vocabulary"]
+    },
+    {
+      "id": "rw-wic-11",
+      "section": "RW",
+      "skill": "words-in-context",
+      "difficulty": 3,
+      "type": "mcq",
+      "passage_md": "The following text is from an essay written for this collection in the style of the 1880s.\n\nThe traveler who hurries from city to city collects impressions as a child collects shells—eagerly, and without discrimination. Only later, at home, does he ______ them, keeping the few that reward a second look and discarding the rest.",
+      "stem_md": "Which choice completes the text with the most logical and precise word or phrase?",
+      "choices": ["sift", "multiply", "forget", "display"],
+      "answer": "A",
+      "explanation_md": "At home he sorts through his impressions, “keeping the few” and “discarding the rest.” To “sift” is to sort and separate, which contrasts with collecting “without discrimination.”",
+      "distractor_notes": {
+        "B": "He reduces his collection rather than adding to it.",
+        "C": "He keeps some impressions, so he doesn’t forget them all.",
+        "D": "Displaying doesn’t involve choosing what to keep and what to throw away."
+      },
+      "tags": ["vocabulary", "literature"]
+    },
+    {
+      "id": "rw-wic-12",
+      "section": "RW",
+      "skill": "words-in-context",
+      "difficulty": 3,
+      "type": "mcq",
+      "passage_md": "Although the two species of salamander look nearly identical, geneticist Ivan Petrov found that they have been genetically ______ for millions of years, with no evidence that the populations have interbred in all that time.",
+      "stem_md": "Which choice completes the text with the most logical and precise word or phrase?",
+      "choices": ["identical", "isolated", "combined", "dominant"],
+      "answer": "B",
+      "explanation_md": "No interbreeding for millions of years means the two gene pools have been kept apart. “Isolated” fits, and it contrasts with their similar appearance (“Although…look nearly identical”).",
+      "distractor_notes": {
+        "A": "“Although” sets up a contrast with looking identical, so the genetic finding must be a difference.",
+        "C": "Combined gene pools would require interbreeding, which didn’t happen.",
+        "D": "“Dominant” describes how genes are expressed, not whether populations mix."
+      },
+      "tags": ["vocabulary", "science"]
+    }
+  ]
+}

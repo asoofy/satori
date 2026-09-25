@@ -1,0 +1,190 @@
+@import "tailwindcss";
+
+/* Dark mode follows the data-theme attribute on <html> (set from settings, or from the OS when "system"). */
+@custom-variant dark (&:where([data-theme="dark"], [data-theme="dark"] *));
+
+:root {
+  --bg: #f7f4ee;
+  --surface: #ffffff;
+  --surface-2: #f1ede5;
+  --ink: #1f1c24;
+  --muted: #625c68;
+  --line: #e4ded3;
+  --accent: #b83c15;
+  --accent-ink: #ffffff;
+  --accent-soft: #fbe6dc;
+  --jade: #1f7657;
+  --jade-soft: #dff1e8;
+  --rose: #b4233c;
+  --rose-soft: #fbe3e7;
+  --gold: #8f5e08;
+  --gold-soft: #fbf0d7;
+  --indigo: #3f4fb5;
+  --indigo-soft: #e4e7fa;
+  --focus: #3f4fb5;
+  /* Chart series (validated for CVD separation and contrast on the surface) */
+  --series-rw: #3f4fb5;
+  --series-math: #b83c15;
+  --hl: #fde68a;
+  color-scheme: light;
+}
+
+[data-theme="dark"] {
+  --bg: #131217;
+  --surface: #1c1b22;
+  --surface-2: #24232b;
+  --ink: #eeeaf2;
+  --muted: #aaa3b1;
+  --line: #34323d;
+  --accent: #ff7b4a;
+  --accent-ink: #1a0d07;
+  --accent-soft: #3b2219;
+  --jade: #52c79a;
+  --jade-soft: #173328;
+  --rose: #ff7d93;
+  --rose-soft: #3a1b22;
+  --gold: #f0b54a;
+  --gold-soft: #3a2d12;
+  --indigo: #9aa6ff;
+  --indigo-soft: #23264a;
+  --focus: #9aa6ff;
+  --series-rw: #7b87ee;
+  --series-math: #e8683a;
+  --hl: #6b5310;
+  color-scheme: dark;
+}
+
+@theme inline {
+  --color-bg: var(--bg);
+  --color-surface: var(--surface);
+  --color-surface-2: var(--surface-2);
+  --color-ink: var(--ink);
+  --color-muted: var(--muted);
+  --color-line: var(--line);
+  --color-accent: var(--accent);
+  --color-accent-ink: var(--accent-ink);
+  --color-accent-soft: var(--accent-soft);
+  --color-jade: var(--jade);
+  --color-jade-soft: var(--jade-soft);
+  --color-rose: var(--rose);
+  --color-rose-soft: var(--rose-soft);
+  --color-gold: var(--gold);
+  --color-gold-soft: var(--gold-soft);
+  --color-indigo: var(--indigo);
+  --color-indigo-soft: var(--indigo-soft);
+  --color-series-rw: var(--series-rw);
+  --color-series-math: var(--series-math);
+  --font-sans: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  --font-serif: "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, "Times New Roman", serif;
+}
+
+html,
+body {
+  background: var(--bg);
+  color: var(--ink);
+}
+
+body {
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Visible keyboard focus everywhere */
+:focus-visible {
+  outline: 2px solid var(--focus);
+  outline-offset: 2px;
+  border-radius: 6px;
+}
+
+/* Passages and question text read better in a book face */
+.reading {
+  font-family: var(--font-serif);
+  font-size: 1.05rem;
+  line-height: 1.7;
+}
+
+/* Markdown content */
+.md p {
+  margin: 0.5em 0;
+}
+.md p:first-child {
+  margin-top: 0;
+}
+.md p:last-child {
+  margin-bottom: 0;
+}
+.md ul,
+.md ol {
+  margin: 0.5em 0;
+  padding-left: 1.4em;
+}
+.md ul {
+  list-style: disc;
+}
+.md ol {
+  list-style: decimal;
+}
+.md li {
+  margin: 0.2em 0;
+}
+.md strong {
+  font-weight: 650;
+}
+.md table {
+  border-collapse: collapse;
+  margin: 0.75em 0;
+  font-family: var(--font-sans);
+  font-size: 0.92rem;
+}
+.md th,
+.md td {
+  border: 1px solid var(--line);
+  padding: 0.35em 0.7em;
+  text-align: left;
+}
+.md th {
+  background: var(--surface-2);
+  font-weight: 600;
+}
+.md .katex-display {
+  margin: 0.6em 0;
+  overflow-x: auto;
+  overflow-y: hidden;
+  padding: 0.2em 0;
+}
+.md h1,
+.md h2,
+.md h3 {
+  font-weight: 700;
+  margin: 0.9em 0 0.4em;
+}
+.md h2 {
+  font-size: 1.2rem;
+}
+.md h3 {
+  font-size: 1.05rem;
+}
+.md code {
+  background: var(--surface-2);
+  padding: 0.1em 0.35em;
+  border-radius: 4px;
+  font-size: 0.9em;
+}
+.md blockquote {
+  border-left: 3px solid var(--line);
+  padding-left: 0.8em;
+  color: var(--muted);
+}
+
+.katex {
+  font-size: 1.08em;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}
